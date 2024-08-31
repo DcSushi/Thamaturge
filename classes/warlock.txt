@@ -1,0 +1,51 @@
+2d6hp
+6 tiles 
+5 mana per level
+
+## LVL 1
+
+- spellcasting:
+	- you know spells equal to (level+CHA)
+	- whenever you hit a creature with a damaging spell or melee attack you regain 5 mana
+	- eldritch blast costs 0 mana for you
+
+Patron font:
+
+	- Devilish:
+		- when you kill a creature, you regain hp equal to 2 times (warlock LVL + CHA)
+		- your fire spells deal additional damage equal to your charisma mod
+
+OR
+	- Fey
+		- when you are struck by an attack which deals 25% or more of your max hp, you may choose to teleport up to 3 tiles away after the attack
+OR
+	- undead 
+		- once per turn, when you land a spell attack, you may cause the targets to make a wisdom save
+		- on a failure they run 2 tiles away from you. This triggers opportunity attacks
+
+## LVL 2
+
+Warlock mark:
+	- Blade
+		- armor proficiency (1)
+		- your melee attacks deal additional damage equal to your CHA as well as STR
+OR
+	- Beast 
+		- You gain a beast companion spirit which follows your commands and has 2 action points
+			- it may bite (2 action points) +(3+CHA) to hit
+			- dash	
+			- use opportunity attacks, and brace
+		- It has hp equal to 7 times your warlock level
+OR
+	- Eye
+		- you gain an additional eldritch incantation
+
+Incantations (2)
+
+## LVL 3
+
+- 2nd level spells :D
+
+## LVL 4 
+
+- Feat :D

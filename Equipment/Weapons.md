@@ -1,3 +1,4 @@
 | weapon | damage | attributes |
 | --- | --- | --- |
-| Maul | 3d6 bludgeoning | [crusher](crusher) |
+| maul | 3d6 bludgeoning | [crusher](crusher) |
+| dagger | 1 piercing | [swift](swift) |

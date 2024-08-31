@@ -1,1 +1,1 @@
-[equipment](Equipment)
+[equipment](../Thamaturge)

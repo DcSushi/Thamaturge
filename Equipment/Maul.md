@@ -1,1 +1,2 @@
-[equipment](../Thamaturge)
+# MAUL
+- [crusher](attributes/crusher)

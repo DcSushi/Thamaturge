@@ -1,2 +1,0 @@
-# MAUL
-- [crusher](attributes/crusher)

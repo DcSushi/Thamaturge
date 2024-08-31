@@ -1,0 +1,55 @@
+- RANGER 
+
+2d6 HP
+7 movement
+5 mana per level 
+
+LVL 1 
+
+Light footed
+ - the first two instances of difficult terrain on your turn do not affect you 
+
+Natures bounty -
+ - Little buddy (EDIT LATER PLS)
+OR
+ - Horde Breaker
+OR 
+ - Wild Resilience (you gain two druid cantrips and regen 1d4 health at the start of your next turn if you took damage at least once
+
+LVL 2
+ 
+Armor proficiency (1)
+
+fighting style
+
+jack of all trades but for wisdom and also nature (+1)
+
+choose 2 druid spells (for this demo select between Armament of Thorns, Lightning Lure, hunters mark, and zephyr strike)
+
+Spells -
+
+Zephyr strike 
+1st level druid spell
+6 mana 
+0 action points (once per turn)
++ You gain 5 tiles of movement for the turn, and your next attack has +5 accuracy
+
+Armament of Thorns 
+1st level druid spell
+2 mana + 1 per turn
+2 action points
++ your weapon (applied to the ammo if on ranged) grows sharp thorns across it which deal an additional 3 piercing damage when you attack with it
+
+Lightning Lure 
+1st level 
+2 mana 
+2 action points
++ you whip one creature within 4 tiles and deal 1d6 + 3 lightning damage, pulling the creature 3 tiles towards you if they fail a strength save
+
+Faerie Fire
+1st level 
+4 mana + 1 per turn
+2 action points
++ choose a tile within 6 tiles, every creature within must make a CHA save or have all creatures make attacks against them with +3 accuracy
+
+

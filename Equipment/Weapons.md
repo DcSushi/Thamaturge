@@ -8,7 +8,7 @@
 
 ## ranged weapon mechanics and actions:
 
-* ### Movement penalty: If you fire your weapon after moving you recieve a -1 penalty to accuracy. This is removed at start of turn.
+* ### Movement penalty: After moving, future ranged attack rolls recieve a -1 to accuracy. This is removed at start of next turn
     * (you can shoot before moving with no penalty)
 * ### Steady aim: You use one action to enhance the accuracy of your next shot before the start of your next turn by 2
   

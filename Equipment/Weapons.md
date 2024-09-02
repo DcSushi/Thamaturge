@@ -6,8 +6,10 @@
 | longsword | 2d6 slashing | [versatile](versatile.md) (3d6) | versatile |
 # RANGED WEAPONS
 
-## ranged weapon actions:
+## ranged weapon mechanics and actions:
 
+* ### Movement penalty: If you fire your weapon after moving you recieve a -1 penalty to accuracy. This is removed at start of turn.
+    * (you can shoot before moving with no penalty)
 * ### Steady aim: You use one action to enhance the accuracy of your next shot before the start of your next turn by 2
   
 | weapon | damage | attributes | hands |

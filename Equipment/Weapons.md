@@ -12,5 +12,5 @@
   
 | weapon | damage | attributes | hands |
 | --- | --- | --- | --- |
-| shortbow | 2d6 piercing | [agile](agile.md) | 2 |
-| longbow | 2d6 piercing | [hefty](hefty.md) | 2 |
+| shortbow | 2d6 piercing | [agile](attributes/agile.md) | 2 |
+| longbow | 2d6 piercing | [hefty](attributes/hefty.md) | 2 |

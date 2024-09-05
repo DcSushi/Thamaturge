@@ -11,5 +11,15 @@
 ### [Spellcasting](spellcasting.md/enchanterlist.md):
 
 * the enchanter casts spells using runes which can be placed on surfaces.
-  * when casting spells, you instead place a rune on any surface within the spells range, using the same amount of actions as the spell specifies.
-  * 
+  * when casting spells, you instead place a rune on certain surfaces within the spells range, using the same amount of actions as the spell specifies.
+    * with ranged spells, the rune may be placed on the ground, walls, or other solid surfaces like trees
+    * for spells with touch range, the rune may be placed on anything, including armor or held items (place one on a throwing item to create large amounts of burst)
+* runes may be detonated at any time by using an action point or reaction point. If the surface your rune is on is destroyed, the spell is lost.
+   * when the surface is destroyed, you may immediately use a reaction point to instead detonate the spell
+* you may use 2 action points to safely recall mana from any placed runes within 1 tile, erasing them and refunding 50% of the spent mana
+* when targeted spells are detonated, you choose the target, determine line of sight, and recieve all positional bonuses from the perspective of the rune.
+   * the rune attack often recieves bonuses from high ground, suprise attacks, and often circumvents cover based bonuses.
+   * targeted spells can only be detonated on targets which you can see (or know the position of within 1 tile of certainty)
+* area of effect spells are centered on the rune
+* some spells are unique to enchanter and thus have unqiue casting methods. pay attention to the wording of enchanter spells!
+

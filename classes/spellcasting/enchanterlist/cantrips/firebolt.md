@@ -1,7 +1,9 @@
 # FIREBOLT
 
 2 actions
+
 3 mana 
+
 ranged spell attack (12 tiles)
 
 * deal 2d4 fire damage to the target.

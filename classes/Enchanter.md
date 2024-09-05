@@ -8,7 +8,7 @@
 
 ## LEVEL ONE
 
-### [Spellcasting](spellcasting.md/enchanterlist.md):
+### [Spellcasting](spellcasting/enchanterlist):
 
 * the enchanter casts spells using runes which can be placed on surfaces.
   * when casting spells, you instead place a rune on certain surfaces within the spells range, using the same amount of actions as the spell specifies.

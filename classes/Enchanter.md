@@ -41,3 +41,30 @@
 * runic traps
    * area of effect spells are invisible upon casting. the following rune is automatically detonated when a hostile creature occupies or passes through the same tile as it. you cannot cast runes on tiles when a hostile creature already occupies
    * area of effect spells return the full amount of mana when absorbed
+
+## LEVEL TWO
+
+### stellar sigil
+
+* bonding:
+   * a tattoo on your body grants you advanced physical attributes, increasing your movement speed by 2 tiles, providing 5 additional mana, and raising your armor class by 1
+
+* branding:
+   * your spells leave searing brands on your enemies. When an enemy fails a saving throw against one of your spells, for the next 3 hours you know where they are and a searing, painful brand is left on their body.
+   * you may spend an action point to cause any number of branded creatures to take 1d6 fire damage at any time while they are branded, alerting them to the presence of the brand and allowing them to make a charisma saving throw to negate damage from the brand for the next hour.
+   * you may channel your concentration on a brand for an hour to cause a brand on a single creature to last for an additional 3 hours
+   * the brand may be removed via a medicine check of 2 higher than your spell DC, or amputation of the limb the brand is attached to. Dispell curse also removes the brand
+
+ * blessing:
+    * when a spell of yours affects a willing creature, you may spend 5 mana to provide 1d6 healing at the start of each of their turns until whichever spell is affecting them end.
+    * creatures affected by blessing also recieve +1 AC and recieve 2 less damage from all sources until the affecting spell ends.
+  
+## LEVEL THREE
+
+### level 2 spells unlocked 
+
+## LEVEL FOUR
+
+### ability score improvement or feat
+
+ 

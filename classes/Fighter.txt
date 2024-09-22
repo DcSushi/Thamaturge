@@ -9,7 +9,7 @@ Fighting style
 Warrior Heart
 
 - Heart of Focus 
-   + with one action point you may give your next attack +5 accuracy (once per turn)
+   + with one action point you may give your next attack +3 accuracy 
 
 - Heart of Pride
    + your attacks now crit on natural 19's and 20's

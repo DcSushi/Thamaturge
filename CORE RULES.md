@@ -24,7 +24,7 @@
 
 * ### nature (int, wis)
 
-* ### 3 lore skills of your choice (skills associated are up to DM)
+* ### 3 lore skills of your choice (stats associated are up to you and your DM)
 
 
 

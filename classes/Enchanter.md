@@ -12,8 +12,9 @@
 
 * the enchanter casts spells using runes which can be placed on surfaces.
   * when casting spells, you instead place a rune on certain surfaces within the spells range, using the same amount of actions as the spell specifies.
-    * with ranged spells, the rune may be placed on the ground, walls, or other solid surfaces like trees
+    * with ranged spells, the rune may be placed on the ground, walls, or other solid surfaces like trees.
     * for spells with touch range, the rune may be placed on anything, including armor or held items (place one on a throwing item to create large amounts of burst)
+       * you may also cast ranged spells in this way if you choose
 * runes may be detonated at any time by using an action point or reaction point. If the surface your rune is on is destroyed, the spell is lost.
    * when the surface is destroyed, you may immediately use a reaction point to instead detonate the spell
 * you may use 2 action points to safely absorb mana from any placed runes within 1 tile, erasing them and refunding 50% of the spent mana

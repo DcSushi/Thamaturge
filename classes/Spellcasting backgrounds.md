@@ -4,4 +4,4 @@
 * religous man / cleric (wisdon w/ holy spells)
 * druid (wisdom w/ primal spells)
 * sorcerer (vitality w/ primal and occult spells)
-* warlock (charisma w/ occult or holy or arcane spells)
+* warlock (charisma w/ occult or primal or arcane spells)

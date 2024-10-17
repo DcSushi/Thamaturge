@@ -2,7 +2,9 @@
 
 ### 7 tiles
 --------------
-| LVL 1 | feature point | 
+| level | attributes points | features |
+--------
+| 1 | 1 | NA | 
 
 Fighting style
 

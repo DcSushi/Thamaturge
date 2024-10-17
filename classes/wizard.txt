@@ -44,12 +44,12 @@ LVL 2
 			+ If used against a surface it can dissolve, or harden any surface in a 1 tile radius (takes 30 seconds)
 
 	- Illusion
-		+ the brace reaction raises your AC by 3 instead of 2
+		+ the brace reaction raises your AC by 4 instead of 2
 		+ using 2 action points, you may conjure a an illusion which you may move now and on subsequent turns using 1 action point
-			+ It has its own area of influence only against creatures which fail an intelligence saving throw
+			+ It has its own area of influence only against creatures which fail a perception saving throw
 			+ This affects the surrounded and fortified conditions, AND if the illusion would have been able to use an opportunity attack, you may instead make an opportunity attack with a spell of your choice
 
 	- Necromancy 
-		+ You know false life and cast it at half the mana cost (-1 from chosen school is applied beforehand)
+		+ You know false life and cast it at half the mana cost 
 		+ when you land a spell attack you regain 2 hp
-		+ if a creature dies when under the effect of one of your spells, you regain 2 mana and  hp 
+		+ if a medium creature dies when under the effect of one of your spells, you regain 1d4 mana and hp per wizard level. regain half as much on a small creautre. 

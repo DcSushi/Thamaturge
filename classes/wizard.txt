@@ -20,9 +20,8 @@ Rune crafting (choose one)
     - when you hit a creature with a spell attack, all creatures gain +1 to accuracy rolls against them until the start of your next turn. This stacks
 
 - Dense casting
-   - all spells cost one additional mana 
-   - once per turn when a creature fails a spell save against you or when you land a spell attack, you may cause that creature to make a coinflip save.
-   - if they fail: They start their next turn with 1 less action point AND you choose whether to knock them prone, or reduce their AC by 2 until the start of your next turn
+   - for damaging spells, you may choose to expend double the mana and deal 1.5x damage with the attack
+   - if this attack applies damage then affected creatures are pushed 2 tiles away from the spell and have their AC reduced by 2 until the end of your next turn
 
 LVL 2
 
@@ -31,15 +30,15 @@ LVL 2
     + evocation, conjuration, transmutation, illusion, or necromancy
 
 	- Evocation
-		+ you may choose up to 3 tiles within your spells which are not affected by the spell. 
+		+ you may choose up to 3 tiles within your spells which are not affected. 
 		+ this does not only apply to evocation or damaging spells (it works on faerie fire too!)
 	
 	- conjuration
-		+ as a reaction at any time, you may conjure a 1 tile wide and 1 tile high surface
-		+ if you conjure it during a creatures movement, they make a coinflip save. On a failure they take 1 bludgeoning damage and lose their remaining movement (they may still use a dash action to regain more)
+		+ as 2 reaction points at any time, you may conjure a 1 tile wide and 1 tile high surface
+		+ if you conjure it during a creatures movement, their movement is stopped and they are considered flinched for the rest of their turn
 
 	- Transmutation
-		+ you gain proficiency in alchemists tools (if you gain proficiency from another source, you instead gain expertise)
+		+ you gain + 2 to alchemy lore (add it as a lore skill)
 		+ when you touch a surface you may alter its properties 
 			+ 2 action points if used against a creatures armor (melee spell attack which reduces opponents AC by 4 for their next 3 turns)
 			+ If used against a surface it can dissolve, or harden any surface in a 1 tile radius (takes 30 seconds)

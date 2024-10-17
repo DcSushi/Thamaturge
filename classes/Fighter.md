@@ -1,14 +1,14 @@
 ### 2d8 HP
 
-### 7 tiles
---------------
-| level | attributes points | features |
---------
-| 1 | 1 | NA | 
+### 7 tiles movement
+-------------------------------------------
+ - keep in mind that on any level with a choice feature you may choose to go back for a feature from earlier in the class instead (no stacking)
+-------------------------------------------
+- # LVL 1
+  
+- ### Armor proficiency 2
 
-Fighting style
-
-Warrior Heart
+### Warrior Heart:
 
 - Heart of Focus 
    + with one action point you may give your next attack +3 accuracy 
@@ -24,10 +24,8 @@ Warrior Heart
    + at the end of your turn you gain an additional saved action point.
    + this additional action point cannot be carried over to the next turn and is used first when you use any reaction
  
-LVL 2 
+- # LVL 2 
 
 Action surge 
  + once per short rest gain two action points 
 
-Armor proficiency (2)
- + when you equip armor which would reduce your movement tiles, it reduces your movement by 2 less

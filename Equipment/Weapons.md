@@ -16,4 +16,4 @@
 | --- | --- | --- | --- |
 | shortbow | 2d6 piercing | [agile](attributes/agile.md) | 2 |
 | longbow | 2d6 piercing | [hefty](attributes/hefty.md) | 2 |
-| long rifle | 5d6 | [loaded](attributes/loaded.md) (2 AP) | 2 |
+| long rifle | 4d8 piercing | [loaded](attributes/loaded.md) (2 AP) | 2 |

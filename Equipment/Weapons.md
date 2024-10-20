@@ -14,6 +14,6 @@
   
 | weapon | damage | attributes | hands |
 | --- | --- | --- | --- |
-| shortbow | 2d6 piercing | [agile](attributes/agile.md) | 2 |
-| longbow | 2d6 piercing | [hefty](attributes/hefty.md) | 2 |
+| shortbow | 2d8 piercing | [agile](attributes/agile.md) | 2 |
+| longbow | 2d8 piercing | [hefty](attributes/hefty.md) | 2 |
 | long rifle | 4d8 piercing | [loaded](attributes/loaded.md) (2 AP) | 2 |

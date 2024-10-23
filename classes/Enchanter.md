@@ -64,8 +64,7 @@
 
 ### level 2 spells unlocked 
 
-## LEVEL FOUR
+### ability score improvement 
 
-### ability score improvement or feat
 
  

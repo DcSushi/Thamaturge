@@ -32,6 +32,7 @@ KEY ATTRIBUTES:
   - you may only drain elements if there is a potent source of the energy being drained to target within range (3 tiles)
 - (elements with a * next to them must be unlocked via optional features later in the class)
   - the elements you may drain from the world are as follows:
+
 | element drained | effect on the surrounding environment |
 |---|---|
 | fire | a 2 tile radius is coated in ice. The surface is considered difficult terrain and creatures who take actions on the ice are flinched |

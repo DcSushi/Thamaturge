@@ -29,7 +29,7 @@
 # RESTING:
 - a ration is about 1 half of a potato. usually 1 - 2 copper per ration
    - on a short rest, you may eat up to 4 rations
-   - you restore 40% missing health with 1 ration, 50% on 2, 55% on 3, and 60% on 4
+   - you restore 40% missing health and mana with 1 ration, 50% on 2, 55% on 3, and 60% on 4
    - eating 4 rations on a short rest restores 1 exhaustion
    - Long rests require shelter to gain the full benefit.
    - proper shelter and 5 rations per traveler will restore all party members to 100% hp and mana

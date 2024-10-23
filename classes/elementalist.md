@@ -16,3 +16,33 @@ KEY ATTRIBUTES:
 - hybrid caster/tank gameplay (you want to take damage so you can deal damage)
 - rechargable mana pool (generally more effective to charge while taking damage)
 - blank slate style spells which can be cast with any element (modular spell casting)
+
+- ## 2d8 hp
+
+- ## 6 tiles movement
+
+- ## 5 max mana per level
+
+- does not gain mana on long or short rests
+
+  LVL 1
+-------------
+### DRAIN ELEMENTS:
+- for 2 Action points you may drain energy from nature to gain elemental mana equal to the average roll of absorb elements and cause the surrounding area to be lacking in the absorbed element.
+  - you may only drain elements if there is a potent source of the energy being drained to target within range (3 tiles)
+- (elements with a * next to them must be unlocked via optional features later in the class)
+  - the elements you may drain from the world are as follows:
+| element drained | effect on the surrounding environment |
+|---|---|
+| fire | a 2 tile radius is coated in ice. The surface is considered difficult terrain and creatures who take actions on the ice are flinched |
+| thunder | all electrical devices and machines in a 2 tile radius are drained of electricity |
+| radiant | the light is extinguished and a 2 tile radius is coated in magical darkness which you may see through, but others may not |
+| healing * |
+| 
+### ABSORB ELEMENTS: 
+- 
+- optional feature:
+      - Kineticist:
+          - you may use absorb elements on physical attacks as well as elemental ones. half of all damage resisted is converted to wild mana
+      -
+      - 

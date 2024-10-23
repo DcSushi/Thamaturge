@@ -37,7 +37,7 @@ KEY ATTRIBUTES:
 |---|---|
 | fire | a 2 tile radius is coated in ice. The surface is considered difficult terrain and creatures who take actions on the ice are flinched |
 | thunder | all electrical devices and machines in a 2 tile radius are drained of electricity |
-| radiant | the light is extinguished and a 2 tile radius is coated in magical darkness which you may see through, but others may not |
+| radiant | the light is extinguished and a 2 tile radius is coated in magical darkness which you may see through, but others may not. the darkness is extinguished when your radiant mana is expended |
 | healing * |
 | 
 ### ABSORB ELEMENTS: 

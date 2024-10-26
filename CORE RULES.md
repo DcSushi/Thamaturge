@@ -42,6 +42,9 @@
 
 # COMBAT INTERACTIONS:
 
+## dual wielding:
+ - when you hold 2 one handed weapons, after making an attack with one weapon, you may make an attack with your other weapon for only 1 action.
+
 ## Flinching:
   * when a creature is interupted by something such as an attack or other major disturbances the creature flinches, recieving a -3 penalty to whatever action they were attempting.
 

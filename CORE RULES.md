@@ -28,7 +28,10 @@
 
 # RESTING:
 - a ration is about 1 half of a potato. usually 1 - 2 copper per ration
-  
+- exhaustion ranges from stages 0 to 10
+    - every stage of exhaustion reduces all skill checks and attack rolls by 1 
+    - if a character reaches stage 10 of exhaustion, they pass out.
+    - if a fully exhausted creature does not recieve proper care (DC 15 - patient's VIT check)
 ## long rest:
 
 - Long rests require shelter to gain the full benefit.
@@ -43,7 +46,7 @@
 
 - you may eat up to 4 rations
 - you restore 40% missing health and mana with 1 ration, 50% on 2, 55% on 3, and 60% on 4
-- eating 4 rations on a short rest restores 1 exhaustion
+- eating 4 rations on a short rest removes 1 exhaustion
 
 # COMBAT INTERACTIONS:
 

@@ -28,17 +28,22 @@
 
 # RESTING:
 - a ration is about 1 half of a potato. usually 1 - 2 copper per ration
-   - on a short rest, you may eat up to 4 rations
-   - you restore 40% missing health and mana with 1 ration, 50% on 2, 55% on 3, and 60% on 4
-   - eating 4 rations on a short rest restores 1 exhaustion
-   - Long rests require shelter to gain the full benefit.
-   - proper shelter and 5 rations per traveler will restore all party members to 100% hp and mana
-   - innadiquite shelter removes 15% hp and mana
-   - each missing ration removes 5% hp and mana
-   - long resting with only 1 or 2 rationas applies 1 exhaustion
-   - long resting with 0 rations applies 2 exhaustion
-   - long resting with full rations but not shelter removes 2 exhaustion
-   - long resting with full rations and shelter removes 4 exhaustion
+  
+## long rest:
+
+- Long rests require shelter to gain the full benefit.
+- proper shelter and 5 rations per traveler will restore all party members to 100% hp and mana
+- shelter contributes to 15% of health and mana regenerated. the quality of shelter can range anywhere deducting 0 - 15% using DM discresion 
+- each missing ration removes 5% hp and mana
+- a days events incur 1 exhaustion if 2 or less rations were eaten outside of short rests
+- a days events incur 3 exhaustion if nothing has been eaten
+- long resting with full rations and shelter removes 4 exhaustion
+
+## short rest:
+
+- you may eat up to 4 rations
+- you restore 40% missing health and mana with 1 ration, 50% on 2, 55% on 3, and 60% on 4
+- eating 4 rations on a short rest restores 1 exhaustion
 
 # COMBAT INTERACTIONS:
 

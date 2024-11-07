@@ -10,8 +10,11 @@
 
 ### Rage
 using an action point, you may enter a rage
+
 during your rage you gain 2 strength and deal additional damage equal to your strength mod on melee attacks a second time.
+
 when you rage you gain temporary HP equal to 8 times your barbarian level
+
 rage ends when a turn passes where you did not attack or receive an attack
 
 ### Armor proficiency (1)

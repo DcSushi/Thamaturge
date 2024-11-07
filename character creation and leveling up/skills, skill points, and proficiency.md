@@ -51,4 +51,5 @@ typically the difficulty of skill checks are as follows
 on the rare occasion that you land a 1 or 20 on the d20 (not including bonuses), you have rolled a crit fail or crit success respectively.
 
 crit fails reward you with the experience of the worst reasonable outcome (such as stubbing your toe and yelping on a stealth check) 
+
 crit successes allow you to bask in the glory of earning the best reasonable outcome a check has to offer (such as letting you walk unreasonably close to a guard on a stealth check, but not quite skyrim levels of temporal distortion)

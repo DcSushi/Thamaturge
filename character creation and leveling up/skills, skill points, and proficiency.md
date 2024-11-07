@@ -53,3 +53,24 @@ on the rare occasion that you land a 1 or 20 on the d20 (not including bonuses),
 crit fails reward you with the experience of the worst reasonable outcome (such as stubbing your toe and yelping on a stealth check) 
 
 crit successes allow you to bask in the glory of earning the best reasonable outcome a check has to offer (such as letting you walk unreasonably close to a guard on a stealth check, but not quite skyrim levels of temporal distortion)
+
+# Skill points:
+
+- when you create a character and level up, you gain skill points which allow you to improve your known skills by 1 for each point, until youve invested 5 points in a skill, after which it starts costing 2 skill points.
+- Investing skill points has the result you probably expect, raising your bonus in any given skill by one. aside from that there are no limitations around which skills you can or cant improve with skill points.
+- skill points gained per level are as follows:
+
+| LVL | skill points gained |  |LVL (11-20) | skill points gained |
+| --- | --- | --- | --- | --- |
+| 1 | 4 | | 11 | 3
+| 2 | 1 | | 12 | 3
+| 3 | 1 | | 13 | 4
+| 4 | 1 | | 14 | 4
+| 5 | 2 | | 15 | 4
+| 6 | 2 | | 16 | 4
+| 7 | 2 | | 17 | 5
+| 8 | 2 | | 18 | 5
+| 9 | 3 | | 19 | 5 
+| 10 | 3 | | 20 | 5
+
+

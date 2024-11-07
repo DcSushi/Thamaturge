@@ -53,7 +53,7 @@ you may only rage once per short rest, unless you reach certain HP thresholds wh
 * Reckless attack:
 you may choose to have a +4 to hit for this turn, but enemies have +4 to hit against you until the start of your next turn
 
-* Warrior flesh
+* Warrior flesh:
   you gain +2 to athletics and fortitude checks
 ## LVL 4
 ### feat :D

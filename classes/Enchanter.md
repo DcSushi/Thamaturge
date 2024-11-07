@@ -24,6 +24,11 @@
 * area of effect spells are centered on the rune
 * some spells are unique to enchanter and thus have unqiue casting methods. pay attention to the wording of enchanter spells!
 
+### signature spellcasting:
+- once per day, you may cast a cantrip you know for free
+   - this feature gains an additional use every time you level up
+   - all cantrips are completely free once a character reaches a combined level of 10 in any spellcasting classes
+
 ### Runic form (choose 1)
 
 * runic sight
@@ -48,16 +53,16 @@
 ### stellar sigil
 
 * bonding:
-   * a tattoo on your body grants you advanced physical attributes, increasing your movement speed by 2 tiles, providing 5 additional mana, and raising your armor class by 1
+   * a tattoo on your body grants you advanced physical attributes, increasing your movement speed by 1 tile, providing 1 additional mana per level in any spellcasting class, and raising your armor class by 1
 
 * branding:
    * your spells leave searing brands on your enemies. When an enemy fails a saving throw against one of your spells, for the next 3 hours you know where they are and a searing, painful brand is left on their body.
-   * you may spend an action point to cause any number of branded creatures to take 1d6 fire damage at any time while they are branded, alerting them to the presence of the brand and allowing them to make a charisma saving throw to negate damage from the brand for the next hour.
+   * you may spend an action point to cause any number of branded creatures to take 1d6 fire damage at any time while they are branded, alerting them to the presence of the brand and allowing them to make a charisma saving throw against your spellcasting DC to negate damage from the brand for the next hour.
    * you may channel your concentration on a brand for an hour to cause a brand on a single creature to last for an additional 3 hours
    * the brand may be removed via a medicine check of 2 higher than your spell DC, or amputation of the limb the brand is attached to. Dispell curse also removes the brand
 
  * blessing:
-    * when a spell of yours affects a willing creature, you may spend 5 mana to provide 1d6 healing at the start of each of their turns until whichever spell is affecting them end.
+    * when you cast a spell which provides benefit to a creature, you may spend 5 additional mana to heal them for (their lvl + CORE) hp. 
     * creatures affected by blessing also recieve +1 AC and recieve 2 less damage from all sources until the affecting spell ends.
   
 ## LEVEL THREE

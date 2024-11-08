@@ -45,7 +45,7 @@
 ## short rest:
 
 - you may eat up to 4 rations
-- you restore 40% missing health and mana with 1 ration, 50% on 2, 55% on 3, and 60% on 4
+- you restore 25% missing health and mana with 1 ration, 30% on 2, 35% on 3, and 40% on 4
 - eating 4 rations on a short rest removes 1 exhaustion
 
 # COMBAT INTERACTIONS:

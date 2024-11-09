@@ -23,8 +23,8 @@
        + This gives a penalty of -2 on every d20 roll for the rest of the day 
  
 - Stalwart heart 
-   + at the end of your turn you gain an additional saved action point. 
-   + this additional action point cannot be carried over to the next turn and is used first when you use any reaction 
+   + at the end of your turn you gain an additional reaction point. 
+   + this additional reaction point cannot be carried over to the next turn and is used first when you use any reaction 
  
 - # LVL 2 
 

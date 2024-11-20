@@ -50,6 +50,10 @@
 
 ## LEVEL TWO
 
+### signature casting:
+* at every even numbered level in a spellcasting class, you may cast one cantrip for free per day
+
+
 ### stellar sigil
 
 * bonding:

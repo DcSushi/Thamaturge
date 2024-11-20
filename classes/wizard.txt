@@ -34,7 +34,7 @@ LVL 2
 		+ this does not only apply to evocation or damaging spells (it works on faerie fire too!)
 	
 	- conjuration
-		+ as 2 reaction points at any time, you may conjure a 1 tile wide and 1 tile high surface
+		+ as 2 reaction points at any time, you may conjure a 1 tile wide and 1 tile high surface within 6 tiles of yourself
 		+ if you conjure it during a creatures movement, their movement is stopped and they are considered flinched for the rest of their turn
 
 	- Transmutation
@@ -53,3 +53,8 @@ LVL 2
 		+ You know false life and cast it at half the mana cost 
 		+ when you land a spell attack you regain 2 hp
 		+ if a medium creature dies when under the effect of one of your spells, you regain 1d4 mana and hp per wizard level. regain half as much on a small creautre. 
+
+	- Enchantment
+		+ you gain +3 to diplomacy and deception checks
+		+ with 2 action points, you may force a creature within 10 tiles to make an attunement check. on a failure, choose a magic item they're attuned with and sever the connection between it and the target creature
+		

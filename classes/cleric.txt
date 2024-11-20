@@ -11,11 +11,6 @@
 - you know a number of spells equal to your (level + wis)
 - some many spells have cleric level requirements
 
-- signature spell:
-	- you may choose a spell you know and reduce its mana cost by 3
-	- you may choose another to reduce by 5 at 5th level
-	- you may choose another to reduce by 8 at 9th level
-
 Divine blessing:
 
 - grave:
@@ -31,6 +26,9 @@ Divine blessing:
 	- at LVL 3 you learn heat metal
 
 ## LVL 2
+
+- signature casting:
+	- at every even numbered level in a spellcasting class, you may cast one cantrip for free per day
 
 Divine Ideal:
 

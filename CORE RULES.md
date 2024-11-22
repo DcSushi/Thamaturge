@@ -31,7 +31,8 @@
 - exhaustion ranges from stages 0 to 10
     - every stage of exhaustion reduces all skill checks and attack rolls by 1 
     - if a character reaches stage 10 of exhaustion, they pass out.
-    - if a fully exhausted creature does not recieve proper care (DC 15 - patient's VIT check)
+    - if a fully exhausted creature does not recieve proper care (DC 15 - patient's VIT check using atleast 3 rations) 
+      
 ## long rest:
 
 - Long rests require shelter to gain the full benefit.
@@ -68,4 +69,13 @@
     * hiding directly behind a 1 tile structure counts as full cover from attackers
     * partially being covered by a 1 tile structure counts as half cover from attackers
       
-## 
+# REACTIONS:
+   * if you do not spend all of your action points before the end of a turn, the leftovers are converted to reaction points which may be used on reactions
+   * some reactions have triggers, and some may be used at any time
+
+### opportunity attack:
+   * when a creature within 1 tile of you takes an action which does not target you, you may spend 2 reaction points to make a melee attack against them
+   * if the attack hits, the target is flinched
+
+### 
+     

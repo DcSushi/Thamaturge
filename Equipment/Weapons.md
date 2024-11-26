@@ -2,7 +2,7 @@
 | weapon | damage | attributes | hands |
 | --- | --- | --- | --- |
 | maul | 3d6 bludgeoning | [crusher](attributes/crusher.md) | 2 |
-| dagger | 1 piercing | [swift](attributes/swift.md) | 1 |
+| dagger | 2d4 slashing | [swift](attributes/swift.md) | 1 |
 | longsword | 2d6 slashing | [versatile](versatile.md) (3d6) | versatile |
 # RANGED WEAPONS
 

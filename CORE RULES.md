@@ -24,7 +24,7 @@
 
 * ### nature (int, wis)
 
-* ### 1 lore skill of your choice (stats associated are up to you and your DM)
+* ### 1 additional skill of your choice (stats associated are up to you and your DM)
 
 # RESTING:
 - a ration is about 1 half of a potato. usually 1 - 2 copper per ration

@@ -31,7 +31,7 @@
 - exhaustion ranges from stages 0 to 10
     - every stage of exhaustion reduces all skill checks and attack rolls by 1 
     - if a character reaches stage 10 of exhaustion, they pass out.
-    - if a fully exhausted creature does not recieve proper care (DC 15 - patient's VIT check using atleast 3 rations) 
+    - if a fully exhausted creature does not recieve proper care (DC 15 - patient's VIT check using atleast 3 rations) within 2 days they die
       
 ## long rest:
 

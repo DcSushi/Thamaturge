@@ -62,6 +62,8 @@
   * if a creatures area of influence is completely filled by eather other creatures' AoIs or neutral tiles (such as terrain) they are considered surrounded or fortified depending on whether the surrounding creatures are hostile or friendly
   * one can have their AoI eclipsed by enemies but not be surrounded if an ally also covers atleast 2 tiles.
   * neutral tiles contribute to whichever side has the majority
+  * surrounded creatures have a -3 AC
+  * fortified creatures have a +3 AC
 
 ## Cover:
   * if a creature is under full cover from an attacker, they cannot be targeted by single target spells or attacks

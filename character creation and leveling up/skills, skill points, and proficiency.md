@@ -73,4 +73,22 @@ crit successes allow you to bask in the glory of earning the best reasonable out
 | 9 | 4 | | 19 | 6 
 | 10 | 4 | | 20 | 6
 
+# Weapon proficiency
+
+- every martial may choose to be proficient in 2 weapons (fighters get 4)
+- they add their proficiency bonus to accuracy rolls when attacking
+- weapon proficiency per level is as follows
+
+| lvl | total proficiency bonus | lvl (11-20) | total bonus |
+| -- | -- | -- | -- |
+| 1 | +2 | 11 | +7 |
+| 2 | +2 | 12 | +7 |
+| 3 | +3 | 13 | +8 |
+| 4 | +3 | 14 | +8 |
+| 5 | +4 | 15 | +9 |
+| 6 | +4 | 16 | +9 |
+| 7 | +5 | 17 | +10 |
+| 8 | +5 | 18 | +10 |
+| 9 | +6 | 19 | +11 |
+| 10 | +6 | 20 | +12 |
 

@@ -45,9 +45,10 @@ LVL 2
 
 	- Illusion
 		+ the brace reaction raises your AC by 4 instead of 2
-		+ using 2 action points, you may conjure a an illusion which you may move now and on subsequent turns using 1 action point
-			+ It has its own area of influence only against creatures which fail a perception saving throw
-			+ This affects the surrounded and fortified conditions, AND if the illusion would have been able to use an opportunity attack, you may instead make an opportunity attack with a spell of your choice
+		+ using 1 action point and 2 mana, you may feint a spell attack, making it look like any other spell in your library.
+			+ creatures who see this feint believe it to be a real spell, unless theyve previously seen you do this before or know you personally.
+			+ a successful feint may trigger creatures to react by bracing, using reactive magic, or counterattacking. 
+			+ if this feint triggers an opportunity attack, you have a +5 AC against this attack and if it misses, the attacking creature has their AC reduced by 3 until the start of their next turn.
 
 	- Necromancy 
 		+ You know false life and cast it at half the mana cost 

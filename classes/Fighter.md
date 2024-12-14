@@ -3,6 +3,8 @@
 ### 7 tiles movement
 
 ### 4 weapon proficiencies
+
+### 2 AC bonus
 -------------------------------------------
  - keep in mind that on any level with a choice feature you may choose to go back for a feature from earlier in the class instead (no stacking)
 -------------------------------------------

@@ -6,6 +6,8 @@
 
 0 mana
 
++1 Armor bonus
+
 ## LVL 1
 
 ### Rage

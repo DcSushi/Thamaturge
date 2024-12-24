@@ -1,9 +1,10 @@
 # MELEE WEAPONS
 | weapon | damage | attributes | hands |
 | --- | --- | --- | --- |
-| maul | 3d6 bludgeoning | [crusher](attributes/crusher.md) | 2 |
+| maul | 4d6 bludgeoning | [crusher](attributes/crusher.md) | 2 |
 | dagger | 2d4 slashing | [swift](attributes/swift.md) | 1 |
-| longsword | 2d6 slashing | [versatile](versatile.md) (3d6) | versatile |
+| straightsword | 2d8 slashing | [versatile](attributes/versatile.md) (4d6) | versatile |
+| shortsword | 2d6 slashing | [parry](attributes/versatile.md) | 1 |
 # RANGED WEAPONS
 
 ## ranged weapon mechanics and actions:

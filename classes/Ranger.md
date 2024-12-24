@@ -17,5 +17,5 @@
       
 | shape | movespeed | HP | conditions | damage | accuracy | armor class |
 | --- | --- | --- | --- | --- | --- | --- |
-| quadroped | 8 tiles | 2d4, +2 vitality | immune to opportunity attacks, + 3 accuracy when ally within 1 tile | 2d6 + 5 | 6 | 14 |
-| avian | 12 tiles | 2d2, +1 vitality | flying | 2d4 + 1 | 6 | 22 |
+| quadroped | 8 tiles | 2d4, +2 vitality | + 3 accuracy when ally within 1 tile | 2d6 + 5 | 6 | 14 |
+| avian | 12 tiles | 2d2, +1 vitality | immune to opportunity attacks, flying | 2d4 + 1 | 6 | 22 |

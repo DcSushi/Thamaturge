@@ -3,7 +3,7 @@
 - to roll your stats:
   
   1) all stats start at 4
-  2) roll 2 sets of d6 6 times.
+  2) roll 2 sets of d6 6 times while rerolling 1s and 2s.
   3) assign each dice pair to a stat and add their values
   4) then make a coinflip for each stat. on heads give the stat a +1 (the result is assigned to a stat before the coin is flipped. no swappies)
   5) add 3 among all the stats, divided however you like

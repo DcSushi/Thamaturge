@@ -6,6 +6,8 @@
 
 10 mana per lvl
 
++1 armor bonus
+
 ## LEVEL ONE
 
 ### [Spellcasting](spellcasting/enchanterlist):

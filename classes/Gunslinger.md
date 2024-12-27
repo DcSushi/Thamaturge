@@ -1,4 +1,4 @@
-### 2d8 hp
+### 2d6 hp
 
 ### 7 tiles movement
 

@@ -34,7 +34,8 @@ KEY ATTRIBUTES:
 | thunder | all electrical devices and machines in a 2 tile radius are drained of electricity |
 | radiant | the light is extinguished and a 2 tile radius is coated in magical darkness which you may see through, but others may not. the darkness is extinguished when your radiant mana is expended |
 | healing * | all creatures in a 2 tile radius take necrotic damage equal to drain elements mana |
-
+| necrotic | |
+| earth | |
 ### ABSORB ELEMENTS: 
 
 - when you are struck by a magical attack, you may spend one reaction point (1RP) to block a portion of the attack equal to 1d6 + CORE and gain mana equal to 50% of the damage blocked.

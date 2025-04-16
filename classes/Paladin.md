@@ -9,3 +9,4 @@
 |Lvl|feature|upgrades|
 |--|----|----|
 |1| SMITE! | none |
+|2| 

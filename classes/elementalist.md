@@ -18,7 +18,7 @@ KEY ATTRIBUTES:
 |---|---|---|
 | 1 | choice feature | drain elements (4). absorb elements (2d4)|
 | 2 | choice feature | DE (6) AE (3d4) |
-| 3 | ability score up | DE (8) AE (4d4) |
+| 3 | | DE (8) AE (4d4) |
 
 # LVL 1
 

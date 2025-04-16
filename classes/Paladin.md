@@ -5,3 +5,5 @@
 10 mana per level
 
 6 tile speed
+
+|Lvl|feature|

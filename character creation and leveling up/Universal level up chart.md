@@ -9,4 +9,4 @@
 |3| 2 | coinflip every attribute | none |
 |4| 3 | 1 (free) | none |
 |5| 3 | none | +1 action point | 
-|6| 4 | coinflip every attribute | none | 
+|6| 3 | coinflip every attribute | none | 

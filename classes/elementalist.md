@@ -17,7 +17,7 @@ KEY ATTRIBUTES:
 
 | LV | features | upgrades|
 |---|---|---|
-| 1 | choice feature | drain elements (4). absorb elements (2d4)|
+| 1 | choice feature, drain elements (4). absorb elements (2d4) |none|
 | 2 | choice feature | DE (6) AE (3d4) |
 | 3 | | DE (8) AE (4d4) |
 
@@ -42,7 +42,7 @@ KEY ATTRIBUTES:
 - when you are struck by a magical attack, you may spend one reaction point (1RP) to block a portion of the attack equal to 2d4 + CORE and gain mana equal to 50% of the damage blocked.
     - mana absorbed is determined by the element of the attack. if the attack dealt 2 types of damage, do not block physical damage, and if both types were elemental, you block and absorb both types of mana in porportion to how much damage they dealt
 
-- optional feature:
+- choice feature: elemental technique
   
   - Kineticist:
     - you may use absorb elements on physical attacks as well as elemental ones. physical damage is converted to force mana

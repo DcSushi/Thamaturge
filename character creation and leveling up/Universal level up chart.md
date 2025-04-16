@@ -6,7 +6,7 @@
 |---|---|---|---|
 |1| 4 | none | none |
 |2| 2 | 1 (free) | none |
-|3| 2 | coinflip every atteibute | none |
+|3| 2 | coinflip every attribute | none |
 |4| 3 | 1 (free) | none |
 |5| 3 | none | +1 action point | 
 |6| 4 | coinflip every attribute | none | 

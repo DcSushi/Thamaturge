@@ -1,4 +1,5 @@
 ### Levels grant unique changes based on class, but there are universal upgrades per level as well
+- multiclassing characters use this chart based on total level
 - the bonuses are as follows:
 
 |Lvl|skill points|attribute points|unique|

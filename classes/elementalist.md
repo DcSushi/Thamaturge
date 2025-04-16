@@ -5,6 +5,7 @@ KEY ATTRIBUTES:
 - hybrid caster/tank gameplay (you want to take damage so you can deal damage)
 - rechargable mana pool (generally more effective to charge while taking damage)
 - blank slate style spells which can be cast with any element (modular spell casting)
+- elements come in pairs such as thunder/force, fire/cold, necrotic/healing, and radiant/poison. absorbing one will typically create effects of the paired element.
 
 - ## 2d8 hp
 
@@ -35,16 +36,16 @@ KEY ATTRIBUTES:
 | radiant | the light is extinguished and a 2 tile radius is coated in magical darkness which you may see through, but others may not. the darkness is extinguished when your radiant mana is expended |
 | healing * | all creatures in a 2 tile radius take necrotic damage equal to drain elements mana |
 | necrotic | |
-| earth | |
+
 ### ABSORB ELEMENTS: 
 
-- when you are struck by a magical attack, you may spend one reaction point (1RP) to block a portion of the attack equal to 1d6 + CORE and gain mana equal to 50% of the damage blocked.
-    - mana absorbed is determined by the element of the attack. if the attack dealt 2 types of damage, you absorb both types of mana in porportion to how much damage they dealt
+- when you are struck by a magical attack, you may spend one reaction point (1RP) to block a portion of the attack equal to 2d4 + CORE and gain mana equal to 50% of the damage blocked.
+    - mana absorbed is determined by the element of the attack. if the attack dealt 2 types of damage, do not block physical damage, and if both types were elemental, you block and absorb both types of mana in porportion to how much damage they dealt
 
 - optional feature:
   
   - Kineticist:
-    - you may use absorb elements on physical attacks as well as elemental ones. one third (rounded down) of all damage absorbed is converted to wild mana
+    - you may use absorb elements on physical attacks as well as elemental ones. physical damage is converted to force mana
   
   - Conduit body:
     - for 3 AP, you may drain elements and immediately cast a spell using only the mana you just absorbed

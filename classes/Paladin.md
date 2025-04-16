@@ -6,4 +6,6 @@
 
 6 tile speed
 
-|Lvl|feature|
+|Lvl|feature|upgrades|
+|--|----|----|
+|1| SMITE! | none |

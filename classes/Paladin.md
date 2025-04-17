@@ -21,9 +21,9 @@
 
 -  ### divine smite:
 	- You may expend 10 mana to deal additional damage equal to your strength and your weapons damage dice with a melee or ranged weapon attack against a creature
-  - the increased portion of damage is converted to radiant
+  		- the increased portion of damage is converted to radiant
   
-- Divine Oath
+- ## Divine Oath
 
 	- Justice
 		- when an ally within 15 tiles takes damage from a creature, so long as the attacking creature is within 15 tiles you may react with an action point to deal radiant damage equal to the amount taken by your ally. This costs 1 mana per damage. if you do not have enough mana, you can choose to do damage equal to your remaining mana instead

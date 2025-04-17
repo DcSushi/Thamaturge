@@ -25,6 +25,7 @@ KEY ATTRIBUTES:
 
 ### DRAIN ELEMENTS:
 - for 2 Action points you may drain energy from nature to gain elemental mana equal 4 + CORE and cause a unique effect to the drained area.
+  - range of 4 tiles
   - you may only drain elements if there is a source of energy within range (5 tiles) (air counts as having heat, so its almost always viable to draw heat from an area)
 - (elements with a * next to them must be unlocked via optional features later in the class)
   - the elements you may drain from the world are as follows:
@@ -32,10 +33,11 @@ KEY ATTRIBUTES:
 | element drained | effect on the surrounding environment |
 |---|---|
 | fire | a 2 tile radius is coated in ice. The surface is considered difficult terrain and creatures who take actions on the ice are flinched |
-| thunder | all electrical devices and machines in a 2 tile radius are drained of electricity |
+| thunder | only usable if area contains electricity: all electrical devices and machines in a 2 tile radius are drained of electricity |
 | radiant | the light is extinguished and a 2 tile radius is coated in magical darkness which you may see through, but others may not. the darkness is extinguished when your radiant mana is expended |
-| healing * | all creatures in a 2 tile radius take necrotic damage equal to drain elements mana |
-| necrotic | |
+| cold | the ground within a 2 tile radius is ignited if possible, or superheated if the material is stone or other non-flammable materials. Each step a creature takes in the area deals fire damage to them equal to 1d4 per your Elementalist level |
+| healing* | Fortitude save: all creatures in a 2 tile radius take necrotic damage equal to mana absorbed |
+| necrotic* | creates an area where healing is more effective. Any time a creature is healed in a 2 tile radius, they heal additional health equal to your Elementalist level|
 
 ### ABSORB ELEMENTS: 
 

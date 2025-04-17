@@ -13,13 +13,13 @@
 |1| signature spellcasting 1 (SS), choice feature | none | 1 | 3 |
 |2| choice feature | SS 2 | 1 | 4 |
 |3| Enchanting | SS 3 | 2 | 5 |
-|4| 
-|5
-|6
-|7
-|8
-|9
-|10
+|4| | | |
+|5| | | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|10| | | |
 
 # LVL 1
 

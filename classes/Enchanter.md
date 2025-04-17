@@ -8,6 +8,8 @@
 
 +1 armor bonus
 
+|Lvl| Features | Upgrades |
+
 ## LEVEL ONE
 
 ### [Spellcasting](spellcasting/enchanterlist):
@@ -31,7 +33,7 @@
    - this feature gains an additional use every time you level up
    - all cantrips are completely free once a character reaches a combined level of 10 in any spellcasting classes
 
-### Runic form (choose 1)
+### Choice featyre: Runic form 
 
 * runic sight
    * you can see through your runes and can cast spells even if only your rune would see them
@@ -56,7 +58,7 @@
 * at every even numbered level in a spellcasting class, you may cast one cantrip for free per day
 
 
-### stellar sigil
+### Choice feature: stellar sigil
 
 * bonding:
    * a tattoo on your body grants you advanced physical attributes, increasing your movement speed by 1 tile, providing 1 additional mana per level in any spellcasting class, and raising your armor class by 1
@@ -68,14 +70,12 @@
    * the brand may be removed via a medicine check of 2 higher than your spell DC, or amputation of the limb the brand is attached to. Dispell curse also removes the brand
 
  * blessing:
-    * when you cast a spell which provides benefit to a creature, you may spend 5 additional mana to heal them for (their lvl + CORE) hp. 
+    * when you cast a spell which provides benefit to a creature, you may spend 5 additional mana to heal them for (1d4 per level) + CORE hp. 
     * creatures affected by blessing also recieve +1 AC and recieve 2 less damage from all sources until the affecting spell ends.
   
 ## LEVEL THREE
 
-### level 2 spells unlocked 
 
-### ability score improvement 
 
 
  

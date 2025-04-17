@@ -10,9 +10,9 @@
 |--|----|----|
 |1| SMITE! | none |
 |2| Divine oath (cf) | none|
-|3| Divine boon (cf) |
-|4| 
-|5| 
+|3| Divine boon (cf), Lay on Hands 10 (LoH) | none |
+|4| Bullwark | LoH 15 |
+|5| none | LoH 20 |
 |6| 
 |7| 
 |8|
@@ -26,7 +26,7 @@
 - ## Choice feature: Divine Oath
 
 	- Justice
-		- when an ally within 15 tiles takes damage from a creature, so long as the attacking creature is within 15 tiles you may react with an action point to deal radiant damage equal to the amount taken by your ally. This costs 1 mana per damage. if you do not have enough mana, you can choose to do damage equal to your remaining mana instead
+		- when an ally within 15 tiles takes damage from a creature, so long as the attacking creature is within 15 tiles you may react with an action point to deal radiant damage equal to the amount taken by your ally. This costs 1 mana per 2 damage. if you do not have enough mana, you can choose to do damage equal to twice your remaining mana instead
 
 	- Vigilance
 		- when an ally within 5 tiles could make an opportunity attack against a creature, you may also make an opportunity attack against them. 
@@ -73,4 +73,13 @@ OR
 		- when you hit with SMITE!, the next creature which uses mana to make a melee attack against that creature gains 5 mana (5 hp if they are blood hunter)
 		- for the duration your SMITE! deals an additional 1d4 per level radiant damage
 		- when you use SMITE! against a creature they make a constitution save against a DC (8 + STR + CHA). On a failure they roll for a major injury (typically dismemberment or heavily impaired movement).
+
+# LVL 4
+
+## Bullwark:
+- Your brace reaction is upgraded from +2 AC to +3 AC and you can provide this bonus to allies instead of yourself. If the attack misses and was a melee attack, the attacking creature makes a fortitude save of (10 + Str + paladin level) or is dissarmed
+- Your opportunity attacks cost 1 reaction point instead of 2
+
+# LVL 5
+
 

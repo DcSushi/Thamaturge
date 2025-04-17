@@ -22,3 +22,4 @@
 | brutal quadroped | 5 tiles | 3d4 +3 vitality | creatures hit by attacks make a (8 + ranger level) fortitude save or roll for a major injury| 2d8 +7 |+4| 17 |
 | avian | 12 tiles | 2d2, +1 vitality | immune to opportunity attacks, flying | 2d4 + 1 | +6 | 22 |
 | amphibian | 6 tiles (10 in water) | 3d4 +3 vitality | immune to opportunity attacks | 1d10 + 1 |+5| 17 (22 in water)|
+| arachnid | 10 tiles | 2d4 +2 vitality | makes one free opportunity attack per turn, applies poison on hit (1d4 per ranger level at start of creatures turn)| 1d4 + 3 | +6 | 18 |

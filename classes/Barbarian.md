@@ -1,4 +1,4 @@
-# BARBARIAN
+ # BARBARIAN
 
 2d10hp
 
@@ -24,7 +24,7 @@
 
 # LVL 2
 
-### Barbaric Lineage:
+## Choice feature: Barbaric Lineage
 
 * Unending rage:
    - when you are enraged and fall to 0 hp, you regain hp equal to 5 times your barbarian level once per short rest
@@ -43,7 +43,7 @@
 * storm vendetta:
    - When raging you conjure storms in the area around you
    -it may deal cold, lightning, or fire damage
-      - enemies within 1 tile of you take a -2 penalty to hit and take 5 damage when they enter, or end and start their turn in the radius
+      - enemies within 1 tile of you take a -2 penalty to hit and take 1d6 per barbarian level damage when they enter and start their turn in the radius
       - with 1 action point you may move your storm to center on a point within 3 tiles of you. when you start your next turn it is recalled to you, dealing damage once to any enemy it touches on the way back
       - all creatures have a +1 to hit on creatures inside the storm
 
@@ -55,6 +55,4 @@ you may choose to have a +4 to hit for this turn, but enemies have +4 to hit aga
 
 * Warrior flesh:
   you gain +2 to athletics and fortitude checks
-## LVL 4
-### feat :D
- 
+

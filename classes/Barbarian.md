@@ -43,7 +43,6 @@
 * storm vendetta:
    - When raging you conjure storms in the area around you
    -it may deal cold, lightning, or fire damage
-
       - enemies within 1 tile of you take a -2 penalty to hit and take 5 damage when they enter, or end and start their turn in the radius
       - with 1 action point you may move your storm to center on a point within 3 tiles of you. when you start your next turn it is recalled to you, dealing damage once to any enemy it touches on the way back
       - all creatures have a +1 to hit on creatures inside the storm

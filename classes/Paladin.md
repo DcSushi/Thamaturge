@@ -17,13 +17,13 @@
 |7| 
 |8|
 
-### LVL 1
+# LVL 1
 
 -  ### divine smite:
 	- You may expend 10 mana to deal additional damage equal to your strength and your weapons damage dice with a melee or ranged weapon attack against a creature
   		- the increased portion of damage is converted to radiant
   
-- ## Divine Oath
+- ## Choice feature: Divine Oath
 
 	- Justice
 		- when an ally within 15 tiles takes damage from a creature, so long as the attacking creature is within 15 tiles you may react with an action point to deal radiant damage equal to the amount taken by your ally. This costs 1 mana per damage. if you do not have enough mana, you can choose to do damage equal to your remaining mana instead
@@ -37,7 +37,7 @@
 		- when you or an ally within 3 tiles lands a melee attack, you may expend 5 mana to root the creature in vines if they fail a CON save (DC = 6+cha+Paladin level)
 		- when a creature is rooted they cannot move and has a -3 to their AC until they spend 3 action points to break free.
 		
-## LVL 2
+# LVL 2
 
 - Commanding presence
 	- while you contribute to a surrounded or fortified condition, they gain or lose additional AC equal to your charisma modifier
@@ -51,11 +51,11 @@
          - if 50 or mana is expended you may regrow the limb of the affected creature
 
 
-## LVL 3
+# LVL 3
 
-Choice feature: Divine boon
+## Choice feature: Divine boon
 
-## once per long rest you may use 2 action points to enchant yourself with divine power for the next 12 hours
+### once per long rest you may use 2 action points to enchant yourself with divine power for the next 12 hours
 - you may choose from 3 supernatural blessings when you use this feature:
 	
 - Blood of ambrosia:

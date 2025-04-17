@@ -8,8 +8,6 @@
 
 * ### athletics (str, dex)
 
-* ### deception (int, cha)
-
 * ### diplomacy (wis, cha)
 
 * ### Fortitude (str, vit)
@@ -18,13 +16,7 @@
 
 * ### Perception (int, wis)
 
-* ### religion (wis, cha)
-
-* ### medicine (dex, int)
-
-* ### nature (int, wis)
-
-* ### 1 additional skill of your choice (stats associated are up to you and your DM)
+* ### 4 additional skills of your choice (stats associated are up to you and your DM)
 
 # RESTING:
 - a ration is about 1 half of a potato. usually 1 - 2 copper per ration
@@ -55,7 +47,7 @@
  - when you hold 2 one handed weapons, after making an attack with one weapon, you may make an attack with your other weapon for only 1 action.
 
 ## Flinching:
-  * when a creature is interupted by something such as an attack or other major disturbances the creature flinches, recieving a -3 penalty to whatever action they were attempting.
+  * when a creature is interupted by something such as an attack or other major disturbances the creature flinches, recieving a -3 penalty to whatever action they were attempting if they fail a fortitude save.
 
 ## Surrounded/Fortified:
   * each creature has an area of influence (or AoI) which extends 1 tile from them.
@@ -74,10 +66,11 @@
 # REACTIONS:
    * if you do not spend all of your action points before the end of a turn, the leftovers are converted to reaction points which may be used on reactions
    * some reactions have triggers, and some may be used at any time
+   * up to 2 unused reaction points are added to your total action points at the start of your next turn
 
 ### opportunity attack:
    * when a creature within 1 tile of you takes an action which does not target you, you may spend 2 reaction points to make a melee attack against them
-   * if the attack hits, the target is flinched
-
+         * if the attack hits, the target is flinched
+    
 ### 
      

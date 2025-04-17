@@ -48,7 +48,7 @@
 	- this cap per level raises to 15 at 4th level, 20 at 8th, and so on.
 	- if 10 or more mana is expended, you may also cure a minor injury or illness
         + if 30 or more mana is expended you mend a major injury or illness
-	* if 50 or mana is expended you may regrow the limb of the affected creature
+	+ if 50 or mana is expended you may regrow the limb of the affected creature
 	
 
 # LVL 3

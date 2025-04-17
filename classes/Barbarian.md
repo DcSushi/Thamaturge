@@ -50,9 +50,9 @@
 
 # LVL 3
 
-* ## Reckless attack:
+ ## Reckless attack:
  - you may choose to have a +4 to hit for this turn, but lower your AC by 4 until the start of your next turn
 
-* ## Warrior flesh:
+ ## Warrior flesh:
  - you gain +2 to athletics and fortitude checks
 

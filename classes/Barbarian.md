@@ -29,14 +29,18 @@
 * Unending rage:
    - when you are enraged and fall to 0 hp, you regain hp equal to 5 times your barbarian level once per short rest
       for the next 3 turns after this, you deal 3 times your strength mod on weapon damage instead of 2 times
+     
  OR
+ 
 * Vengeful Haste:
    - while raging you gain the following benefits:
       - you gain 2 tiles of movement
       - if you have 5 tiles of movement leftover, your AC increases by 2
       - your dash actions grant 3 tiles instead of 2
       - after moving at least 8 tiles in a turn, your next attack has a +3 to hit
+        
  OR
+ 
 * storm vendetta:
    - When raging you conjure storms in the area around you
    -it may deal cold, lightning, or fire damage

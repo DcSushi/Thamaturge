@@ -11,15 +11,17 @@
 # LVL 1
 
 ## Rage:
--using an action point, you may enter a rage
+- using an action point, you may enter a rage
 
--during your rage you gain 2 strength and deal additional damage equal to your strength mod on melee attacks a second time.
+- during your rage you gain 2 strength and deal additional damage equal to your strength modifier on melee attacks a second time.
 
--when you rage you gain temporary HP equal to 6 times your barbarian level
+- when you rage you gain temporary HP equal to 6 times your barbarian level
 
--rage ends when a turn passes where you did not attack or receive an attack
+- rage ends when a turn passes where you did not attack or receive an attack
 
--you may only rage once per short rest, unless you reach certain HP thresholds which recharge your rage.
+- you may only rage once per short rest, unless you reach certain HP thresholds which recharge your rage. 
+
+  - the thresholds are 50% HP and 25% HP. Each may only refresh your rage once per short rest
 
 
 # LVL 2
@@ -51,7 +53,7 @@
 # LVL 3
 
  ## Reckless attack:
- - you may choose to have a +4 to hit for this turn, but lower your AC by 4 until the start of your next turn
+ - you may choose to gain +4 accuracy with melee weapons this turn, but lower your AC by 4 until the start of your next turn
 
  ## Warrior flesh:
  - you gain +2 to athletics and fortitude checks

@@ -43,10 +43,9 @@
 	- while you contribute to a surrounded or fortified condition, they gain or lose additional AC equal to your charisma modifier
 
 - ## Lay on hands
-	- with one action point, you may heal yourself or another creature within reach, using 1 mana per hp healed, up to a maximum of 10
-	- you may raise the cap of mana by using an addition action
-	- this cap per level raises to 15 at 4th level, 20 at 8th, and so on.
-	- if 10 or more mana is expended, you may also cure a minor injury or illness
+	- with one action point, you may heal yourself or another creature within reach, using 1 mana per hp healed, up to a maximum of 10 (+5 per level)
+	- You can increase the cap by 10 by spending another action point, and double it by spending a minute casting lay on hands
+	- if 10 or more mana is expended, you may also mend a minor injury or illness
 		- if 30 or more mana is expended you mend a major injury or illness
 		- if 50 or mana is expended you may regrow the limb of the affected creature
 	

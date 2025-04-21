@@ -5,7 +5,7 @@
 2 mana
 
 you transform a baked good within 1 tile into a cookie warrior 
-which deals 2d4 damage at the end of uour turn to anyone it can attach itself to.
+which deals 2d4 damage at the end of your turn to anyone it can attach itself to.
 
 - to attach itself to a target, it forces a nearby creature to make an athletics save. on a failure the cookie warrior climbs onto the creature and deals 2d4 piercing damage by biting or stabbing the creature.
 

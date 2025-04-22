@@ -4,7 +4,7 @@
 
 +2 armor bonus
 
-12 mana per level
+10 mana per level
 
 |Lvl|features|upgrades|spells known|
 |---|---|---|---|

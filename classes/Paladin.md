@@ -19,8 +19,8 @@
 
 # LVL 1
 
--  ### divine smite:
-	- You may expend 10 mana to deal additional damage equal to your strength and your weapons damage dice with a melee or ranged weapon attack against a creature
+-  ### SMITE!:
+	- You may expend 10 mana to deal additional damage equal to your strength and your weapons damage die or dice with a melee or ranged weapon attack against a creature
   		- the increased portion of damage is converted to radiant
   
 - ## Choice feature: Divine Oath

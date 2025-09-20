@@ -17,12 +17,9 @@
 
 - when you rage you gain temporary HP equal to 6 times your barbarian level
 
-- rage ends when a turn passes where you did not attack or receive an attack
+- rage ends when a turn passes where you did not attack, receive an attack, or spend 2 action points focusing your rage
 
-- you may only rage once per short rest, unless you reach certain HP thresholds which recharge your rage. 
-
-  - the thresholds are 50% HP and 25% HP. Each may only refresh your rage once per short rest
-
+- you may only rage once per short rest, unless you fall below 30% hp, which will recharge your rage
 
 # LVL 2
 
@@ -45,9 +42,9 @@
 * storm vendetta:
    - When raging you conjure storms in the area around you
    -it may deal cold, lightning, or fire damage
-      - enemies within 1 tile of you take a -2 penalty to hit and take 1d6 per barbarian level damage when they enter and start their turn in the radius
+      - enemies within 1 tile of you take a -2 penalty to hit and take 1d4 per barbarian level damage when they enter or start their turn in this radius
       - with 1 action point you may move your storm to center on a point within 3 tiles of you. when you start your next turn it is recalled to you, dealing damage once to any enemy it touches on the way back
-      - all creatures have a +1 to hit on creatures inside the storm
+      - all creatures have a +1 to hit against creatures other than yourself inside the storm
 
 
 # LVL 3

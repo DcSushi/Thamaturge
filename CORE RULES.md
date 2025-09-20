@@ -28,8 +28,11 @@
  - when you hold 2 one handed weapons, after making an attack with one weapon, you may make an attack with your other weapon for only 1 action.
 
 ## Flinching:
-  * when a creature is interupted by something such as an attack or other major disturbances the creature flinches, recieving a -3 penalty to whatever action they were attempting if they fail a fortitude save.
-
+  * A flinched creature takes -3 to their next d20 roll, or can be retroactively applied if the creature is being interupted during an action
+  * flinch can be applied often times via an opportunity attack, but any damage higher than half their vitality will flinch the target.
+  * some creatures have immunity to flinch, particularly large beasts and classes like barbarian or paladin
+  * flinch may be applied in ways which do not include taking damage such as spells
+    
 ## Surrounded/Fortified:
   * each creature has an area of influence (or AoI) which extends 1 tile from them.
   * if a creatures area of influence is completely filled by eather other creatures' AoIs or neutral tiles (such as terrain) they are considered surrounded or fortified depending on whether the surrounding creatures are hostile or friendly

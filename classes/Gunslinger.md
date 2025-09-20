@@ -8,10 +8,10 @@
 
 ### 3 weapon proficiencies 
 
-| level | ability | rounds per rest | rounds known |
+| level | ability | maximum rounds | rounds known |
 | --- | --- | --- | --- |
-| 1 | enchanted rounds | 2 long, 1 short | 2 |
-| 2 |  | 3 long, 1 short | 3 |
+| 1 | enchanted rounds | 3 | 2 |
+| 2 |  | 3 | 3 |
 
 # LVL ONE
 

@@ -41,12 +41,12 @@ typically the difficulty of skill checks are as follows
 
 | difficulty | DC or AC (number you need to meet) | 
 | --- | --- |
-| easy | 2 - 5 |
-| moderate | 6 - 8 |
-| difficult | 9 - 11 |
-| hard | 12 - 15 |
-| extreme | 16 - 18 |
-| impossible | 19+ |
+| easy | 1-6 |
+| moderate | 7-10 |
+| difficult | 11-13 |
+| hard | 14-17 |
+| extreme | 18-22 |
+| impossible | 23+ |
 
 on the rare occasion that you land a 1 or 20 on the d20 (not including bonuses), you have rolled a crit fail or crit success respectively.
 

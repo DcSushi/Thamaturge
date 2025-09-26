@@ -60,6 +60,7 @@
 - Blood of ambrosia:
 		- you automatically succeed on the next saving throw which affects you, you may refresh this ability by using 4 action points. 
 		- this cost is reduced by at the start of every turn. If it reaches 0, it automatically refreshes
+
 OR
 
 - Supernatural strength:
@@ -69,6 +70,7 @@ OR
 		- when you intercept a melee attack using the protect or brace reactions, the attacking creature has a -3 penalty to all attacks for their next 2 attacks
 
 OR
+
 - SMITE! of worlds:
 		- when you hit with SMITE!, the next creature which uses mana to make a melee attack against that creature gains 5 mana (5 hp if they are blood hunter)
 		- for the duration your SMITE! deals an additional 1d4 per level radiant damage

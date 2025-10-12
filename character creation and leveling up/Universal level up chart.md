@@ -5,8 +5,8 @@
 |Lvl|skill points|attribute points|unique|proficiency|
 |---|---|---|---|---|
 |1| 4 | none | none | +2 | 
-|2| 2 | 1 (free) | none | +0 | 
+|2| 2 | 1 (free) | none | none | 
 |3| 2 | coinflip every attribute | none | +1 |
-|4| 3 | 1 (free) | none | +0 |
+|4| 3 | 1 (free) | none | none |
 |5| 3 | none | +1 action point | +1 | 
-|6| 3 | coinflip every attribute | none | 0 |
+|6| 3 | coinflip every attribute | none | none |

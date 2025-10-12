@@ -37,7 +37,7 @@ To determine your **Inherent Bonus**, add the modifiers of the associated stats 
 Your inherent bonus is then added to your skill bonus (the result of skill point investment. skip to the end of the page to see more.), and added again to any spell effects or class features which may influence this. 
 
 ## You are attempting to climb a rainy cliff: 
-First, your Dungeon Master decides a number which represents the difficulty of climbing this cliff, then you roll a d12, (twelve sided die), and add 3 from your inherent bonus, and 2 from your skill bonus. The final number comes out to 10, just below the DC (Difficulty Class) 
+First, your Dungeon Master decides a number which represents the difficulty of climbing this cliff, then you roll a d20, (twenty sided die), and add 3 from your inherent bonus, and 2 from your skill bonus. The final number comes out to 10, just below the DC (Difficulty Class) 
 
 Turns out the cliff was too powerful for your mortal grip strength. There are two alternatives. First, yourself or an ally may have a spell to assist you. They may be able to grant you gorilla-like strength for a short time, or morph your skin to be that of a gecko. 
 
@@ -46,7 +46,7 @@ Alternatively, you and your allies could find a solution through more mundane me
 In all of these cases, you would add your skill bonus (which happens to be 2 in this scenario) to the roll a **second time**. Whether doing multiple of these things simultaniously is up for your dungeon master to decide, everything is contextual!
 
 Climbing gear is probably the simplest boost though... 
-You roll again, now with gecko-like skin which grants your skill bonus an additional time, and you roll another 5 from the d12. (5 + 2(2) + 3 = 12) A success! 
+You roll again, now with gecko-like skin which grants your skill bonus an additional time, and you roll another 5 from the d20. (5 + 2(2) + 3 = 12) A success! 
 
 The degree to which you succeed or fail can be altered depending on how much you overshoot or undershoot the DC. For example a total of 4 would lead to spectacular failure, where you may take damage, and a total of 18 would be a glorious success. 
 

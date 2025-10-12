@@ -28,16 +28,35 @@ the skills are as follows:
 
 ### nature (int, wis)
 
-abbreviates of stats are placed next to a skill to show what makes up your skill value. 
+abbreviations of the core 6 stats are placed next to a skill to show what makes up your **Inherent Bonus**. 
 
-for example, with little to no training or experience, a character with a +2 in dexterity and a +1 in strength will have an athletics skill of +3
+To determine your **Inherent Bonus**, add the modifiers of the associated stats together. 
 
-this value can be used to determine what is added to a D20 roll during a skill check, which involves attempting to meet or exceed a number made up by your dungeon master that will determine whether you succeed or fail a given task.
+(ie: with a +2 in dexterity and a +1 in wisdom, your bonus would be 3)
 
-for example when attempting to save a comrade from a heavy falling object, the DM may ask you to make an athletics check, in which case you roll a d20 and add your athletics value to the number rolled. 
-if you meet or exceed the DM's made up number, you succeed and save your comrade from being crushed to death.
+Your inherent bonus is then added to your skill bonus (the result of skill point investment. skip to the end of the page to see more.), and added again to any spell effects or class features which may influence this. 
 
-typically the difficulty of skill checks are as follows 
+## You are attempting to climb a rainy cliff: 
+First, your Dungeon Master decides a number which represents the difficulty of climbing this cliff, then you roll a d12, (twelve sided die), and add 3 from your inherent bonus, and 2 from your skill bonus. The final number comes out to 10, just below the DC (Difficulty Class) 
+
+Turns out the cliff was too powerful for your mortal grip strength. There are two alternatives. First, yourself or an ally may have a spell to assist you. They may be able to grant you gorilla-like strength for a short time, or morph your skin to be that of a gecko. 
+
+Alternatively, you and your allies could find a solution through more mundane means. Climbing gear would help, an ally who could boost you on their shoulders, or even a particularly good pep talk from a charismatic ally.
+
+In all of these cases, you would add your skill bonus (which happens to be 2 in this scenario) to the roll a **second time**. Whether doing multiple of these things simultaniously is up for your dungeon master to decide, everything is contextual!
+
+Climbing gear is probably the simplest boost though... 
+You roll again, now with gecko-like skin which grants your skill bonus an additional time, and you roll another 5 from the d12. (5 + 2(2) + 3 = 12) A success! 
+
+The degree to which you succeed or fail can be altered depending on how much you overshoot or undershoot the DC. For example a total of 4 would lead to spectacular failure, where you may take damage, and a total of 18 would be a glorious success. 
+
+Whether or not you know the DC is up to your Dungeon Master's discretion, but if your total is equal to or above the DC, you succeed. Notably, if you are making a check which is implausible for your character to genuinely succeed at given the circumstances, a half success is still a success. 
+
+## Another example: An inexperienced necromancer who is attempting to swap their souls with another. 
+
+In this case a situation as bad as: "you successfuly implant their soul into yourself, but during the process you fail to successfuly implant your soul into the other, wherin the recipient dies and your soul is lost to the aether", could potentially counted as a 'success' given what was concievably possible.
+
+## typically the difficulty of skill checks are as follows 
 
 | difficulty | DC or AC (number you need to meet) | 
 | --- | --- |

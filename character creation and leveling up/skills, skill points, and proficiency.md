@@ -4,29 +4,29 @@ skills can be used to determine how good your character is at any given task whi
 
 the skills are as follows:
 
-# crafting (dex, int)
+### crafting (dex, int)
 
-# atunement (cha, wis)
+### atunement (cha, wis)
 
-# arcana (int, wis)
+### arcana (int, wis)
 
-# athletics (str, dex)
+### athletics (str, dex)
 
-# deception (int, cha)
+### deception (int, cha)
 
-# diplomacy (wis, cha)
+### diplomacy (wis, cha)
 
-# Fortitude (str, vit)
+### Fortitude (str, vit)
 
-# Stealth (dex, wis)
+### Stealth (dex, wis)
 
-# Perception (int, wis)
+### Perception (int, wis)
 
-# theology (wis, cha)
+### theology (wis, cha)
 
-# medicine (dex, int)
+### medicine (dex, int)
 
-# nature (int, wis)
+### nature (int, wis)
 
 abbreviates of stats are placed next to a skill to show what makes up your skill value. 
 

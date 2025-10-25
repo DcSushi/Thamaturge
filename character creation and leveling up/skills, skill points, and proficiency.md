@@ -75,7 +75,7 @@ crit successes allow you to bask in the glory of earning the best reasonable out
 
 # Skill points:
 
-- when you create a character and level up, you gain skill points which allow you to improve your known skills by 1 for each point, until youve invested 5 points in a skill, after which it starts costing 2 skill points.
+- when you create a character and level up, you gain skill points which allow you to improve your known skills by 1 for each point, becoming periodically more expensive as you raise your skills to higher levels.
 - Investing skill points has the result you probably expect, raising your bonus in any given skill by one. aside from that there are no limitations around which skills you can or cant improve with skill points.
 - skill points gained per level are as follows:
 
@@ -92,6 +92,13 @@ crit successes allow you to bask in the glory of earning the best reasonable out
 | 9 | 4 | | 19 | 6 
 | 10 | 4 | | 20 | 6
 
+| Skill level (After Investment) | cost | Skill level (11+) | cost (11+) |
+|---|---|---|---|
+| 1-2 | 1 | 11-12 | 6 |
+| 3-4 | 2 | 13-14 | 7 |
+| 5-6 | 3 | 15-16 | 8 | 
+| 7-8 | 4 | 17-18 | 9 |
+| 9-10| 5 | 19-20 | 10 |
 # Weapon proficiency
 
 - every martial may choose to be proficient in 2 weapons (fighters get 4)

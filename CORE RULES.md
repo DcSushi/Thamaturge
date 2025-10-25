@@ -29,9 +29,9 @@
 
 ## Flinching:
   * A flinched creature takes -3 to their next d20 roll, or can be retroactively applied if the creature is being interupted during an action
-  * flinch can be applied often times via an opportunity attack, but any damage higher than half their vitality will flinch the target.
+  * A fortitude check is made with a DC equal to the damage taken to determine whether an attack will flinch your next action
   * some creatures have immunity to flinch, particularly large beasts and classes like barbarian or paladin
-  * flinch may be applied in ways which do not include taking damage such as spells
+  * flinch may be applied in ways which do not include taking damage such as pocket sand
     
 ## Surrounded/Fortified:
   * each creature has an area of influence (or AoI) which extends 1 tile from them.
@@ -45,7 +45,7 @@
   * if a creature is under full cover from an attacker, they cannot be targeted by single target spells or attacks
   * if a creature is under hlaf cover, they recieve a +3 to their AC temporarily
     * hiding directly behind a 1 tile structure counts as full cover from attackers
-    * partially being covered by a 1 tile structure counts as half cover from attackers
+    * partially being covered by a 1 tile structure (angle, not hiding under a desk) counts as half cover from attackers
       
 # REACTIONS:
    * if you do not spend all of your action points before the end of a turn, the leftovers are converted to reaction points which may be used on reactions

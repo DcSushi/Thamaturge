@@ -15,20 +15,31 @@ adaptive armor: buffed creature gains high armor based reduction to the last dam
 CHANGES TO CHARACTER STATS
 
 Strength (
+
 Agility (
+
 Fortitude (
+
 Mind (
+
 Willpower (
+
 Attunement (
+
 to account for the lack of charisma:
-it should be expected that a player cannot perfectly replicate their character. 
+
+it should be expected that a player cannot perfectly replicate their character.
+
 It should be expected that a character who is known for their sly nature or whatever should not be penalized for not being able to properly recreate that level of puzzle solving skill, social aptitude, or other things.
+
 For person-to-person rolls which would be covered by charisma in other games, it should be the person on the recieving end of the intimidation or other charisma-like roll who decides the result. 
-        (i.e. PlayerA can roll well on intimidation, but PlayerB can still decide that their character isnt intimidated)
+
+(i.e. PlayerA can roll well on intimidation, but PlayerB can still decide that their character isnt intimidated)
 
 HOW THE HELL DOES ATTACKING SOMEONE WORK
 
 dodge value first, attack hits, roll damage.
+
 then armor value reduces damage based on damage type.
 
 RACE FEATURES AND SHIT

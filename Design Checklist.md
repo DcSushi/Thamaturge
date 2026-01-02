@@ -78,6 +78,7 @@ RACE FEATURES AND SHIT
 30) vampiric ability: may take a special action to make an unarmed strike against a bleeding creature. on a hit you heal (scales with level) and deal low damage. Fresh blood (has not been outside the body for over 1 minute) is the only blood which nourishes you in this way.
       If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved.
           - mid/high cost (6)
+31) 
 32) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost
 33) Heightened carrying capacity: worn or carried items are counted as being half as heavy for you. - 
 34) water breathing: you can breathe underwater. - low cost (3)

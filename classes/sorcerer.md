@@ -15,11 +15,11 @@
 
 ### laser beam
 
-| --- | --- | --- |
 | tier 1 | tier 2 | tier 3|
-| A)     | A)     | A)     |
-| B)     | B)     | B)     | 
-| C)     | C)     | C)     |
+| --- | --- | --- |
+| A) N/A| A) beam becomes a shotgun of several small blasts w/ a max range    | A)     |
+| B) N/A| B) beam explodes on hit     | B)     | 
+| C) N/A| C) beam bounces from one target to the next     | C)     |
 
 
 

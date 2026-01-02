@@ -17,11 +17,12 @@
 - spell data (basic effect, mana cost, action cost)
 
 - table of upgrade effects
+
 | tier 1 | tier 2 | tier 3|
 | --- | --- | --- |
-|N/A| A) beam becomes a shotgun of several small blasts w/ a max range    | A) stuff    |
-|N/A| B) beam explodes on hit     | B)  thing   | 
-|N/A| C) beam bounces from one target to the next     | C)  shit   |
+| N/A | A) beam becomes a shotgun of several small blasts w/ a max range    | A) stuff    |
+| N/A | B) beam explodes on hit     | B)  thing   | 
+| N/A | C) beam bounces from one target to the next     | C)  shit   |
 
 
 

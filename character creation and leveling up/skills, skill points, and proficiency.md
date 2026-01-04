@@ -4,35 +4,35 @@ skills can be used to determine how good your character is at any given task whi
 
 the skills are as follows:
 
-### crafting (dex, int)
+### crafting (AG, MI)
 
-### atunement (cha, wis)
+### Focus (AT, WI)
 
-### arcana (int, wis)
+### arcana (MI, AT)
 
-### athletics (str, dex)
+### athletics (ST, AG)
 
-### deception (int, cha)
+### deception (MI, AT)
 
-### diplomacy (wis, cha)
+### diplomacy (WI, MI)
 
-### Fortitude (str, vit)
+### Fortitude (ST, FO)
 
-### Stealth (dex, wis)
+### Stealth (AG, MI)
 
-### Perception (int, wis)
+### Perception (MI, WI)
 
-### theology (wis, cha)
+### theology (MI, WI)
 
-### medicine (dex, int)
+### medicine (MI, WI)
 
-### nature (int, wis)
+### nature (MI, WI)
 
 abbreviations of the core 6 stats are placed next to a skill to show what makes up your **Inherent Bonus**. 
 
 To determine your **Inherent Bonus**, add the modifiers of the associated stats together. 
 
-(ie: with a +2 in dexterity and a +1 in wisdom, your bonus would be 3)
+(ie: with a +2 in AGILITY and a +1 in WILLPOWER, your bonus would be 3)
 
 Your inherent bonus is then added to your skill bonus (the result of skill point investment. skip to the end of the page to see more.), and added again to any spell effects or class features which may influence this. 
 
@@ -43,7 +43,7 @@ Turns out the cliff was too powerful for your mortal grip strength. There are tw
 
 Alternatively, you and your allies could find a solution through more mundane means. Climbing gear would help, an ally who could boost you on their shoulders, or even a particularly good pep talk from a charismatic ally.
 
-In all of these cases, you would add your skill bonus (which happens to be 2 in this scenario) to the roll a **second time**. Whether doing multiple of these things simultaniously is up for your dungeon master to decide, everything is contextual!
+In all of these cases, you would add your skill bonus (which happens to be 2 in this scenario) to the roll a **second time**. Whether doing multiple of these things simultaniously is possible is up for your dungeon master to decide, everything is contextual!
 
 Climbing gear is probably the simplest boost though... 
 You roll again, now with gecko-like skin which grants your skill bonus an additional time, and you roll another 5 from the d20. (5 + 2(2) + 3 = 12) A success! 

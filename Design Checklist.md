@@ -121,7 +121,7 @@ RACE DEFECTS:
 11) lowered regeneration (magical):
 12) lowered regeneration (physical):
 13) ravenous appetite:
-14) volatile spellcasting: wildmagic sorcerer without the benefits - high bonus.
+14) volatile spellcasting: wildmagic sorcerer without the benefits. only characters who have atleast 1 level in a spellcasting class can take this. - high bonus.
 15) stat penalty: can be taken multiple times, and for different stats each time. - low bonus.
 16) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
 17) hesitant: lowered initiative - mid/high bonus

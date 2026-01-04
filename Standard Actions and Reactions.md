@@ -2,6 +2,7 @@
 
 Object Actions: 
   - Interacting with a given object may take any number of actions given context, however typically retreiving a potion from a bag and drinking it would typically take 2 actions, whereas ripping a potion from a bandolier would only take 1 action point.
+      - the first action point which would be spent on item interactions is instead free
   - Tables can be flipped to make cover, doors can be opened, levers flipped, and a torch can spark the brush alight. Pretty much any mundane action in which the dungeon master must make a decision about action cost is considered an object interaction.
 
 Brawl Actions: (potentially unarmed strikes in this context could be monk exclusive)

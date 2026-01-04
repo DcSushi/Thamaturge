@@ -25,7 +25,7 @@
 # COMBAT INTERACTIONS:
 
 ## dual wielding:
- - when you hold 2 one handed weapons, after making an attack with one weapon, you may make an attack with your other weapon for only 1 action.
+ - so long as you are proficient in both weapons: when you hold 2 one handed weapons, after making an attack with one weapon, you may make an attack with your other weapon for only 1 action.
 
 ## Flinching:
   * A flinched creature takes -3 to their next d20 roll, or can be retroactively applied if the creature is being interupted during an action

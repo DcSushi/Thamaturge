@@ -6,7 +6,7 @@
 
 0 mana
 
-+2 Armor bonus
++2 DV bonus
 
 # LVL 1
 

@@ -9,9 +9,9 @@
 
 - Long rests require shelter to gain the full benefit.
 - proper shelter and 5 rations per traveler will restore all party members to 100% hp and mana
-- shelter contributes to 15% of health and mana regenerated. the quality of shelter can range anywhere deducting 0 - 15% using DM discresion 
-- each missing ration removes 5% hp and mana
-- a days events incur 1 exhaustion if 2 or less rations were eaten outside of short rests
+- shelter contributes to 15% of health and mana regenerated. the quality of shelter can range from deducting 0 - 15% using DM discresion 
+- rations contribute to 25%, 5% per ration.
+- a days events incur 1 exhaustion if 2 or less rations were eaten 
 - a days events incur 3 exhaustion if nothing has been eaten
 - long resting with full rations and shelter removes 4 exhaustion
 

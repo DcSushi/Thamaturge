@@ -1,6 +1,6 @@
 2d8 HP
 
-+3 armor bonus
++0 DV bonus
 
 10 mana per level
 

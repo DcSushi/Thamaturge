@@ -17,10 +17,10 @@
     + your companion has 10 race points and can take features and debuffs which could apply to it
     
       
-| shape | movespeed | HP | conditions | damage | accuracy | armor class |
-| --- | --- | --- | --- | --- | --- | --- |
-| swift quadroped | 8 tiles | 2d4, +2 vitality | + 3 accuracy when ally within 1 tile | 2d6 + 5 | +6 | 16 |
-| brutal quadroped | 6 tiles | 3d4 +3 vitality | creatures hit by attacks make a (8 + ranger level) fortitude save or roll for a major injury| 2d8 +7 |+4| 17 |
-| avian | 12 tiles | 2d2, +1 vitality | immune to opportunity attacks, flying | 2d4 + 1 | +6 | 22 |
-| amphibian | 6 tiles (10 in water) | 3d4 +3 vitality | immune to opportunity attacks | 2d10 + 4 |+4| 17 (22 in water)|
-| arachnid | 10 tiles | 2d4 +2 vitality | makes one free opportunity attack per turn, applies poison on hit (1d4 poison damage per ranger level at start of creatures turn)| 1d4 + 3 | +6 | 18 |
+| shape | movespeed | HP | conditions | damage | accuracy | DV | AV |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| swift quadroped | 8 tiles | 2d4, +2 vitality | + 3 accuracy when ally within 1 tile | 2d6 + 5 | +6 | +5 | +2 |
+| brutal quadroped | 6 tiles | 3d4 +3 vitality | creatures hit by attacks make a (8 + ranger level) fortitude save or roll for a major injury| 2d8 +7 |+4| +3 | +4 |
+| avian | 12 tiles | 2d2, +1 vitality | immune to opportunity attacks, flying | 2d4 + 1 | +6 | +8 | +0 |
+| amphibian | 6 tiles (10 in water) | 3d4 +3 vitality | immune to opportunity attacks | 2d10 + 4 |+4| +3 (+6 in water)| +2 |
+| arachnid | 10 tiles | 2d4 +2 vitality | makes one free opportunity attack per turn, applies poison on hit (1d4 poison damage per ranger level at start of creatures turn)| 1d4 + 3 | +6 | +4 | +3 |

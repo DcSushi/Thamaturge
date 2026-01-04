@@ -83,7 +83,7 @@
 # LVL 3
 
 ## Enchanting:
- - this shit aint finished yet, but when it is it will be a way to permanently enchant items with +1s, spells, and unique effects
+ - this shit aint finished yet, but when it is it will be a way to permanently enchant items with +1's, spells, and unique effects
 
 # LVL 4
 

@@ -8,6 +8,8 @@ the skills are as follows:
 
 ### Focus (AT, WI)
 
+### tactics (MI, AT)
+
 ### arcana (MI, AT)
 
 ### athletics (ST, AG)

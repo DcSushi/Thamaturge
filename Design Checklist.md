@@ -24,6 +24,7 @@
   - hemomancer
   - 
 
+### checklist
 
 - update classes to abandon signature spellcasting, mentions of HP as mana, and cantrips
 

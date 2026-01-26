@@ -50,7 +50,7 @@
    * you can see through your runes and can cast spells even if only your rune would see them
    * you may also spend 5 mana to place a rune of sight
       * at any time you may spend an action point to take a glance through this rune and see all that it sees, potentially making vision based skill checks
-      * you may also set the rune to alert you when it sees a creature. If this effect is triggered, it consumes 5 mana (if you are out of mana it consumes hp)
+      * you may also set the rune to alert you when it sees a creature. The rune can only do this once every minute and whill not alert you to anything more unless you choose to focus your sight through it
       * the rune is dispelled when you are knocked unconsious
 
 * runic turret

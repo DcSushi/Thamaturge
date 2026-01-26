@@ -60,7 +60,7 @@
       * the spell attack has a -2 accuracy penalty and deals 2d4 lightning damage
 
 * runic traps
-   * area of effect spells are invisible upon casting. the following rune is automatically detonated when a hostile creature occupies or passes through the same tile as it. you cannot cast runes on tiles when a hostile creature already occupies
+   * area of effect spells are invisible upon casting. the following rune is automatically detonated when a hostile creature occupies or passes through the same tile as it. you cannot cast runes on tiles a hostile creature occupies
    * area of effect spells return the full amount of mana when absorbed
 
 # LVL 2

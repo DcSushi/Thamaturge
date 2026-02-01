@@ -139,6 +139,8 @@ feel free to have physical features (like a tail) which your character has but d
 59) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. 
 60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area.
 61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. -mid cost (4)
+62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different race feature until you use this feature again. (maybe under 7 points) - high cost (10)
+63) charm resistance: - mid-high cost (7)
 
 RACE DEFECTS:
 1) dietary restriction: - 

@@ -7,7 +7,7 @@
   3) assign each dice pair to a stat and add their values
   4) then make a coinflip for each stat. on heads give the stat a +1 (the result is assigned to a stat before the coin is flipped. no swappies)
   5) add 8 among all the stats, divided however you like
-  6) maximum of 16 for each stat
+  6) maximum of 15 for each stat
 
 + Example roll:
   

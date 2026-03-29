@@ -8,7 +8,7 @@ the skills are as follows:
 
 ### Focus (AT, WI)
 
-### tactics (MI, AT)
+### tactics (MI, WI)
 
 ### arcana (MI, AT)
 

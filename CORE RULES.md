@@ -24,6 +24,11 @@
 
 # COMBAT INTERACTIONS:
 
+## multiattack penalty:
+ - when you make more than one attack action in a turn, your weapon attacks get pregressively less accurate.
+ - -5 accuracy for every attack roll
+ - accuracy penalty is tracked seperately for every weapon if you are dual weilding
+   
 ## dual wielding:
  - so long as you are proficient in both weapons: when you hold 2 one handed weapons, after making an attack with one weapon, you may make an attack with your other weapon for only 1 action.
 

@@ -22,13 +22,13 @@ the skills are as follows:
 
 ### Stealth (AG, MI)
 
-### Perception (MI, WI)
+### Perception (MI, AT)
 
 ### theology (MI, WI)
 
 ### medicine (MI, WI)
 
-### nature (MI, WI)
+### nature (MI, Aar)
 
 abbreviations of the core 6 stats are placed next to a skill to show what makes up your **Inherent Bonus**. 
 

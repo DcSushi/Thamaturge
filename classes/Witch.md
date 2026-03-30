@@ -2,7 +2,7 @@
 
 6 tile speed
 
-+2 armor bonus
++2 AC bonus
 
 10 mana per level
 

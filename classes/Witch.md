@@ -30,3 +30,13 @@ you may spend these investment points to improve the beasts stats as shown in th
 |invest bonus|1|2|1|1|1|1|1|1|1|1|1|1|
 
 your hex beast will gain a buff opposite and equal to any debuffs you apply if applicable. (reductions to stats result in an improvement to stats, stuns result in 2 consecutive turns on the beasts next turn, etc)
+
+# LVL 2: 
+
+## hex drain
+
+for every hex which you are currently concentrating on, your spells cost 1 less mana, down to a minimum of 0. concentration costs are unaffected.
+
+# LVL 3:
+
+when a creature hexxed by you dies, roll 1d6 4 times. the values of each roll are stored and may be added to any roll any creature makes, or subtracted from any roll any creature makes if you use a free reaction to target them during or just after their roll.

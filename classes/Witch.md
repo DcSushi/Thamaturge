@@ -39,4 +39,4 @@ for every hex which you are currently concentrating on, your spells cost 1 less 
 
 # LVL 3:
 
-when a creature hexxed by you dies, roll 1d6 4 times. the values of each roll are stored and may be added to any roll any creature makes, or subtracted from any roll any creature makes if you use a free reaction to target them during or just after their roll.
+when a creature of medium size or larger who was hexxed by you dies, roll 1d6 4 times. the values of each roll are stored and may be added to any roll any creature makes, or subtracted from any roll any creature makes if you use a free reaction to target them during or just after their roll.

@@ -14,7 +14,7 @@
 
   + you have a companion creature which fights beside you. it has 2 action points and can take a number of forms:
     + your companion levels up when you do, and gains hp in the same way you do
-    + your companion has 10 race points and can take features and debuffs which could apply to it
+    + your companion has 15 + 3 per level race points and can take features and debuffs which could apply to it
     
       
 | shape | movespeed | HP | conditions | damage | accuracy | DV | AV |

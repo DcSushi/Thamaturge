@@ -23,8 +23,10 @@ you gain a familiar with a number of investment points to put towards various st
 
 you may spend these investment points to improve the beasts stats as shown in the chart below
 
-| |AP|HP|AC|Armor|Speed|St|Ag|Fo|Mi|Wi|At|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Base|2|10|10|0|4 tiles|6|6|6|6|6|6|
-|invest cost|10|1|2|3|3|1|1|1|1|1|1|
-|invest bonus|1|2|1|1|1|1|1|1|1|1|1|
+| |AP|HP|AC|Armor|Speed|St|Ag|Fo|Mi|Wi|At|race points|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Base|2|10|10|0|4 tiles|6|6|6|6|6|6|5|
+|invest cost|10|1|2|3|3|1|1|1|1|1|1|1|
+|invest bonus|1|2|1|1|1|1|1|1|1|1|1|1|
+
+your hex beast will gain a buff opposite and equal to any debuffs you apply if applicable. (reductions to stats result in an improvement to stats, stuns result in 2 consecutive turns on the beasts next turn, etc)

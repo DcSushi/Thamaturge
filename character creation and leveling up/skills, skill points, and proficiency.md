@@ -24,11 +24,9 @@ the skills are as follows:
 
 ### Perception (MI, AT)
 
-### theology (MI, WI)
-
 ### medicine (MI, WI)
 
-### nature (MI, Aar)
+### nature (MI, AR)
 
 abbreviations of the core 6 stats are placed next to a skill to show what makes up your **Inherent Bonus**. 
 
@@ -52,7 +50,7 @@ You roll again, now with gecko-like skin which grants your skill bonus an additi
 
 The degree to which you succeed or fail can be altered depending on how much you overshoot or undershoot the DC. For example a total of 4 would lead to spectacular failure, where you may take damage, and a total of 18 would be a glorious success. 
 
-Whether or not you know the DC is up to your Dungeon Master's discretion, but if your total is equal to or above the DC, you succeed. Notably, if you are making a check which is implausible for your character to genuinely succeed at given the circumstances, a half success is still a success. 
+Whether or not you know the DC is up to your Dungeon Master's discretion, but if your total is equal to or above the DC, you succeed. Notably, if you are making a check which is implausible for your character to genuinely succeed at given the circumstances, a success might mean that nothing happens, or even something negative could happen, just less awful than if you had failed.
 
 ## Another example: An inexperienced necromancer who is attempting to swap their souls with another. 
 

@@ -83,7 +83,10 @@
 # LVL 3
 
 ## Enchanting:
- - this shit aint finished yet, but when it is it will be a way to permanently enchant items with +1's, spells, and unique effects
+
+ - you have an amount of "enchanting power" equal to your maximum mana. when you take a long rest you may choose spells that you know to place onto equipment, or temporary scrolls. doing so will take up twice their mana costs as "enchanting power".  you may also expend 10 enchanting power to give a piece of equipment a +1 enchantment.
+   
+ - spell imbued items may have a variety of triggers, including: when the weilder lands an attack (if the item is a weapon), when the equiped creature is hit (if the item is armor or a shield), when you choose to detonate the spell with a single action point, when they choose to detonate the spell with an action point, when the weilder drops below a certain HP value, when a certain status effect is applied to the target, or when the target is downed or injured.
 
 # LVL 4
 

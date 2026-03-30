@@ -26,7 +26,7 @@ the skills are as follows:
 
 ### medicine (MI, WI)
 
-### nature (MI, AR)
+### nature (MI, AT)
 
 abbreviations of the core 6 stats are placed next to a skill to show what makes up your **Inherent Bonus**. 
 

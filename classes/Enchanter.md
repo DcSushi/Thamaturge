@@ -6,7 +6,7 @@
 
 10 mana per lvl
 
-+2 DV bonus
++2 AC bonus
 
 |Lvl| Features | Upgrades | max spell tier | spells known |
 |---|---|---|---|---|

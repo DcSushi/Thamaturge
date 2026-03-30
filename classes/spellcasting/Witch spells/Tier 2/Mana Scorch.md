@@ -8,4 +8,4 @@ single target
 
 you assault a target in range with raw mana, ripping apart their flesh and spirit
 
-- the target must succeed a focus check or have 1d2 increased mana costs (+1d2 for ever action spent) and take 2d4 necrotic damage (+2d4 for every action spent)
+- the target must succeed a focus check or have 1d2 increased mana costs (+1d2 for ever action spent) for their next 2 turns and take 2d4 necrotic damage (+2d4 for every action spent)

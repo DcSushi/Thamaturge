@@ -1,12 +1,12 @@
 ### 7 tiles movement
 
-### 2d6 hp 
+### 2d8 hp 
 
 ### 0 mana 
 
 ### +3 DV bonus
 
-### 2 weapon proficiencies
+### 3 weapon proficiencies
 
 # LVL 1
 

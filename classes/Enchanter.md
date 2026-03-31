@@ -39,11 +39,6 @@
 * area of effect spells are centered on the rune
 * some spells are unique to enchanter and thus have unqiue casting methods. pay attention to the wording of enchanter spells!
 
-## signature spellcasting:
-- once per day, you may cast a cantrip you know for free
-   - this feature gains an additional use every time you level up
-   - all cantrips are completely free once a character reaches a combined level of 10 in any spellcasting classes
-
 ## Choice feature: Runic form 
 
 * runic sight

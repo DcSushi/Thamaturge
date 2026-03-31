@@ -1,6 +1,6 @@
 3 action points
 
-12 mana
+10 mana
 
 7 tile range
 

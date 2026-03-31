@@ -1,3 +1,9 @@
+## ORIGIN FEATS
+
+A typical player character will recieve 15-30 origin points at level 1, and further origin points are not strictly provided by level ups, but may be awarded by a dungeon master.
+
+Special Origin Defects may also be taken to increase the amount of origin points you may spend. whether certain origin feats or defects may be taken is up to DM discretion.
+
 1) breath weapon: (possibly slightly higher cost for unique elements) - mid cost (4-7)
 2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - mid cost (3-5)
 3) Tail (balance): 

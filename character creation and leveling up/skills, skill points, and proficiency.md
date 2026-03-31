@@ -4,6 +4,8 @@ skills can be used to determine how good your character is at any given task whi
 
 the skills are as follows:
 
+### Animal Handling (AG, WI)
+
 ### crafting (AG, ST)
 
 ### Focus (AT, WI)

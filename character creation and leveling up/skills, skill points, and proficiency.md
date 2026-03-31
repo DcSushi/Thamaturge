@@ -20,7 +20,7 @@ the skills are as follows:
 
 ### diplomacy (WI, MI)
 
-### Fortitude (ST, FO)
+### Vitality (ST, FO)
 
 ### Stealth (AG, MI)
 

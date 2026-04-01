@@ -43,7 +43,9 @@ Special Origin Defects may also be taken to increase the amount of origin points
     
       If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved.
           - (8)
-34) 
+32) x
+33) x
+34) x
 35) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost
 36) Heightened carrying capacity: worn or carried items are counted as being half as heavy for you. talk with your GM about whether or not a precise inventory will be kept before taking this feature. - (4)
 37) water breathing: you can breathe underwater. - (3)

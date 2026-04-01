@@ -63,7 +63,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 50) bioluminescence (controllable maybe):
 51) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc)
 52) camoflauge:
-53) darkness proficiency: at night you gain increased DV, initiative, and some other stuff maybe. - low/mid cost
+53) darkness proficiency: at night you have increased DV (+2), increased initiative (+2), and increased saving throws (+1) - (4)
 54) gas production:
 55) expert haggler:
 56) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing.

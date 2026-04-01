@@ -2,7 +2,7 @@
   - displays the average stats of a player character, or a creature with similar stats to a player character at a given level or challenge rating (CR)
   - displays action points (AC), HP, armor class (AC), accuracy (ACC), average skill bonus (SK), movement speed in tiles (MS).
 
-| CR | AP | HP | AC | ACC | SK | MS | CR | AP | HP | AC | ACC | SK | MS |
+| CR (lvl) | AP | HP | AC | ACC | SK | MS | CR (lvl) | AP | HP | AC | ACC | SK | MS |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 4 | 20 | 12 | +3 | +3 | 5 | 11 | 6 | 120 | 18 | +9 | +6 | 10 |
 | 2 | 4 | 30 | 12 | +3 | +3 | 5 | 12 | 6 | 130 | 18 | +10 | +6 | 10 |

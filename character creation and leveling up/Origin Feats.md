@@ -72,11 +72,11 @@ Special Origin Defects may also be taken to increase the amount of origin points
 60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area. - (5)
 61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. - (4)
 62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different race feature with a cost of 7 or less until you use this feature again. - (10)
-63) charm resistance: - mid-high cost (7)
+63) charm resistance: charms of tier 2 and below do not affect you. charms of tier 3 and higher have a reduced DC of 5 for checks and saves associated with them.. - (7)
 
 ## ORIGIN DEFECTS
 
-1) dietary restriction: rations for you cost additional coin 
+1) dietary restriction: rations for you cost additional coin (50%-ish. Up to GM discretion) and are unique to your diet. Only take this defect if your game is using precise 
 2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or an appropriate injury according to the attack which dealt damage. - (6)
 3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. you can take this defect multiple times. - (4)
 4) oblivious (sight): penalty (-3) to all vision based checks - (3)

@@ -5,14 +5,14 @@ A typical player character will recieve 15-30 origin points at level 1, and furt
 Special Origin Defects may also be taken to increase the amount of origin points you may spend. whether certain origin feats or defects may be taken is up to DM discretion.
 
 1) breath weapon: (possibly slightly higher cost for unique elements) - mid cost (4-7)
-2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - mid cost (3-5)
+2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - mid cost (3)
 3) Tail (balance): 
-4) natural/prostetic weapon: this feature can be purchased, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. - mid cost (4-6)
+4) natural/prostetic weapon: this feature can be purchased, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. - mid cost (4)
 
     4b) enhanced weapon: conditional bonus, like action economy reduction - low cost (2 on top of 4a)
 
     4c) poison or other status effect: small debuffs + bonus elemntal dmg on natural weapon - high additional cost (4 on top of 4a ) 
-5) elemental resistance: has environmental bonuses for certain elements, such as hot and cold, but does not change price. Can be purchased multiple times. - mid/high cost (6-8)
+5) elemental resistance: has environmental bonuses for certain elements, such as hot and cold, but does not change price. Can be purchased multiple times. - (6)
 6) x
 7) x
 8) bonus move speed: self explanatory - mid/high cost (6-7)
@@ -35,7 +35,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) -undetermined cost (lower than size incerase)
 24) more arms:
 25) more limbs:
-26) blindsight (tremor sense):
+26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. (4)
 27) blindsight (truesight):
 28) beautiful: the expected roll to impress or be liked by creatures is reduced. - low cost (2)
 29) heightened regeneration (physical): you gain more health from short rests. .....

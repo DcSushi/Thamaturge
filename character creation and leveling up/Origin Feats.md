@@ -35,7 +35,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) -undetermined cost (lower than size incerase)
 24) more arms: 2 more arms - (10)
 25) x
-26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. (4)
+26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. you can invest additional points for 50ft of range and slightly improved accuracy of the sense each (4)
 27) blindsight (truesight):
 28) beautiful: the expected roll to impress or be liked by creatures is reduced. - low cost (2)
 29) heightened regeneration (physical): you gain more health from short rests. physical status effects have their durations reduced by 25% (status effects still last a minimum of 1 round) - (5)

@@ -78,20 +78,20 @@ Special Origin Defects may also be taken to increase the amount of origin points
 
 1) dietary restriction: rations for you cost additional coin 
 2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or an appropriate injury according to the attack which dealt damage. - (6)
-3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. can be taken multiple times. (4)
+3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. you can take this defect multiple times. - (4)
 4) oblivious (sight): penalty (-3) to all vision based checks - (3)
 5) blind: ya blind. you much take this feature alongside some kind of blindsight or some other origin feature. reduce the cost of that feature by 4 
-6) oblivious (hearing): - mid bonus
-7) weakened immune system: - mid to low bonus
-8) reduced mobility (speed):
-9) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction)
+6) oblivious (hearing): Reduce all checks related to hearing by (3) - (2)
+7) weakened immune system: you no longer naturally recover from non-damage-over-time effects applied by poisons or ilnesses, even during a fully sheltered long rest. you must be cured by someone to recover. - (3)
+8) reduced mobility (speed): your speed is reduced by 1 tile. you may take this defect multiple times. - (4)
+9) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction) - (5)
 10) socially inept/stinky/bald: you check against a higher DC for social checks (anywhere from 3-6 depending on situation). - (3)
-11) lowered regeneration (magical):
-12) lowered regeneration (physical):
-13) ravenous appetite: 
-14) stat penalty: minus 1 to all stats - (5)
-15) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
-16) hesitant: lowered initiative - mid/high bonus
-17) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
+11) lowered regeneration (magical): Magical negative effects and spells take 25% longer to wear off for you, and you reduce the total mana that you recover from short and long rests by a flat 20% (a full rest w/o cover goes from 85% missing mana to 65% missing mana). Do not take this defect unless you have a sufficient amount of levels in a spellcaster. This is up to DM discretion. - (6)
+12) lowered regeneration (physical): Physical negative effects take 25% longer to wear off for you, and you reduce the health that you recover from short and long rests by a flat 20% (a full rest w/o cover goes from 85% missing health to 65% missing health). - (6)
+13) ravenous appetite: you require 2 additional rations for a full short rest, and 5 additional rations for a full long rest. only take this defect if your game uses precise rules for rations. - (3) 
+14) stat penalty: subtract all of your stats by one - (5)
+15) mystic hunger: every [unit of time] (typically a week; up to DM disgretion) you must drain the magic from a magical item. for the duration that you arent satiated, you have 15% reduce maximum mana and health. - (4)
+16) hesitant: Your initiative bonus is reduced by 2 - (3)
+17) nerves: If you took melee damage last turn, your accuracy is reduced by (2) and your spells cost 20% additional mana (minimum of 1 additional mana). - (3)
 18) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 radiant damage per your total level. Proper attire can mitigate this but while wearing it you have your agility reduced by 2. (5)
 19) mystic beast: you are counted as a magical beast for the purposes of silver and other anti-magic effects - (3)

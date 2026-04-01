@@ -76,7 +76,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 
 ## ORIGIN DEFECTS
 
-1) dietary restriction: rations for you cost additional coin (50%-ish. Up to GM discretion) and are unique to your diet. Only take this defect if your game is using precise 
+1) dietary restriction: rations for you cost additional coin (50%-ish. Up to GM discretion) and are unique to your diet. Only take this defect if your game is using precise - (2)
 2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or an appropriate injury according to the attack which dealt damage. - (6)
 3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. you can take this defect multiple times. - (4)
 4) oblivious (sight): penalty (-3) to all vision based checks - (3)

@@ -2,17 +2,17 @@
 
 The stats are as follows,
 
-## Strength 
+### Strength 
 
-## Agility 
+### Agility 
 
-## Fortitude 
+### Fortitude 
 
-## Mind 
+### Mind 
 
-## Willpower 
+### Willpower 
 
-## Attunement 
+### Attunement 
 
 - to roll your stats:
   

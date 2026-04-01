@@ -53,5 +53,5 @@
  - you may choose to gain +4 accuracy with melee weapons this turn, but lower your AC by 4 until the start of your next turn
 
  ## Warrior flesh:
- - you gain +2 to athletics and fortitude checks
+ - you gain +2 to athletics and vitality checks
 

@@ -22,45 +22,44 @@ Special Origin Defects may also be taken to increase the amount of origin points
 10) x
 11) excretion (offensive): excrete damaging liquid which may be coated on equipped items for various bonuses
 12) excretion (defensive): excrete damaging liquid which may be coated on equipped items for various bonuses
-13) debuff resist (immunity to light debuffs): immunity to 2 of a handful of low impact status - low/mid cost (3-4)
-14) debuff resist (resistance to strong debuffs): something like losing all but a few action points when you would otherwise be fully stunned - mid cost (4-5)
-15) flight (weak): spend actions points to lift off. flying speed is lower than walk speed. - mid cost (5)
-16) flight (potent): no action cost to lift off. flying speed is equal to walk speed. - high cost (7)
-17) terrain proficiency: reduced movement penalty from difficult terrain - low/mid cost (3-4)
-18) natural armor (light): bonus effects from this feature are lost if you equip full body armor. bonus to armor value with no penalty to mobility. - low cost (3)
-19) natural armor (heavy): cannot equip many kinds of armor (dependant on the form this takes. turtle shell vs exoskeleton vs being a robot). high armor based reduction to all phys dmg. lowered dodge value. - high cost (7)
-20) wall climbing: spiders mans - mid/high cost (4-5)
-21) heigtened hearing: bonus to passive perception against hearing related checks. can hear creatures from three times the distance (from 80ft to 240ft) and can hear something less intelligable from 480ft away (up from 160) - low cost (3)
+14) debuff resist: Dazed,  - (5)
+15) flight (weak): spend actions points to lift off. flying speed is lower than walk speed. - (5)
+16) flight (potent): no action cost to lift off. flying speed is equal to walk speed. - (7)
+17) terrain proficiency: reduced movement penalty from difficult terrain - (3)
+18) natural armor (light): bonus effects from this feature are lost if you equip full body armor. bonus to armor value with no penalty to mobility. - (3)
+19) natural armor (heavy): cannot equip many kinds of armor (dependant on the form this takes. turtle shell vs exoskeleton vs being a robot). high armor based reduction to all phys dmg. lowered dodge value. - (7)
+20) wall climbing: spiders mans - (5)
+21) heigtened hearing: bonus to passive perception against hearing related checks. can hear creatures from three times the distance (from 80ft to 240ft) and can hear something less intelligable from 480ft away (up from 160) - (3)
 22) size increase: foritude and strength bonus. your size is large (up from medium) -undetermined cost
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) -undetermined cost (lower than size incerase)
 24) more arms: 2 more arms - (10)
 25) x
 26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. you can invest additional points for 50ft of range and slightly improved accuracy of the sense each (4)
 27) blindsight (truesight):
-28) beautiful: the expected roll to impress or be liked by creatures is reduced. - low cost (2)
+28) beautiful: the expected roll to impress or be liked by creatures is reduced. - (2)
 29) heightened regeneration (physical): you gain more health from short rests. physical status effects have their durations reduced by 25% (status effects still last a minimum of 1 round) - (5)
 30) heightened regeneration (magical): you gain more mana from short rests. Reduced duration of spell applied to you and of magical status effects by 25% (status effects still last a minimum of 1 round) - (5)
 31) vampiric ability: may take a special action to make an unarmed strike against a bleeding creature. on a hit you heal (scales with level) and deal low damage. Fresh blood (has not been outside the body for over 1 minute) is the only blood which nourishes you in this way.
     
       If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved.
-          - mid/high cost (6)
+          - (6)
 34) 
 35) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost
 36) Heightened carrying capacity: worn or carried items are counted as being half as heavy for you. - 
-37) water breathing: you can breathe underwater. - low cost (3)
-38) magical respiration: you no longer need to breathe or can breathe in any circumstances. - mid cost (5)
+37) water breathing: you can breathe underwater. - (3)
+38) magical respiration: you no longer need to breathe or can breathe in any circumstances. - (5)
 39) aquatic agility:
 40) quick learning (combat): if you have seen a creature use an ability before, your DV is increased against it by 3, and all saving throws against it are increased by 2. - (8)
-41) thorns/spike armor: cannot equip most armors. creatures which hit you with a melee attack take damage. effects applied to natural/prosthetic weapons are applied to spike armor. - mid cost (5)
+41) thorns/spike armor: cannot equip most armors. creatures which hit you with a melee attack take damage. effects applied to natural/prosthetic weapons are applied to spike armor. - (5)
 42) improved metabolism (mental): you may spend an additional amount of time during a rest to meditate. if you do, you gain the benefit of having consumed extra rations during that short rest.
 43) improved metabolism (physical):
-44) improved skeleton: reduced damage taken from physical damage, fall damage. it is harder to injure you (ill figure it out later)
-45) internal catalyst: you do not require a wand or other catalyst to cast spells, you also do not need to speak incantation or do gestures as part of casting costs. creatures may still notice you are casting spells (define if your eyes glow, hair is blown, other phenomena) - low/mid cost (4)
-46) mineral diet (or other unique diet): you do not need to use rations in order to gain any benefits food would provide so long as your choses substance is nearby (all plant matter, or minerals, etc) - low/mid cost (3)
-47) elemental affinity: your spells of one element are improved (damage consistency), and the effects of spells of the opposite element are reduced (probably also dmg consistency) - mid cost (5)
+44) improved skeleton: reduced damage taken from physical damage, fall damage. it is harder to injure you (when you take a major injury, reduce it to a minor injury. if you take a minor injury, roll 1d6. on a 5 or 6, you are not injured) - (8)
+45) internal catalyst: you do not require a wand or other catalyst to cast spells, you also do not need to speak incantation or do gestures as part of casting costs. creatures may still notice you are casting spells (define if your eyes glow, hair is blown, other phenomena) - (4)
+46) mineral diet (or other unique diet): you do not need to use rations in order to gain any benefits food would provide so long as your choses substance is nearby (all plant matter, or minerals, etc) - (3)
+47) elemental affinity: your spells of one element are improved (damage consistency), and the effects of spells of the opposite element are reduced (probably also dmg consistency) - (5)
 48) telepathy: you may speak with creatures mentally from upto 500ft (100 tiles) away, and you may speak with other creatures who are telepathic from 10 times that distance. creatures do not need to share a language to speak this way. - (6)
 49) telekenesis: you can interact with items which arent being worn or carried from up to 10 tiles away (~50ft). you still must make steath checks to take items. Any checks you might make which would require strength instead use your mind stat. - (6)
-50) bioluminescence (controllable maybe):
+50) bioluminescence: you have full control over light emitting from some part of your body. you can control the radius of the light from 5-360 degrees using an action point. you can also control the distance this light eminates anywhere from 0 tiles to 15 (0-75ft, 0-25m) - (2)
 51) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc)
 52) camoflauge:
 53) darkness proficiency: at night you have increased DV (+2), increased initiative (+2), and increased saving throws (+1) - (4)

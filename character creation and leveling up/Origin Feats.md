@@ -105,7 +105,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or an appropriate injury according to the attack which dealt damage. - (6)
 3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. you can take this defect multiple times. - (4)
 4) oblivious (sight): penalty (-3) to all vision based checks - (3)
-5) blind: ya blind. you much take this feature alongside some kind of blindsight or some other origin feature. reduce the cost of that feature by 4 
+5) blind: ya blind. you must take this feature alongside some kind of blindsight or some other origin feature. reduce the cost of that feature by 4 
 6) oblivious (hearing): Reduce all checks related to hearing by (3) - (2)
 7) weakened immune system: you no longer naturally recover from non-damage-over-time effects applied by poisons or ilnesses, even during a fully sheltered long rest. you must be cured by someone to recover. - (3)
 8) reduced mobility (speed): your speed is reduced by 1 tile. you may take this defect multiple times. - (4)

@@ -8,7 +8,11 @@
 6) photosynthesis
 7) daylight proficiency
 8) animal whisperer: basically perma speak with animals
-9) 
+9) big lungs:
+10) physical damage resistance of your choice: - (12)
+11) voice mimicing: being able to recreate voices that youve heard for atleast a combined 5 minutes - (4)
+12) quadropedal running: your dash actions are improved by 1 tile (5)
+13) 
 
 
 

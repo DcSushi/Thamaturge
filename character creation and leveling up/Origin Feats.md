@@ -65,19 +65,19 @@ Special Origin Defects may also be taken to increase the amount of origin points
 53) darkness proficiency: at night you have increased DV (+2), increased initiative (+2), and increased saving throws (+1) - (4)
 54) gas production:
 55) expert haggler:
-56) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing.
-57) focused aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you.
-58) lengthened casting: spell attack rolls have infinite range for you, with attacks over double the normal range being made with penalty. targeted spells have increased range.
-59) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. 
-60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area.
-61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. -mid cost (4)
-62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different race feature until you use this feature again. (maybe under 7 points) - high cost (10)
+56) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing. what materials you can burrow through is up to DM discretion, but this feat is balanced around exclusively dirt/snow - (4)
+57) focused aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you. - (5)
+58) lengthened casting: spell attack rolls have infinite range for you, with attacks over double the normal range being made with penalty. targeted spells have increased range. - (5)
+59) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. - (5)
+60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area. - (5)
+61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. - (4)
+62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different race feature with a cost of 7 or less until you use this feature again. - (10)
 63) charm resistance: - mid-high cost (7)
 
 ## ORIGIN DEFECTS
 
 1) dietary restriction: rations for you cost additional coin 
-2) easily injured: - high point bonus
+2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or an appropriate injury according to the attack which dealt damage. - (6)
 3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. can be taken multiple times. (4)
 4) oblivious (sight): penalty (-3) to all vision based checks - (3)
 5) blind: ya blind. you much take this feature alongside some kind of blindsight or some other origin feature. reduce the cost of that feature by 4 

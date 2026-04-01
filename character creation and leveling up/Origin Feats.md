@@ -15,7 +15,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 5) elemental resistance: has environmental bonuses for certain elements, such as hot and cold, but does not change price. Can be purchased multiple times. - (6)
 6) x
 7) x
-8) bonus move speed: self explanatory - (6)
+8) bonus move speed: your movespeed is increased by 1 tile. this feature may be taken multiple times. - (6)
 9) night vision: reduced pentaly to all sight based rolls in darkness - (3)
     
    9b) heat vision: previous effects + bonus to seeing creatures who are disguised/behind cover - (2 additional cost)

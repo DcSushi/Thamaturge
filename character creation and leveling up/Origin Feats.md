@@ -74,3 +74,24 @@ Special Origin Defects may also be taken to increase the amount of origin points
 61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. -mid cost (4)
 62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different race feature until you use this feature again. (maybe under 7 points) - high cost (10)
 63) charm resistance: - mid-high cost (7)
+
+## ORIGIN DEFECTS
+
+1) dietary restriction: -
+2) easily injured: - high point bonus
+3) elemental weakness: might weaken you for being in specific terrain conditions if you have a matching element
+4) oblivious (sight): - med to high bonus 4b) lowered bonus if you choose to have this feature only apply at a certain time of day
+5) oblivious (hearing): - mid bonus
+6) weakened immune system: - mid to low bonus
+7) reduced mobility (speed):
+8) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction)
+9) socially inept/stinky/bald: you check against a higher DC for social checks. -mid bonus
+10) lowered regeneration (magical):
+11) lowered regeneration (physical):
+12) ravenous appetite:
+13) volatile spellcasting: wildmagic sorcerer without the benefits. only characters who have atleast 1 level in a spellcasting class can take this. - high bonus.
+14) stat penalty: can be taken multiple times, and for different stats each time. - low bonus.
+15) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
+16) hesitant: lowered initiative - mid/high bonus
+17) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
+18) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 damage per your total level. Proper attire can mitigate this but while wearing it you have reduced agility.

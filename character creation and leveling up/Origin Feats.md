@@ -67,7 +67,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 54) gas production:
 55) expert haggler:
 56) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing.
-57) focusd aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you.
+57) focused aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you.
 58) lengthened casting: spell attack rolls have infinite range for you, with attacks over double the normal range being made with penalty. targeted spells have increased range.
 59) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. 
 60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area.

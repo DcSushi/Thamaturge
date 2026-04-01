@@ -2,7 +2,7 @@
 
 2d10hp
 
-7 tiles
+6 tiles
 
 0 mana
 

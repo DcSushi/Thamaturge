@@ -1,5 +1,5 @@
 # RESTING:
-- a ration is about 1 half of a potato. usually 1 - 2 copper per ration
+- a ration is about 1 half of a potato. usually 1 copper per ration
 - exhaustion ranges from stages 0 to 10
     - every stage of exhaustion reduces all skill checks and attack rolls by 1 
     - if a character reaches stage 10 of exhaustion, they pass out.

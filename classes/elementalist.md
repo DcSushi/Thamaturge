@@ -42,7 +42,7 @@ KEY ATTRIBUTES:
 ### ABSORB ELEMENTS: 
 
 - when you are struck by a magical attack, you may spend one reaction point (1RP) to block a portion of the attack equal to 2d4 + CORE and gain mana equal to 50% of the damage blocked.
-    - mana absorbed is determined by the element of the attack. if the attack dealt 2 types of damage, do not block physical damage, and if both types were elemental, you block and absorb both types of mana in porportion to how much damage they dealt
+    - mana absorbed is determined by the element of the attack. if the attack dealt 2 types of damage, do not block physical damage, and if both types were elemental, you block and absorb both types of mana in porportion to how much damage they deal
 
 - choice feature: elemental technique
   

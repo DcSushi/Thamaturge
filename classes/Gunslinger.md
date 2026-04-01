@@ -8,17 +8,13 @@
 
 ### 3 weapon proficiencies 
 
-| level | ability | maximum rounds | rounds known |
+| level | ability |  |  |
 | --- | --- | --- | --- |
-| 1 | enchanted rounds | 3 | 2 |
-| 2 |  | 3 | 3 |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 # LVL ONE
 
-## Enchanted rounds:
 
-  + you prepare magical rounds for your weaponry at long and short rests
-  + choose 2 rounds from the [enchanted rounds table](../Equipment/consumables/EnchantedAmmo.md) which you meet the requirements for
-  + rounds are loaded in order. You choose which rounds to load when you take the reload action. Weapons have unique loading methods, some load one shot at a time, some load via cylinder, some load via magazine. take this into account when loading your weapons.
 
 # LVL TWO 

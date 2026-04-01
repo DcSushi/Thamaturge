@@ -1,6 +1,6 @@
 2d6 HP
 
-6 tile speed
+5 tile speed
 
 +2 AC bonus
 

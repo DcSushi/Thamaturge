@@ -1,5 +1,19 @@
 # STATS
 
+The stats are as follows,
+
+## Strength 
+
+## Agility 
+
+## Fortitude 
+
+## Mind 
+
+## Willpower 
+
+## Attunement 
+
 - to roll your stats:
   
   1) all stats start at 5

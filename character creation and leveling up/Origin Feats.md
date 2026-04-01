@@ -77,18 +77,18 @@ Special Origin Defects may also be taken to increase the amount of origin points
 
 ## ORIGIN DEFECTS
 
-1) dietary restriction: -
+1) dietary restriction: rations for you cost additional coin 
 2) easily injured: - high point bonus
-3) elemental weakness: might weaken you for being in specific terrain conditions if you have a matching element
+3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. (4)
 4) oblivious (sight): - med to high bonus 4b) lowered bonus if you choose to have this feature only apply at a certain time of day
 5) oblivious (hearing): - mid bonus
 6) weakened immune system: - mid to low bonus
 7) reduced mobility (speed):
 8) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction)
-9) socially inept/stinky/bald: you check against a higher DC for social checks. -mid bonus
+9) socially inept/stinky/bald: you check against a higher DC for social checks (anywhere from 3-6 depending on situation). - (3)
 10) lowered regeneration (magical):
 11) lowered regeneration (physical):
-12) ravenous appetite:
+12) ravenous appetite: 
 13) stat penalty: minus 1 to all stats - (5)
 14) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
 15) hesitant: lowered initiative - mid/high bonus

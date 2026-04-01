@@ -22,7 +22,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 10) x
 11) excretion (offensive): excrete damaging liquid which may be coated on equipped items for various bonuses
 12) excretion (defensive): excrete damaging liquid which may be coated on equipped items for various bonuses
-14) debuff resist: Dazed,  - (5)
+14) debuff resist: Dazed,......  - (5)
 15) flight (weak): spend actions points to lift off. flying speed is lower than walk speed. - (5)
 16) flight (potent): no action cost to lift off. flying speed is equal to walk speed. - (7)
 17) terrain proficiency: reduced movement penalty from difficult terrain - (3)

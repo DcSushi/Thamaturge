@@ -19,15 +19,18 @@
 
 ### hex beast:
 
-you gain a familiar with a number of investment points to put towards various stats and racial bonuses. your beast has a number of investment points equal to 15 + 3 per witch level.
-
-you may spend these investment points to improve the beasts stats as shown in the chart below
-
-| |AP|HP|AC|Armor|Speed|St|Ag|Fo|Mi|Wi|At|race points|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Base|2|10|10|0|4 tiles|6|6|6|6|6|6|5|
-|invest cost|10|1|2|3|3|1|1|1|1|1|1|1|
-|invest bonus|1|2|1|1|1|1|1|1|1|1|1|1|
+  + you have a companion creature which fights beside you. it has 2 action points and can take a number of forms:
+    + your companion levels up when you do, and gains hp in the same way you do
+    + your companion has 15 + 3 per level race points and can take features and debuffs which could apply to it
+    
+      
+| shape | movespeed | HP | conditions | damage | accuracy | DV | AV |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| swift quadroped | 8 tiles | 2d4, +2 vitality | + 3 accuracy when ally within 1 tile | 2d6 + 5 | +6 | +5 | +2 |
+| brutal quadroped | 6 tiles | 3d4 +3 vitality | creatures hit by attacks make a (8 + ranger level) fortitude save or roll for a major injury| 2d8 +7 |+4| +3 | +4 |
+| avian | 12 tiles | 2d2, +1 vitality | immune to opportunity attacks, flying | 2d4 + 1 | +6 | +8 | +0 |
+| amphibian | 6 tiles (10 in water) | 3d4 +3 vitality | immune to opportunity attacks | 2d10 + 4 |+4| +3 (+6 in water)| +2 |
+| arachnid | 10 tiles | 2d4 +2 vitality | makes one free opportunity attack per turn, applies poison on hit (1d4 poison damage per ranger level at start of creatures turn)| 1d4 + 3 | +6 | +4 | +3 |
 
 your hex beast will gain a buff opposite and equal to any debuffs you apply if applicable. (reductions to stats result in an improvement to stats, stuns result in 2 consecutive turns on the beasts next turn, etc)
 

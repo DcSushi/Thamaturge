@@ -73,7 +73,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 59) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. - (5)
 60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area. - (5)
 61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. - (4)
-62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different race feature with a cost of 7 or less until you use this feature again. - (10)
+62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different origin feature with a cost of 7 or less until you use this feature again. - (10)
 63) charm resistance: charms of tier 2 and below do not affect you. charms of tier 3 and higher have a reduced DC of 5 for checks and saves associated with them.. - (7)
 
 ## ORIGIN DEFECTS

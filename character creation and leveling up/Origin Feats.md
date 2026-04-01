@@ -38,8 +38,8 @@ Special Origin Defects may also be taken to increase the amount of origin points
 26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. (4)
 27) blindsight (truesight):
 28) beautiful: the expected roll to impress or be liked by creatures is reduced. - low cost (2)
-29) heightened regeneration (physical): you gain more health from short rests. .....
-30) heightened regeneration (magical): you gain more mana from short rests........
+29) heightened regeneration (physical): you gain more health from short rests. physical status effects have their durations reduced by 25% (status effects still last a minimum of 1 round) - (5)
+30) heightened regeneration (magical): you gain more mana from short rests. Reduced duration of spell applied to you and of magical status effects by 25% (status effects still last a minimum of 1 round) - (5)
 31) vampiric ability: may take a special action to make an unarmed strike against a bleeding creature. on a hit you heal (scales with level) and deal low damage. Fresh blood (has not been outside the body for over 1 minute) is the only blood which nourishes you in this way.
     
       If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved.

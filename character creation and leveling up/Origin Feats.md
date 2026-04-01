@@ -1,3 +1,18 @@
+### notes for WIP things that need to be finished
+
+1) lich feature/defect which ties their life to an item
+2) undead feature 
+3) undead defects (healing magic does radiant dmg)
+4) detachable/reforming limbs: you slowly reform when downed like a video game skeleton
+5) bonus resilience when downed (ie death save-like thing)
+6) photosynthesis
+7) daylight proficiency
+8) animal whisperer: basically perma speak with animals
+9) 
+
+
+
+
 ## ORIGIN FEATS
 
 A typical player character will recieve 15-30 origin points at level 1, and further origin points are not strictly provided by level ups, but may be awarded by a dungeon master.

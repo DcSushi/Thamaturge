@@ -93,4 +93,4 @@ Special Origin Defects may also be taken to increase the amount of origin points
 14) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
 15) hesitant: lowered initiative - mid/high bonus
 16) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
-17) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 fire damage per your total level. Proper attire can mitigate this but while wearing it you have reduced agility.
+17) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 radiant damage per your total level. Proper attire can mitigate this but while wearing it you have your agility reduced by 2. (5)

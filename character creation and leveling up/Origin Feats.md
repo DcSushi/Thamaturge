@@ -89,9 +89,8 @@ Special Origin Defects may also be taken to increase the amount of origin points
 10) lowered regeneration (magical):
 11) lowered regeneration (physical):
 12) ravenous appetite:
-13) volatile spellcasting: wildmagic sorcerer without the benefits. only characters who have atleast 1 level in a spellcasting class can take this. - high bonus.
-14) stat penalty: can be taken multiple times, and for different stats each time. - low bonus.
-15) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
-16) hesitant: lowered initiative - mid/high bonus
-17) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
-18) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 damage per your total level. Proper attire can mitigate this but while wearing it you have reduced agility.
+13) stat penalty: can be taken multiple times, and for different stats each time. - low bonus.
+14) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
+15) hesitant: lowered initiative - mid/high bonus
+16) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
+17) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 damage per your total level. Proper attire can mitigate this but while wearing it you have reduced agility.

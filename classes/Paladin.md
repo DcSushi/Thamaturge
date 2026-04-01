@@ -1,4 +1,4 @@
-2d8 HP
+2d10 HP
 
 +0 DV bonus
 

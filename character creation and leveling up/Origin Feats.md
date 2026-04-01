@@ -12,7 +12,7 @@
 10) physical damage resistance of your choice: - (12)
 11) voice mimicing: being able to recreate voices that youve heard for atleast a combined 5 minutes - (4)
 12) quadropedal running: your dash actions are improved by 1 tile (5)
-13) 
+13) excretion (medical/food): you can excrete up to 10 doses of substance per day which can substitute 1 ration each, and reduce the duration on illnesses and poisons currently on a creature.
 
 
 

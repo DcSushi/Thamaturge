@@ -4,21 +4,21 @@ A typical player character will recieve 15-30 origin points at level 1, and furt
 
 Special Origin Defects may also be taken to increase the amount of origin points you may spend. whether certain origin feats or defects may be taken is up to DM discretion.
 
-1) breath weapon: (possibly slightly higher cost for unique elements) - mid cost (4-7)
+1) breath weapon: (possibly slightly higher cost for unique elements) - mid cost (6)
 2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - mid cost (3)
 3) Tail (balance): 
-4) natural/prostetic weapon: this feature can be purchased, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. - mid cost (4)
+4) natural/prostetic weapon: this feature can be purchased, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. - (4)
 
-    4b) enhanced weapon: conditional bonus, like action economy reduction - low cost (2 on top of 4a)
+    4b) enhanced weapon: conditional bonus, like action economy reduction - (2 additional cost)
 
-    4c) poison or other status effect: small debuffs + bonus elemntal dmg on natural weapon - high additional cost (4 on top of 4a ) 
+    4c) poison or other status effect: small debuffs + bonus elemntal dmg on natural weapon - (4 additional cost) 
 5) elemental resistance: has environmental bonuses for certain elements, such as hot and cold, but does not change price. Can be purchased multiple times. - (6)
 6) x
 7) x
-8) bonus move speed: self explanatory - mid/high cost (6-7)
-9) night vision: reduced pentaly to all sight based rolls in darkness - low cost (3)
+8) bonus move speed: self explanatory - (6)
+9) night vision: reduced pentaly to all sight based rolls in darkness - (3)
     
-   8b) heat vision: previous effects + bonus to seeing creatures who are disguised/behind cover - no increased cost
+   9b) heat vision: previous effects + bonus to seeing creatures who are disguised/behind cover - (2 additional cost)
 10) x
 11) excretion (offensive): excrete damaging liquid which may be coated on equipped items for various bonuses
 12) excretion (defensive): excrete damaging liquid which may be coated on equipped items for various bonuses
@@ -58,8 +58,8 @@ Special Origin Defects may also be taken to increase the amount of origin points
 45) internal catalyst: you do not require a wand or other catalyst to cast spells, you also do not need to speak incantation or do gestures as part of casting costs. creatures may still notice you are casting spells (define if your eyes glow, hair is blown, other phenomena) - low/mid cost (4)
 46) mineral diet (or other unique diet): you do not need to use rations in order to gain any benefits food would provide so long as your choses substance is nearby (all plant matter, or minerals, etc) - low/mid cost (3)
 47) elemental affinity: your spells of one element are improved (damage consistency), and the effects of spells of the opposite element are reduced (probably also dmg consistency) - mid cost (5)
-48) telepathy: you may speak with creatures mentally from upto 500ft (100 tiles) away, and you may speak with other creatures who are telepathic from 10 times that distance. creatures do not need to share a language to speak this way. - mid/high cost (6)
-49) telekenesis: you can interact with items which arent being worn or carried from up to 10 tiles away (~50ft). you still must make steath checks to take items. Any checks you might make which would require strength instead use your mind stat. - mid/high cost (6-7)
+48) telepathy: you may speak with creatures mentally from upto 500ft (100 tiles) away, and you may speak with other creatures who are telepathic from 10 times that distance. creatures do not need to share a language to speak this way. - (6)
+49) telekenesis: you can interact with items which arent being worn or carried from up to 10 tiles away (~50ft). you still must make steath checks to take items. Any checks you might make which would require strength instead use your mind stat. - (6)
 50) bioluminescence (controllable maybe):
 51) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc)
 52) camoflauge:
@@ -79,19 +79,20 @@ Special Origin Defects may also be taken to increase the amount of origin points
 
 1) dietary restriction: rations for you cost additional coin 
 2) easily injured: - high point bonus
-3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. (4)
-4) oblivious (sight): - med to high bonus 4b) lowered bonus if you choose to have this feature only apply at a certain time of day
-5) oblivious (hearing): - mid bonus
-6) weakened immune system: - mid to low bonus
-7) reduced mobility (speed):
-8) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction)
-9) socially inept/stinky/bald: you check against a higher DC for social checks (anywhere from 3-6 depending on situation). - (3)
-10) lowered regeneration (magical):
-11) lowered regeneration (physical):
-12) ravenous appetite: 
-13) stat penalty: minus 1 to all stats - (5)
-14) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
-15) hesitant: lowered initiative - mid/high bonus
-16) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
-17) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 radiant damage per your total level. Proper attire can mitigate this but while wearing it you have your agility reduced by 2. (5)
-18) mystic beast: you are counted as a magical beast for the purposes of silver and other anti-magic effects - (3)
+3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. can be taken multiple times. (4)
+4) oblivious (sight): penalty (-3) to all vision based checks - (3)
+5) blind: ya blind. you much take this feature alongside some kind of blindsight or some other origin feature. reduce the cost of that feature by 4 
+6) oblivious (hearing): - mid bonus
+7) weakened immune system: - mid to low bonus
+8) reduced mobility (speed):
+9) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction)
+10) socially inept/stinky/bald: you check against a higher DC for social checks (anywhere from 3-6 depending on situation). - (3)
+11) lowered regeneration (magical):
+12) lowered regeneration (physical):
+13) ravenous appetite: 
+14) stat penalty: minus 1 to all stats - (5)
+15) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
+16) hesitant: lowered initiative - mid/high bonus
+17) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus
+18) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 radiant damage per your total level. Proper attire can mitigate this but while wearing it you have your agility reduced by 2. (5)
+19) mystic beast: you are counted as a magical beast for the purposes of silver and other anti-magic effects - (3)

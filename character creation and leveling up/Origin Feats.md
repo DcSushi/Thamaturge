@@ -4,8 +4,8 @@ A typical player character will recieve 15-30 origin points at level 1, and furt
 
 Special Origin Defects may also be taken to increase the amount of origin points you may spend. whether certain origin feats or defects may be taken is up to DM discretion.
 
-1) breath weapon: (possibly slightly higher cost for unique elements) - mid cost (6)
-2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - mid cost (3)
+1) breath weapon: (possibly slightly higher cost for unique elements) - (6)
+2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - (3)
 3) Tail (balance): 
 4) natural/prostetic weapon: this feature can be purchased, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. - (4)
 

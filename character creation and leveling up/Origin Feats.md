@@ -40,7 +40,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
    9b) heat vision: previous effects + bonus to seeing creatures who are disguised/behind cover - (2 additional cost)
 10) x
 11) excretion (offensive): excrete damaging liquid which may be coated on equipped items for various bonuses
-12) excretion (defensive): excrete damaging liquid which may be coated on equipped items for various bonuses
+12) excretion (defensive): a mucus covers your body, granting you a layer of poisonous defense. unarmed attacks against you encour a hefty debuff with damage over time and accuracy penalties - (4)
 14) debuff resist: Dazed,......  - (5)
 15) flight (weak): spend actions points to lift off. flying speed is lower than walk speed. - (5)
 16) flight (potent): no action cost to lift off. flying speed is equal to walk speed. - (7)

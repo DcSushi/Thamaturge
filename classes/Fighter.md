@@ -21,7 +21,7 @@
      - hobble: for every 3 bonus dmg, you may reduce their movespeed by 1 tile on their next turn.
        
 - Heart of Perseverance 
-   + once per short rest when you reach 0 hp, you may begin to regenerate 1d6+2 now and at the start of every turn for the next 3 turns 
+   + once per short rest when you reach 0 hp, you may begin to regenerate 1d6+1 per fighter level now and at the start of every turn for the next 3 turns 
        + This gives a penalty of -2 on every d20 roll for the rest of the day 
  
 - Stalwart heart 

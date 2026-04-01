@@ -50,7 +50,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 37) water breathing: you can breathe underwater. - low cost (3)
 38) magical respiration: you no longer need to breathe or can breathe in any circumstances. - mid cost (5)
 39) aquatic agility:
-40) quick learning (combat): 
+40) quick learning (combat): if you have seen a creature use an ability before, your DV is increased against it by 3, and all saving throws against it are increased by 2.
 41) thorns/spike armor: cannot equip most armors. creatures which hit you with a melee attack take damage. effects applied to natural/prosthetic weapons are applied to spike armor. - mid cost (5)
 42) improved metabolism (mental): you may spend an additional amount of time during a rest to meditate. if you do, you gain the benefit of having consumed extra rations during that short rest.
 43) improved metabolism (physical):

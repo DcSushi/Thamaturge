@@ -43,9 +43,9 @@ Special Origin Defects may also be taken to increase the amount of origin points
     
       If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved.
           - (8)
-32) x
-33) x
-34) x
+32) some way to straight up be a dog. probably better movespeed too - (6)
+33) frog tongue: you have a tounge which can be shot up to 4 tiles away (20ft) to attempt to steal (stealth) an equipped or unequiped item, or to disarm a creature (they make an athletics save agianst 12 + your level) - (5)
+34) some way to become goop and slip thru cracks/doors: - (9)
 35) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost
 36) Heightened carrying capacity: worn or carried items are counted as being half as heavy for you. talk with your GM about whether or not a precise inventory will be kept before taking this feature. - (4)
 37) water breathing: you can breathe underwater. - (3)

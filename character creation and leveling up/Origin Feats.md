@@ -89,7 +89,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 10) lowered regeneration (magical):
 11) lowered regeneration (physical):
 12) ravenous appetite:
-13) stat penalty: can be taken multiple times, and for different stats each time. - low bonus.
+13) stat penalty: minus 1 to all stats - (5)
 14) mystic hunger: every [unit of time] you must drain the magic from a magical item. for the duration that you arent satiated, you have reduced maximum mana and health. - mid bonus
 15) hesitant: lowered initiative - mid/high bonus
 16) nerves: if you took melee damage last turn, you have a penalty to accuracy rolls, and have slightly increased mana costs. -mid bonus

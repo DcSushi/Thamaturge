@@ -2,7 +2,7 @@
 
 1) lich feature/defect which ties their life to an item
 2) undead feature 
-3) undead defects (healing magic does radiant dmg)
+3) undead defects (healing magic does radiant dmg) - POTENTIALLY ALL UNDEAD FEATURES COULD BE COMBINED INTO 1 LIKE HOW PROSTHETIC WEAPONS ARE
 4) detachable/reforming limbs: you slowly reform when downed like a video game skeleton
 5) bonus resilience when downed (ie death save-like thing)
 6) photosynthesis

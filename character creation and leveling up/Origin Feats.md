@@ -33,8 +33,8 @@ Special Origin Defects may also be taken to increase the amount of origin points
 21) heigtened hearing: bonus to passive perception against hearing related checks. can hear creatures from three times the distance (from 80ft to 240ft) and can hear something less intelligable from 480ft away (up from 160) - low cost (3)
 22) size increase: foritude and strength bonus. your size is large (up from medium) -undetermined cost
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) -undetermined cost (lower than size incerase)
-24) more arms:
-25) more limbs:
+24) more arms: 2 more arms - (10)
+25) x
 26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. (4)
 27) blindsight (truesight):
 28) beautiful: the expected roll to impress or be liked by creatures is reduced. - low cost (2)

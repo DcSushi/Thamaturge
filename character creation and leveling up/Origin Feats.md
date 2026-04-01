@@ -14,7 +14,11 @@
 12) quadropedal running: your dash actions are improved by 1 tile (5)
 13) excretion (medical/food): you can excrete up to 10 doses of substance per day which can substitute 1 ration each, and reduce the duration on illnesses and poisons currently on a creature. - (4)
 14) birds eye: bonus to perception skill. you can clearly make out shapes and images from much farther away with proper light. - (5)
-15) 
+15) potent nose:
+16) expert tracker:
+17) disguised footsteps:
+18) levitation (weak): you hover an inch above all surfaces which allows your footsteps to be invisible and allows walking on water - (5)
+19) 
 
 
 

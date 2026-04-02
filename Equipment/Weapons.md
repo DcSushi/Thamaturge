@@ -19,4 +19,5 @@
 | shortbow | 2d8 piercing | [agile](attributes/agile.md) | 2 |
 | longbow | 2d8 piercing + str | [hefty](attributes/hefty.md) | 2 |
 | long rifle | 20 piercing | [loaded](attributes/loaded.md) (2 AP) 1 round magazine | 2 |
-| revolver | 10 piercing | [loaded](attributes/loaded.md) (1 AP for 2 rounds) 6 round magazine  | 1 |
+| revolver | 12 piercing | [loaded](attributes/loaded.md) (1 AP for 2 rounds) 6 round magazine  | 1 |
+| pocket pistol | 8 piercing | [loaded](attributes/loaded.md) 5 round magazine, 2 action reload  | 1 |

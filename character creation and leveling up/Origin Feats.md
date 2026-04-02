@@ -11,15 +11,15 @@
 9) big lungs:
 10) physical damage resistance of your choice: - (12)
 11) voice mimicing: being able to recreate voices that youve heard for atleast a combined 5 minutes - (4)
-13) excretion (medical/food): you can excrete up to 10 doses of substance per day which can substitute 1 ration each, and reduce the duration on illnesses and poisons currently on a creature. - (4)
-14) birds eye: bonus to perception skill. you can clearly make out shapes and images from much farther away with proper light. - (5)
-15) potent nose:
-16) expert tracker:
-17) disguised footsteps:
-18) levitation (weak): you hover an inch above all surfaces which allows your footsteps to be invisible and allows walking on water - (5)
-19) expert forager:
-20) improved jumping: - (7)
-21) silver tongue: you have a bonus to decieve someone with diplomacy checks - (4)
+12) excretion (medical/food): you can excrete up to 10 doses of substance per day which can substitute 1 ration each, and reduce the duration on illnesses and poisons currently on a creature. - (4)
+13) birds eye: bonus to perception skill. you can clearly make out shapes and images from much farther away with proper light. - (5)
+14) potent nose:
+15) expert tracker:
+16) disguised footsteps:
+17) levitation (weak): you hover an inch above all surfaces which allows your footsteps to be invisible and allows walking on water - (5)
+18) expert forager:
+19) improved jumping: - (7)
+20) 
 
 
 

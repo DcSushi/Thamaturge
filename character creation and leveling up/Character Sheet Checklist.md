@@ -2,7 +2,7 @@
 
 ### CORE ATTRIBUTES
 
- - this is the most important piece of a level 1 character. it informs your skills, your desired equipment, and class. whether you finalize your stats before or after deciding on your class and origin features is up to you.
+ - this is the most important piece of a level 1 character. it informs your skills desired skills, equipment, and class. whether you finalize your stats before or after deciding on your class and origin features is up to you.
 
     - the core attributes are as follows
 

@@ -4,10 +4,8 @@
 
 ### 4 weapon proficiencies
 
-### 3 AC bonus
--------------------------------------------
- - keep in mind that on any level with a choice feature you may choose to go back for a feature from earlier in the class instead (no stacking)
--------------------------------------------
+### 3 DV bonus
+
 - # LVL 1 
 
 ### Warrior Heart: 

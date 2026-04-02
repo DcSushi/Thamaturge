@@ -1,7 +1,7 @@
 ### notes for WIP things that need to be finished
 
 1) lich feature/defect which ties their life to an item
-2) undead feature 
+2) undead feature: temporary corpse part grafting like godrick the grafted
 3) undead defects (healing magic does radiant dmg) - POTENTIALLY ALL UNDEAD FEATURES COULD BE COMBINED INTO 1 LIKE HOW PROSTHETIC WEAPONS ARE
 4) detachable/reforming limbs: you slowly reform when downed like a video game skeleton
 5) bonus resilience when downed (ie death save-like thing)

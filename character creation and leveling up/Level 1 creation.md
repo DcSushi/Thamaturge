@@ -25,17 +25,17 @@ The core attributes are as follows,
 
 + Example roll:
   
-S 5, D 5, V 5, W 5, I 5, C 5
+Str 5, Agi 5, For 5, Min 5, Wil 5, Atu 5
 
 2d4 rolls: 5, 7, 5, 5, 4, 6
 
-S 9, D 12, V 11, W 10, I 10, C 10
+Str 9, Agi 12, For 11, Min 10, Wil 10, Atu 10   
 
-+ 1  + 0   + 0   + 0   + 1   + 1  <---- coin flips 
+Str + 1, Agi + 0, For + 0, Min + 0, Wil + 1 Atu + 1  <---- coin flips 
 
-+ 0  + 3   + 1   + 1   + 2   + 1  <---- 8 freely allocated points
+Str + 0, Agi + 3, For + 1, Min + 1, Wil + 2, Atu + 1  <---- 8 freely allocated points
 
-S 10, D 15, V 12, W 11, I 13, C 12 <--- final stats for level 1 
+Str 10, Agi 15, For 12, Min 11, Wil 13, Atu 12 <--- final stats for level 1 
 
 # HP 
 

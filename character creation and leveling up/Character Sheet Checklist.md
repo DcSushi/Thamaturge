@@ -8,7 +8,7 @@
 
 ### Strength (STR or ST) 
 
-- what do you think it does? Affects your ability to commit feats of strength, climbing, lifting boulders, etc. Every strength modifier (2 above or below 10) will increase the melee damage that weapons do by 1, increase your carrying capacity, and allow you to properly use more kinds of equipment.
+- what do you think it does? Affects your ability to commit feats of strength, climbing, lifting boulders, etc. Every strength modifier (2 above or below 10) will increase the melee damage that weapons do by 1, increase your carrying capacity, and allow you to properly use more kinds of equipment. heavier weapons may also have armor penetration abilites which are affected by strength.
 
 ### Agility (AGI or AG) 
 

@@ -18,7 +18,7 @@
 16) expert tracker:
 17) disguised footsteps:
 18) levitation (weak): you hover an inch above all surfaces which allows your footsteps to be invisible and allows walking on water - (5)
-19) 
+19) expert forager: 
 
 
 

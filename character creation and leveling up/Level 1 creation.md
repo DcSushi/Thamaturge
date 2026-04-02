@@ -1,6 +1,6 @@
 # STATS
 
-The stats are as follows,
+The core attributes are as follows,
 
 ### Strength 
 

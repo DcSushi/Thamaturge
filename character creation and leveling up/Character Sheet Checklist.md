@@ -7,10 +7,15 @@
     - the core attributes are as follows
 
 Strength (STR or ST)
+
 Agility (AGI or AG)
+
 Fortitude (FOR or FO)
+
 Mind (MIN or MI)
+
 Willpower (WIL or WI)
+
 Attunement (ATU OR AT)
 
 ### CLASS

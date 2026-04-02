@@ -55,7 +55,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 19) natural armor (heavy): cannot equip many kinds of armor (dependant on the form this takes. turtle shell vs exoskeleton vs being a robot). high armor based reduction to all phys dmg. lowered dodge value. - (7)
 20) wall climbing: spiders mans - (5)
 21) heigtened hearing: bonus to passive perception against hearing related checks. can hear creatures from three times the distance (from 80ft to 240ft) and can hear something less intelligable from 480ft away (up from 160) - (3)
-22) size increase: foritude and strength bonus. your size is large (up from medium) - (7)
+22) size increase: foritude and strength bonus. your size is large (up from medium) - (6)
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) - (6)
 24) more arms: 2 more arms - (10)
 25) x

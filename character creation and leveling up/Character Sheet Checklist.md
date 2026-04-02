@@ -16,7 +16,7 @@ Mind (MIN or MI)
 
 Willpower (WIL or WI)
 
-Attunement (ATU OR AT)
+Attunement (ATU or AT)
 
 ### CLASS
 

@@ -4,7 +4,7 @@
 2) you gain additional accuracy from positional bonuses
 3) you gain accuracy against a creature for every debuff theyre suffering from
 4) bonus to sabotage related checks and playing them off
-5) 
+5) cunning reaction: a number of times equal to your attunement modifier per short rest, you can take a reaction which costs 2 or fewer action points without paying their action point cost.
 
 
 ### 2d8 hp

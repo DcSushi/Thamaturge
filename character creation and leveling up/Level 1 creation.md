@@ -1,5 +1,9 @@
 # STATS
 
+### These rules are up for debate:
+
+whether or not your table chooses to roll stats like this, use a point system, roll stats some other way, or anything else you can think of is totally up to you and your GM!
+
 The core attributes are as follows,
 
 ### Strength 

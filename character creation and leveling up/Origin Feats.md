@@ -56,8 +56,8 @@ Special Origin Defects may also be taken to increase the amount of origin points
 19) natural armor (heavy): cannot equip many kinds of armor (dependant on the form this takes. turtle shell vs exoskeleton vs being a robot). high armor based reduction to all phys dmg. lowered dodge value. - (7)
 20) wall climbing: spiders mans - (5)
 21) heigtened hearing: bonus to passive perception against hearing related checks. can hear creatures from three times the distance (from 80ft to 240ft) and can hear something less intelligable from 480ft away (up from 160) - (3)
-22) size increase: foritude and strength bonus. your size is large (up from medium) -undetermined cost
-23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) -undetermined cost (lower than size incerase)
+22) size increase: foritude and strength bonus. your size is large (up from medium) - (7)
+23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) - (6)
 24) more arms: 2 more arms - (10)
 25) x
 26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. you can invest additional points for 50ft of range and slightly improved accuracy of the sense each (4)
@@ -87,11 +87,11 @@ Special Origin Defects may also be taken to increase the amount of origin points
 48) telepathy: you may speak with creatures mentally from upto 500ft (100 tiles) away, and you may speak with other creatures who are telepathic from 10 times that distance. creatures do not need to share a language to speak this way. - (6)
 49) telekenesis: you can interact with items which arent being worn or carried from up to 10 tiles away (~50ft). you still must make steath checks to take items. Any checks you might make which would require strength instead use your mind stat. - (6)
 50) bioluminescence: you have full control over light emitting from some part of your body. you can control the radius of the light from 5-360 degrees using an action point. you can also control the distance this light eminates anywhere from 0 tiles to 15 (0-75ft, 0-25m) - (2)
-51) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc)
-52) camoflauge:
+51) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc) - (4)
+52) camoflauge: 
 53) darkness proficiency: at night you have increased DV (+2), increased initiative (+2), and increased saving throws (+1) - (4)
 54) gas production:
-55) expert haggler:
+55) silver tongue: You have a bonus to deception related diplomacy checks and you purchase/sell items for 15% less/more on a successful contested diplomacy check between yourself and the seller/buyer. - (5)
 56) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing. what materials you can burrow through is up to DM discretion, but this feat is balanced around exclusively dirt/snow - (4)
 57) focused aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you. - (5)
 58) lengthened casting: spell attack rolls have infinite range for you, with attacks over double the normal range being made with penalty. targeted spells have increased range. - (5)
@@ -104,12 +104,12 @@ Special Origin Defects may also be taken to increase the amount of origin points
 ## ORIGIN DEFECTS
 
 1) dietary restriction: rations for you cost additional coin (50%-ish. Up to GM discretion) and are unique to your diet. Only take this defect if your game is using precise ration rules. - (2)
-2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or an appropriate injury according to the attack which dealt damage. - (6)
+2) easily injured: keep track of damage you take. when it exceeds half your max health (rounded up) you take a minor injury. either roll 1d6, each number representing from top to bottom on the character sheet which stat is penalized, or take an appropriate injury according to the attack which dealt damage. - (6)
 3) elemental weakness: Choose an element that you are vulnerable to. might weaken you for being in specific terrain conditions if you have a matching element. you can take this defect multiple times. - (4)
 4) oblivious (sight): penalty (-3) to all vision based checks - (3)
 5) blind: ya blind. you must take this feature alongside some kind of blindsight or some other origin feature. reduce the cost of that feature by 4 
 6) oblivious (hearing): Reduce all checks related to hearing by (3) - (2)
-7) weakened immune system: you no longer naturally recover from non-damage-over-time effects applied by poisons or ilnesses, even during a fully sheltered long rest. you must be cured by someone to recover. - (3)
+7) weak immune system: you no longer naturally recover from non-damage-over-time effects applied by poisons or ilnesses, even during a fully sheltered long rest. you must be cured by someone to recover. - (3)
 8) reduced mobility (speed): your speed is reduced by 1 tile. you may take this defect multiple times. - (4)
 9) reduced mobility (item interaction): you may no longer interact with one item for free every turn. (door, taking something from a bag, etc.) (you may pay 1 action point to replace an item interaction) - (5)
 10) socially inept/stinky/bald: you check against a higher DC for social checks (anywhere from 3-6 depending on situation). - (3)

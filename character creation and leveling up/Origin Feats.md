@@ -5,8 +5,8 @@
 3) undead defects (healing magic does radiant dmg) - POTENTIALLY ALL UNDEAD FEATURES COULD BE COMBINED INTO 1 LIKE HOW PROSTHETIC WEAPONS ARE
 4) detachable/reforming limbs: you slowly reform when downed like a video game skeleton
 5) bonus resilience when downed (ie death save-like thing)
-6) photosynthesis
-7) daylight proficiency
+6) photosynthesis:
+7) daylight proficiency:
 8) animal whisperer: basically perma speak with animals
 9) big lungs:
 10) physical damage resistance of your choice: - (12)
@@ -18,7 +18,9 @@
 16) expert tracker:
 17) disguised footsteps:
 18) levitation (weak): you hover an inch above all surfaces which allows your footsteps to be invisible and allows walking on water - (5)
-19) expert forager: 
+19) expert forager:
+20) improved jumping: - (7)
+21) silver tongue: you have a bonus to decieve someone with diplomacy checks - (4)
 
 
 

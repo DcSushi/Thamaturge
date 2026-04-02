@@ -6,17 +6,17 @@
 
     - the core attributes are as follows
 
-Strength (STR or ST)
+Strength (STR or ST) - what do you think it does? Affects your ability to commit feats of strength, climbing, lifting boulders, etc. Every strength modifier (2 above or below 10) will increase the melee damage that weapons do by 1, increase your carrying capacity, and allow you to properly use more kinds of equipment.
 
-Agility (AGI or AG)
+Agility (AGI or AG) - Affects your reflexes and precision, alongside flexibility and evasion. Jumping, climbing, lockpicking and more. Every agility modifier (2 above or below 10) will increase your initiative bonus and all accuracy rolls by 1.
 
-Fortitude (FOR or FO)
+Fortitude (FOR or FO) - influences your physical resilience, poison resistance, and maximum hp. Every time you level up, add 2 times your Fortitude modifier (2 above or below 10) to your max HP roll.
 
-Mind (MIN or MI)
+Mind (MIN or MI) - dictates your proficiency with puzzles, quick thinking, recalling knowledge, and inginuity. every mind modifier (2 above or below 10) will increase the amount of mana you restore at rests by a flat 5% (16 mind = a +3 modifier, and that means that a properly sheltered and fed short rest will restore 65% missing mana instead of 50%), up to a cap of 25%
 
-Willpower (WIL or WI)
+Willpower (WIL or WI) - dictates your ability to resists temptation and charms, your mental resilience, and your ability to reason with others. every willpower modifier (2 above or below 10) will increase the amount of health you restore at short rests by a flat 5% (16 mind = a +3 modifier, which means that a properly sheltered and fed short rest will restore 65% missing health instead of 50%), up to a cap of 25%
 
-Attunement (ATU or AT)
+Attunement (ATU or AT) - dictates your attunement to magic inherrently, via soul or blood or whatever magic system your game uses. Useful for increasing the amount of times you can use class features per rest, increasing the effects of equipped magic items, and for keeping a calm mind in tense situations, magical and not.
 
 ### CLASS
 

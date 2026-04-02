@@ -4,7 +4,7 @@
 
 6 tiles
 
-0 mana
+3 weapon proficiencies
 
 +2 DV bonus
 

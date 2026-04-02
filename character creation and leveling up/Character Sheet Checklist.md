@@ -29,6 +29,8 @@ Attunement (ATU or AT)
 ### EQUIPMENT
 
   - this must be done after you know your attributes and class, since both influence the variety of weaponry and equipment you would prefer and be able to wield
+    
+     - also be sure to discuss with your GM which consumable items you might have, and how much cash your character starts with!
 
 ### SKILLS
 

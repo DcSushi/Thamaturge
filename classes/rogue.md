@@ -3,7 +3,8 @@
 1) you gain additional DV from positional bonuses
 2) you gain additional accuracy from positional bonuses
 3) you gain accuracy against a creature for every debuff theyre suffering from
-4) 
+4) bonus to sabotage related checks and playing them off
+5) 
 
 
 ### 2d8 hp

@@ -17,6 +17,10 @@
 
 ## choice feature
 
+### hexblade: 
+
+### 
+
 ### hex beast:
 
   + you have a companion creature which fights beside you. it has 2 action points and can take a number of forms:

@@ -124,3 +124,4 @@ Special Origin Defects may also be taken to increase the amount of origin points
 20) mystic beast: you are counted as a magical beast for the purposes of silver and while under the effects of an anti-magic field or other anti-magic effect, your origin feats have no effect - (4)
 21) femcel: you have -4 to all social checks with men. - (2)
 22) incel: you have -4 to all social checks with women. - (2)
+23) themcel: you have -4. - (4)

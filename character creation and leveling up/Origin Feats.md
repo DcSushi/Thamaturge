@@ -38,7 +38,7 @@ Special Origin Defects may also be taken to increase the amount of origin points
 
     4c) poison or other status effect: small debuffs + bonus elemental dmg on natural weapon - (4 additional cost) 
 5) elemental resistance: has environmental bonuses for certain elements, such as hot and cold, but does not change price. Can be purchased multiple times. - (6)
-6) x
+6) opposable toes: you got monkey toes bro you can grab shit wit em - (3)
 7) x
 8) bonus move speed: your movespeed is increased by 1 tile. this feature may be taken multiple times. - (6)
 9) night vision: reduced pentaly to all sight based rolls in darkness - (3)

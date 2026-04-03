@@ -2,7 +2,7 @@
 
 5 tile speed
 
-+2 AC bonus
++2 DV bonus
 
 10 mana per level
 

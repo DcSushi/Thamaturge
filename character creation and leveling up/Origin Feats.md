@@ -122,3 +122,5 @@ Special Origin Defects may also be taken to increase the amount of origin points
 18) nerves: If you took melee damage last turn, your accuracy is reduced by (2) and your spells cost 20% additional mana (minimum of 1 additional mana). - (3)
 19) vampire penalties: for every 6 seconds in which you are exposed to sunlight, you take 1d4 radiant damage per your total level. Proper attire can mitigate this but while wearing it you have your agility reduced by 2. - (5)
 20) mystic beast: you are counted as a magical beast for the purposes of silver and while under the effects of an anti-magic field or other anti-magic effect, your origin feats have no effect - (4)
+21) femcel: you have -4 to all social checks with men. - (2)
+22) incel: you have -4 to all social checks with women. - (2)

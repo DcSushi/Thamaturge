@@ -19,6 +19,9 @@
 
 ### hexblade: 
 
+ + When you land a melee attack, you may expend additional action point
+     + 
+
 ### 
 
 ### hex beast:

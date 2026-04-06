@@ -24,7 +24,10 @@
    + you have an additional weapon proficiency
    + you must expend an action point in order to use this feature again
 
-### 
+### Witchcraft Specialist
+
++ you gain 5 skill points to divide among any tool skills that you like.
++ when making a tool check, you may expend 2 mana to increase the roll by 1, up to a maximum of 10 mana expended.
 
 ### hex beast:
 

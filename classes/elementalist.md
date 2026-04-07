@@ -13,6 +13,8 @@ KEY ATTRIBUTES:
 
 - ## 5 max mana per level
 
+- ## 2 weapon proficiencies 
+
 - does not gain mana on long or short rests
 
 | LV | features | upgrades|

@@ -18,7 +18,7 @@
 
 | element | saving throw | effect |
 |---|---|---|
-| fire | athletics | coat the affected tiles in fire if flammable, making them difficult terrain and dealing 1 fire damage per d8 of damage dealt for every tile a creature walks through |
+| fire | athletics | coat the affected tiles in fire if flammable, making them difficult terrain and dealing 1 fire damage per 1d8 of damage dealt for every tile a creature walks through |
 | lightning | fortitude | creatures who fail the saving throw have 1 AP and 2 tiles of movement removed at the start of their next turn |
 | ice | fortitude | the ground is coated in a layer of ice, creating difficult terrain. creatures who take actions on the ice make an athletics save or are flinched |
 | force | athletics | creatures who fail the save are pushed back a number of tiles equal to half the d8s of damage dealt rounded down. If a creature impacts a wall with tiles of knockback left to spare, they take 1d6 force damage for every leftover tile

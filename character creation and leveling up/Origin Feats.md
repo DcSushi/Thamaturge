@@ -46,9 +46,10 @@ As a general rule, you may not take features which negate the penalty of a featu
 9) night vision: reduced pentaly to all sight based rolls in darkness - (3)
     
    9b) heat vision: previous effects + bonus to seeing creatures who are disguised/behind cover - (2 additional cost)
-10) x
+10) xxx
 11) excretion (offensive): excrete damaging liquid which may be coated on equipped items for various bonuses
 12) excretion (defensive): a mucus covers your body, granting you a layer of poisonous defense. unarmed attacks against you encour a hefty debuff with damage over time and accuracy penalties - (4)
+13) xxx
 14) debuff resist: Dazed,......  - (5)
 15) flight (weak): spend actions points to lift off. flying speed is lower than walk speed. - (5)
 16) flight (potent): no action cost to lift off. flying speed is equal to walk speed. - (7)
@@ -60,7 +61,7 @@ As a general rule, you may not take features which negate the penalty of a featu
 22) size increase: foritude and strength bonus. your size is large (up from medium) - (6)
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) - (6)
 24) more arms: 2 more arms - (10)
-25) x
+25) xxx
 26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. you can invest additional points for 50ft of range and slightly improved accuracy of the sense each (4)
 27) blindsight (truesight): You have superman vision for 30 ft (6 tiles) - (5)
 28) beautiful: you roll against a lower DC for social checks and saves - (3)
@@ -69,7 +70,7 @@ As a general rule, you may not take features which negate the penalty of a featu
 31) vampiric ability: may take a special action to make an unarmed strike against a bleeding creature. on a hit you heal (scales with level) and deal low damage. Fresh blood (has not been outside the body for over 1 minute) is the only blood which nourishes you in this way.
     
       If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved. - (8)
-32) some way to straight up be a dog. probably better movespeed too - (6)
+32) Improved sprint: your dash actions grant an additional tile of movement - (4)
 33) frog tongue: you have a tounge which can be shot up to 4 tiles away (20ft) with 2 action points to attempt to steal (stealth) an equipped or unequiped item, or to disarm a creature (they make an athletics save agianst 12 + your level) - (5)
 34) some way to become goop and slip thru cracks/doors: - (9)
 35) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost

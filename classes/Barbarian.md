@@ -50,7 +50,7 @@
 # LVL 3
 
  ## Reckless attack:
- - you may choose to gain +4 accuracy with melee weapons this turn, but lower your AC by 4 until the start of your next turn
+ - you may choose to gain +5 accuracy with melee weapons this turn, but lower your DV by 4 until the start of your next turn
 
  ## Warrior flesh:
  - you gain +2 to athletics and vitality checks

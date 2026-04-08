@@ -24,6 +24,9 @@
 
 # LVL 1
 
+### Class DC:
+   - your class DC is equal to (5 + ATU + AGI + total martial levels). It will be called upon whenever a class feature or weapon attack forces another creature to make a saving throw.
+
 ## Choice feature:
 
 - Crippling Critical:

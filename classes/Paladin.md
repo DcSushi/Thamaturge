@@ -1,6 +1,6 @@
 2d10 HP
 
-+0 DV bonus
++1 DV bonus
 
 10 mana per level
 

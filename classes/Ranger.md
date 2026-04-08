@@ -24,3 +24,6 @@
 | avian | 12 tiles | 2d2, +1 vitality | immune to opportunity attacks, flying | 2d4 + 1 | +6 | +8 | +0 |
 | amphibian | 6 tiles (10 in water) | 3d4 +3 vitality | immune to opportunity attacks | 2d10 + 4 |+4| +3 (+6 in water)| +2 |
 | arachnid | 10 tiles | 2d4 +2 vitality | makes one free opportunity attack per turn, applies poison on hit (1d4 poison damage per ranger level at start of creatures turn)| 1d4 + 3 | +6 | +4 | +3 |
+
+# LVL 2 
+

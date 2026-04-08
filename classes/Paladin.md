@@ -40,7 +40,7 @@
 # LVL 2
 
 - ## Commanding presence
-	- while you contribute to a surrounded or fortified condition, they gain or lose additional AC equal to your charisma modifier
+	- while you contribute to a surrounded or fortified condition, they gain or lose additional DV equal to your Attunement modifier
 
 - ## Lay on hands
 	- with one action point, you may heal yourself or another creature within reach, using 1 mana per 2 hp healed, up to a maximum of 10 mana expended (+5 per level)

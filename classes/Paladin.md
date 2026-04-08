@@ -59,7 +59,7 @@
 	
 - Blood of ambrosia:
 		- you automatically succeed on the next saving throw which affects you, you may refresh this ability by using 4 action points. 
-		- this cost is reduced by at the start of every turn. If it reaches 0, it automatically refreshes
+		- this cost is reduced by 1 at the start of every turn. If it reaches 0, it automatically refreshes
 
 OR
 

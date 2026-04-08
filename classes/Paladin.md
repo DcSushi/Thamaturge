@@ -77,7 +77,7 @@ OR
 - SMITE! of worlds:
 	- when you hit with SMITE!, the next creature which uses mana to make a melee attack against that creature gains 5 mana (5 hp if they are blood hunter)
 	- for the duration your SMITE! deals an additional 1d4 per level radiant damage
-	- when you use SMITE! against a creature they make a constitution save against a DC (8 + STR + CHA). On a failure they roll for a major injury (typically dismemberment or heavily impaired movement).
+	- when you use SMITE! against a creature they make a vitality save. On a failure they roll for a major injury (typically dismemberment or heavily impaired movement).
 
 # LVL 4
 

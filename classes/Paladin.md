@@ -26,19 +26,19 @@
 - You may expend 10 mana to deal additional damage equal to your strength and your weapons damage die or dice with a melee or ranged weapon attack against a creature
   - the increased portion of damage is converted to radiant
   
-- ## Choice feature: Divine Oath
+## Choice feature: Divine Oath
 
-	- Justice
-		- when an ally within 15 tiles takes damage from a creature, so long as the attacking creature is within 15 tiles you may react with an action point to deal radiant damage equal to the amount taken by your ally. This costs 1 mana per 2 damage. if you do not have enough mana, you can choose to do damage equal to twice your remaining mana instead
+- Justice
+	- when an ally within 15 tiles takes damage from a creature, so long as the attacking creature is within 15 tiles you may react with an action point to deal radiant damage equal to the amount taken by your ally. This costs 1 mana per 2 damage. if you do not have enough mana, you can choose to do damage equal to twice your remaining mana instead
 
-	- Vigilance
-		- when an ally within 5 tiles could make an opportunity attack against a creature, you may also make an opportunity attack against them. 
-		- if you do, it deals 2d10 additional radiant damage and you may run towards the creature, not provoking opportunity attacks, if you react with a melee weapon.
-
-	- Prosperity
-		- Lay on hands is now ranged (6 tiles)
-		- when you or an ally within 3 tiles lands a melee attack, you may expend 5 mana to root the creature in vines if they fail an Athletics save (DC = 6+ATU+Paladin level)
-		- when a creature is rooted they cannot move and has a -3 to their DV until they spend 3 action points to break free.
+- Vigilance
+	- when an ally within 5 tiles could make an opportunity attack against a creature, you may also make an opportunity attack against them. 
+	- if you do, it deals 2d10 additional radiant damage and you may run towards the creature, not provoking opportunity attacks, if you react with a melee weapon.
+   
+- Prosperity
+	- Lay on hands is now ranged (6 tiles)
+	- when you or an ally within 3 tiles lands a melee attack, you may expend 5 mana to root the creature in vines if they fail an Athletics save (DC = 6+ATU+Paladin level)
+	- when a creature is rooted they cannot move and has a -3 to their DV until they spend 3 action points to break free.
 		
 # LVL 2
 

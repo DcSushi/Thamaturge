@@ -60,8 +60,8 @@
 - you may choose from 3 supernatural blessings when you use this feature:
 	
 - Blood of ambrosia:
-		- you automatically succeed on the next saving throw which affects you, you may refresh this ability by using 4 action points. 
-		- this cost is reduced by 1 at the start of every turn. If it reaches 0, it automatically refreshes
+	- you automatically succeed on the next saving throw which affects you, you may refresh this ability by using 4 action points. 
+	- this cost is reduced by 1 at the start of every turn. If it reaches 0, it automatically refreshes
 
 OR
 
@@ -74,9 +74,9 @@ OR
 OR
 
 - SMITE! of worlds:
-		- when you hit with SMITE!, the next creature which uses mana to make a melee attack against that creature gains 5 mana (5 hp if they are blood hunter)
-		- for the duration your SMITE! deals an additional 1d4 per level radiant damage
-		- when you use SMITE! against a creature they make a constitution save against a DC (8 + STR + CHA). On a failure they roll for a major injury (typically dismemberment or heavily impaired movement).
+	- when you hit with SMITE!, the next creature which uses mana to make a melee attack against that creature gains 5 mana (5 hp if they are blood hunter)
+	- for the duration your SMITE! deals an additional 1d4 per level radiant damage
+	- when you use SMITE! against a creature they make a constitution save against a DC (8 + STR + CHA). On a failure they roll for a major injury (typically dismemberment or heavily impaired movement).
 
 # LVL 4
 

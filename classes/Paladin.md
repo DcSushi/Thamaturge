@@ -44,9 +44,7 @@
 
 - ## Lay on hands
 	- with one action point, you may heal yourself or another creature within reach, using 1 mana per 2 hp healed, up to a maximum of 10 mana expended (+5 per level)
-   
 	- You can increase the cap by 10 by spending another action point, and double it by spending a minute casting lay on hands
-   
 	- if 10 or more mana is expended, you may also mend a minor injury or illness
 		- if 30 or more mana is expended you mend a major injury or illness
 		- if 50 or mana is expended you may regrow the limb of the affected creature

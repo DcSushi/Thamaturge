@@ -34,7 +34,7 @@
 
 	- Prosperity
 		- Lay on hands is now ranged (6 tiles)
-		- when you or an ally within 3 tiles lands a melee attack, you may expend 5 mana to root the creature in vines if they fail a CON save (DC = 6+cha+Paladin level)
+		- when you or an ally within 3 tiles lands a melee attack, you may expend 5 mana to root the creature in vines if they fail a CON save (DC = 6+ATU+Paladin level)
 		- when a creature is rooted they cannot move and has a -3 to their AC until they spend 3 action points to break free.
 		
 # LVL 2

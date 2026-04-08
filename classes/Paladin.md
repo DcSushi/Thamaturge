@@ -23,7 +23,7 @@
 - your class DC is equal to (5 + ATU + STR/AGI + total martial levels). it will be called upon any time a class feature or weapon attack forces another creature to make a saving throw.
 
 ### SMITE!:
-- You may expend 5 mana to double your weapon's damage for a single weapon attack. this does not double bonus damage from effects like critical damage.
+- You may expend 5 mana to double your weapon's damage for a single weapon attack. This double damage affects critical damage, but not other bonus damage effects like spells which deal their own damage when you land an attack.
   - the increased portion of damage is converted to radiant
   
 ## Choice feature: Divine Oath

@@ -20,3 +20,13 @@
 | 1 |  |  |
 | 2 |  |  |
 | 3 |  |  |
+
+
+# LVL 1
+
+## Choice feature:
+
+- Go for the Throat
+   + when you exceed a creatures DV when attacking them, you may reroll dice from the bonus damage if your weapon uses strength, or if your weapon uses agility you may apply one of the following effects:
+     - heavy bleed: instead of dealing the bonus damage now, when the affected creature starts it's next 3 turns, it takes damage equal to half of that value.
+     - hobble: for every 3 bonus dmg, you may reduce their movespeed by 1 tile on their next turn.

@@ -33,7 +33,7 @@
  
 * Vengeful Haste:
    - while raging you gain the following benefits:
-      - if you have 5 tiles of movement leftover, your AC increases by 2
+      - if you have 5 tiles of movement leftover, your DV increases by 2
       - your dash actions grant 3 tiles instead of 2
       - after moving at least 8 tiles in a turn, your next attack forces a hit creature to make a fortitude save equal to (8 + STR + barbarian level) or roll on the major injury table (broken or dismembered limbs typically)
         

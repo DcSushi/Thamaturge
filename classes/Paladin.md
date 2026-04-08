@@ -82,7 +82,7 @@ OR
 # LVL 4
 
 ## Bullwark:
-- Your brace reaction is upgraded from +2 AC to +3 AC and you can provide this bonus to allies within 1 tile instead of yourself. If the attack misses and was a melee attack, the attacking creature makes a athletics save of (8 + Str + paladin level) or is dissarmed
+- Your brace reaction is upgraded from +2 AC to +3 AC and you can provide this bonus to allies within 1 tile instead of yourself. If the attack misses and was a melee attack, the attacking creature makes a athletics save or is dissarmed
 
 
 # LVL 5

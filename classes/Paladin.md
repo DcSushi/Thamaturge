@@ -20,11 +20,11 @@
 # LVL 1
 
 ### Class DC:
-  - your class DC is equal to (5 + ATU + STR + total martial levels). it will be called upon any time a class feature or weapon attack forces another creature to make a saving throw.
+- your class DC is equal to (5 + ATU + STR + total martial levels). it will be called upon any time a class feature or weapon attack forces another creature to make a saving throw.
 
--  ### SMITE!:
-	- You may expend 10 mana to deal additional damage equal to your strength and your weapons damage die or dice with a melee or ranged weapon attack against a creature
-  		- the increased portion of damage is converted to radiant
+### SMITE!:
+- You may expend 10 mana to deal additional damage equal to your strength and your weapons damage die or dice with a melee or ranged weapon attack against a creature
+  - the increased portion of damage is converted to radiant
   
 - ## Choice feature: Divine Oath
 

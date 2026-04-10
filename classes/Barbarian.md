@@ -13,7 +13,7 @@
 ## Rage:
 - using an action point, you may enter a rage
 
-- during your rage you gain 2 strength and deal additional damage equal to your strength modifier on melee attacks a second time.
+- during your rage you gain 2 strength and deal additional damage equal to your strength modifier on melee attacks.
 
 - when you rage you gain temporary HP equal to 6 times your barbarian level
 
@@ -27,7 +27,7 @@
 
 * Unending rage:
    - when you are enraged and fall to 0 hp, you regain hp equal to 5 times your barbarian level once per short rest
-      for the next 3 turns after this, you deal 3 times your strength mod on weapon damage instead of 2 times
+      for the next 3 turns after this, you deal 2 times your strength mod on weapon damage instead of once
      
  OR
  

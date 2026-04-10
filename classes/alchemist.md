@@ -1,9 +1,10 @@
-2d6 hp
+### 2d6 hp
 
-8 tile speed
+### 8 tile speed
 
-+3 AC bonus
+### +3 DV bonus
 
+### 2 weapon proficiencies
 
 
 IDEAS:
@@ -14,3 +15,6 @@ IDEAS:
 - Materials are tracked via breaking them down into general element themed categories (probably 6 categories)
 - mind-based class. not spellcaster, so no spellcasting backgrounds
 - bonus to all tool checks
+
+
+# LVL 1:

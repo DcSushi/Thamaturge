@@ -21,3 +21,14 @@
 | long rifle | 20 piercing | [loaded](attributes/loaded.md) (2 AP) 1 round magazine | 2 | yes |
 | revolver | 12 piercing | [loaded](attributes/loaded.md) (1 AP for 2 rounds) 6 round magazine  | 1 | yes |
 | pocket pistol | 8 piercing | [loaded](attributes/loaded.md) 7 round magazine, 2 action reload  | 1 | yes |
+
+# SHIELDS
+
+| weapon | stats | attributes | requirements |
+| --- | --- | --- | --- |
+| buckler | +2 DV, +0 AR | improved brace/riposte | none | 
+| kite shield | +1 DV, +3 AR | improved brace w/AR | 11 STR |  
+| heater shield | +4 DV, +4 AR | pristine brace | 14 STR |  
+|  |  |  |  |  
+
+# ARMOR

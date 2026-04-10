@@ -5,6 +5,7 @@
 | dagger | 2d4 slashing | [swift](attributes/swift.md) | 1 | yes |
 | straightsword | 2d8 slashing | [versatile](attributes/versatile.md) (4d6) | versatile | both |
 | shortsword | 2d6 slashing | [parry](attributes/parry.md) | 1 | both |
+| cleaver | 3d4 slashing | something up to aiden | 1 | no |
 
 # RANGED WEAPONS
 

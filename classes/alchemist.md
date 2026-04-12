@@ -22,4 +22,5 @@ IDEAS:
   - you have a selection of magical components at your disposal organized into elemental categories [Lightning (L), Flame (F), Water (W), Air (A), Earth (E), Radiant (R), Necrotic (N)]
   - recipies are not particularly specific, being simplified into a number of each component required. ie: 2E 3F 1A
   - some components may be more complicated, for instance a bundle of pheonix down might account for 2F 2A. This means that it will only be a viable component in brews which require 2F and 2A.
-  - consult the brewing table |link goes here|
+  - consult the [brewing table](.../Equipment/consumables/alchemy table.md)
+  - 

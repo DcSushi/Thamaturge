@@ -2,7 +2,7 @@
 | weapon | damage | attributes | hands | finesse? |
 | --- | --- | --- | --- | --- |
 | maul | 4d6 bludgeoning | [crusher](attributes/crusher.md) | 2 | no |
-| dagger | 2d4 slashing | [swift](attributes/swift.md) | 1 | yes |
+| dagger | 3d4 slashing | [swift](attributes/swift.md) | 1 | yes |
 | straightsword | 2d8 slashing | [versatile](attributes/versatile.md) (4d6) | versatile | both |
 | shortsword | 2d6 slashing | [parry](attributes/parry.md) | 1 | both |
 | cleaver | 4d4 slashing | Armor Pen (2) Damage ignores armor of 2 or less, and ignores 1 armor if armor is 3 or higher | 1 | no |

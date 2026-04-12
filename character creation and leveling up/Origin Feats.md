@@ -29,7 +29,7 @@ A typical player character will recieve 15-30 origin points at level 1, and furt
 
 Special Origin Defects may also be taken to increase the amount of origin points you may spend. whether certain origin feats or defects may be taken is up to DM discretion.
 
-As a general rule, you may not take features which negate the penalty of a feature, and vice versa.
+As a general rule, you may not take features which negate the penalty of a defect, or vice versa
 
 1) breath weapon: (possibly slightly higher cost for unique elements) - (6)
 2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - (3)

@@ -67,41 +67,41 @@ As a general rule, you may not take features which negate the penalty of a featu
 28) beautiful: you roll against a lower DC for social checks and saves - (3)
 29) heightened regeneration (physical): you gain more health from short rests. physical status effects have their durations reduced by 25% (status effects still last a minimum of 1 round) - (5)
 30) heightened regeneration (magical): you gain more mana from short rests. Reduced duration of spell applied to you and of magical status effects by 25% (status effects still last a minimum of 1 round) - (5)
-31) vampiric ability: may take a special action to make an unarmed strike against a bleeding creature. on a hit you heal (scales with level) and deal low damage. Fresh blood (has not been outside the body for over 1 minute) is the only blood which nourishes you in this way.
+31) vampiric ability: may take a special action (1AP) to make an unarmed strike against a bleeding creature. on a hit you heal (scales with level) and deal low damage. Fresh blood (has not been outside the body for over 1 minute) is the only blood which nourishes you in this way.
     
-      If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved. - (8)
-32) Improved sprint: your dash actions grant an additional tile of movement - (4)
-33) frog tongue: you have a tounge which can be shot up to 4 tiles away (20ft) with 2 action points to attempt to steal (stealth) an equipped or unequiped item, or to disarm a creature (they make an athletics save agianst 12 + your level) - (5)
-34) some way to become goop and slip thru cracks/doors: - (9)
-35) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost
-36) Heightened carrying capacity: worn or carried items are counted as being half as heavy for you. talk with your GM about whether or not a precise inventory will be kept before taking this feature. - (4)
-37) water breathing: you can breathe underwater. - (3)
-38) magical respiration: you no longer need to breathe or you can breathe in any circumstances. - (5)
-39) aquatic agility: you have a swim speed equal to your walking speed and you may preform actions without penalty (unless water is specifically the issue, such as using the ability of a cybernetic armament) - (5)
-40) quick learning (combat): if you have seen a creature use an ability before, your DV is increased against it by 3, and all saving throws against it are increased by 2. - (8)
-41) thorns/spike armor: cannot equip most armors. creatures which hit you with a melee attack take damage. effects applied to natural/prosthetic weapons are applied to spike armor. - (5)
-42) improved metabolism (mental): you may spend an additional amount of time during a rest to meditate. if you do, you gain the benefit of having consumed extra rations during that short rest.
-43) improved metabolism (physical):
-44) improved skeleton: reduced damage taken from physical damage, fall damage. it is harder to injure you (when you take a major injury, reduce it to a minor injury. if you take a minor injury, roll 1d6. on a 5 or 6, you are not injured) - (8)
-45) internal catalyst: you do not require a wand or other catalyst to cast spells, you also do not need to speak incantation or do gestures as part of casting costs. creatures may still notice you are casting spells (define if your eyes glow, hair is blown, other phenomena). only take this if you have sufficient levels in a spellcasting class. (up to GM discretion) - (5)
-46) mineral diet (or other unique diet): you do not need to use rations in order to gain any benefits food would provide so long as your chosen substance is nearby (all plant matter, or minerals, etc) - (3)
-47) elemental affinity: your spells of one element are improved (damage consistency), and the effects of spells of the opposite element are reduced (probably also dmg consistency) - (5)
-48) telepathy: you may speak with creatures mentally from upto 500ft (100 tiles) away, and you may speak with other creatures who are telepathic from 10 times that distance. creatures do not need to share a language to speak this way. - (6)
-49) telekenesis: you can interact with items which arent being worn or carried from up to 10 tiles away (~50ft). you still must make steath checks to take items. Any checks you might make which would require strength instead use your mind stat. - (6)
-50) bioluminescence: you have full control over light emitting from some part of your body. you can control the radius of the light from 5-360 degrees using an action point. you can also control the distance this light eminates anywhere from 0 tiles to 15 (0-75ft, 0-25m) - (2)
-51) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc) - (4)
-52) camoflauge: 
-53) darkness proficiency: at night you have increased DV (+2), increased initiative (+2), and increased saving throws (+1) - (4)
-54) gas production:
-55) silver tongue: You have a bonus to deception related diplomacy checks and you purchase/sell items for 15% less/more on a successful contested diplomacy check between yourself and the seller/buyer. - (5)
-56) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing. what materials you can burrow through is up to DM discretion, but this feat is balanced around exclusively dirt/snow - (4)
-57) focused aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you. - (5)
-58) lengthened casting: spell attack rolls have infinite range for you, with attacks over double the normal range being made with penalty. targeted spells have increased range. - (5)
-59) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. - (5)
-60) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area. - (5)
-61) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. - (4)
-62) shapeshifter: you may spend 30 minutes reshaping your body to gain a different origin feature with a cost of 7 or less until you use this feature again. - (10)
-63) charm resistance: charms of tier 2 and below do not affect you. charms of tier 3 and higher have a reduced DC of 5 for checks and saves associated with them.. - (7)
+      If you have a natural weapon and hit with it, you may immedaitely pay the action cost of this ability, dealing a garunteed hit (not crits or bonus dmg from accuracy). If you successfuly heal from this ability, your next rest within 8 hours is greatly improved. this ability may only be used once per turn. you may use this a maximum number of times equal to your fortitude mod every day. - (8)
+33) Improved sprint: your dash actions grant an additional tile of movement - (4)
+34) frog tongue: you have a tounge which can be shot up to 4 tiles away (20ft) with 2 action points to attempt to steal (stealth) an equipped or unequiped item, or to disarm a creature (they make an athletics save agianst 12 + your level) - (5)
+35) some way to become goop and slip thru cracks/doors: - (9)
+36) lowered weight: for the purposes of weight-based effects, you are counted as being one size smaller. - no cost
+37) Heightened carrying capacity: worn or carried items are counted as being half as heavy for you. talk with your GM about whether or not a precise inventory will be kept before taking this feature. - (4)
+38) water breathing: you can breathe underwater. - (3)
+39) magical respiration: you no longer need to breathe or you can breathe in any circumstances. - (5)
+40) aquatic agility: you have a swim speed equal to your walking speed and you may preform actions without penalty (unless water is specifically the issue, such as using the ability of a cybernetic armament) - (5)
+41) quick learning (combat): if you have seen a creature use an ability before, your DV is increased against it by 3, and all saving throws against it are increased by 2. - (8)
+42) thorns/spike armor: cannot equip most armors. creatures which hit you with a melee attack take damage. effects applied to natural/prosthetic weapons are applied to spike armor. - (5)
+43) improved metabolism (mental): you may spend an additional amount of time during a rest to meditate. if you do, you gain the benefit of having consumed extra rations during that short rest.
+44) improved metabolism (physical):
+45) improved skeleton: reduced damage taken from physical damage, fall damage. it is harder to injure you (when you take a major injury, reduce it to a minor injury. if you take a minor injury, roll 1d6. on a 5 or 6, you are not injured) - (8)
+46) internal catalyst: you do not require a wand or other catalyst to cast spells, you also do not need to speak incantation or do gestures as part of casting costs. creatures may still notice you are casting spells (define if your eyes glow, hair is blown, other phenomena). only take this if you have sufficient levels in a spellcasting class. (up to GM discretion) - (5)
+47) mineral diet (or other unique diet): you do not need to use rations in order to gain any benefits food would provide so long as your chosen substance is nearby (all plant matter, or minerals, etc) - (3)
+48) elemental affinity: your spells of one element are improved (damage consistency), and the effects of spells of the opposite element are reduced (probably also dmg consistency) - (5)
+49) telepathy: you may speak with creatures mentally from upto 500ft (100 tiles) away, and you may speak with other creatures who are telepathic from 10 times that distance. creatures do not need to share a language to speak this way. - (6)
+50) telekenesis: you can interact with items which arent being worn or carried from up to 10 tiles away (~50ft). you still must make steath checks to take items. Any checks you might make which would require strength instead use your mind stat. - (6)
+51) bioluminescence: you have full control over light emitting from some part of your body. you can control the radius of the light from 5-360 degrees using an action point. you can also control the distance this light eminates anywhere from 0 tiles to 15 (0-75ft, 0-25m) - (2)
+52) magical sense: you can sense magic within 5 tiles of you (~30ft) and you know the mystic branch from which it originates (godly, beastly, occult, etc) - (4)
+53) camoflauge: 
+54) darkness proficiency: at night you have increased DV (+2), increased initiative (+2), and increased saving throws (+1) - (4)
+55) gas production:
+56) silver tongue: You have a bonus to deception related diplomacy checks and you purchase/sell items for 15% less/more on a successful contested diplomacy check between yourself and the seller/buyer. - (5)
+57) burrowing: you may spend action points to begin burrowing. you have heavily reduced movespeed while burrowing. what materials you can burrow through is up to DM discretion, but this feat is balanced around exclusively dirt/snow - (4)
+58) focused aim: removes distance based penalties for ranged attacks if there are no hostile creatures within 2 tiles of you. - (5)
+59) lengthened casting: spell attack rolls have infinite range for you, with attacks over double the normal range being made with penalty. targeted spells have increased range. - (5)
+60) Widened casting: roll the first damage dice for AoE spells twice, take the lower result. your damaging AoE spells have increased area. - (5)
+61) focused casting: roll the fist 2 damage dice for AoE spells first, take the higher results. your damaging AoE spells have reduced area. - (5)
+62) targeted injuries: you may choose which limb is injured when you injured a creature with a melee attack. - (4)
+63) shapeshifter: you may spend 30 minutes reshaping your body to gain a different origin feature with a cost of 7 or less until you use this feature again. - (10)
+64) charm resistance: charms of tier 2 and below do not affect you. charms of tier 3 and higher have a reduced DC of 5 for checks and saves associated with them.. - (7)
 
 ## ORIGIN DEFECTS
 

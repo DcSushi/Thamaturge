@@ -68,9 +68,8 @@
 OR
 
 - Supernatural strength:
-	- once per turn when you move, if you end your movement within 1 tile of a creature you may choose to make a contested strength check on which you have advantage
+	- once per turn when you move, if you end your movement within 1 tile of a creature you may choose to make a contested athletics check on which you have a +3 bonus
   		- if the targeted creature fails, they are knocked prone and are pushed 1 tile away, so long as they are at most, within 2 sizes of you
-		- for the duration you gain 4 strength
 		- when you intercept a melee attack using the protect or brace reactions, the attacking creature has a -3 penalty to all attacks for their next 2 attacks
 
 OR

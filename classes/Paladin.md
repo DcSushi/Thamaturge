@@ -24,6 +24,13 @@
 ### Class DC:
 - your class DC is equal to (5 + ATU + STR/AGI + total martial levels). it will be called upon any time a class feature or weapon attack forces another creature to make a saving throw.
 
+### Lay on hands
+- with one action point, you may heal yourself or another creature within reach, using 1 mana per 2 hp healed, up to a maximum of 10 mana expended (+5 per level)
+- You can increase the cap by 10 by spending another action point, and double it by spending a minute casting lay on hands
+- if 10 or more mana is expended, you may also mend a minor injury or illness
+- if 30 or more mana is expended you mend a major injury or illness
+- if 50 or mana is expended you may regrow the limb of the affected creature
+
 ### SMITE!:
 - You may expend 5 mana to double your weapon's damage for a single weapon attack. This double damage affects critical damage, but not other bonus damage effects like spells which deal their own damage when you land an attack.
   - the increased portion of damage is converted to radiant
@@ -46,14 +53,6 @@
 
 - ## Commanding presence
 	- while you contribute to a surrounded or fortified condition, they gain or lose additional DV equal to your Attunement modifier
-
-- ## Lay on hands
-	- with one action point, you may heal yourself or another creature within reach, using 1 mana per 2 hp healed, up to a maximum of 10 mana expended (+5 per level)
-	- You can increase the cap by 10 by spending another action point, and double it by spending a minute casting lay on hands
-	- if 10 or more mana is expended, you may also mend a minor injury or illness
-		- if 30 or more mana is expended you mend a major injury or illness
-		- if 50 or mana is expended you may regrow the limb of the affected creature
-	
 
 # LVL 3
 

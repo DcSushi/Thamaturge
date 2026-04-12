@@ -19,7 +19,7 @@
 17) levitation (weak): you hover an inch above all surfaces which allows your footsteps to be invisible and allows walking on water - (5)
 18) expert forager:
 19) improved jumping: - (7)
-20) permanent injury/birth defect: you are counted as having 1 major injury (treated) in an atturibute of your choice. - (4)
+20) permanent injury/birth defect: you are counted as having 1 major injury (treated) in an atturibute of your choice. this injury cannot be cured unless you choose to loose the defect points from this defect + (4)
 
 
 

@@ -52,7 +52,7 @@
 # LVL 2
 
 - ## Commanding presence
-	- while you contribute to a surrounded or fortified condition, they gain or lose additional DV equal to your Attunement modifier
+	- while you contribute to a surrounded or fortified condition, affected creatures gain or lose additional DV equal to your Attunement modifier
 
 # LVL 3
 

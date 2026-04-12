@@ -58,7 +58,6 @@
 
 ## Choice feature: Divine boon
 
-### once per long rest you may use 2 action points to enchant yourself with divine power for the next 12 hours
 - you may choose from 3 supernatural blessings when you use this feature:
 	
 - Blood of ambrosia:

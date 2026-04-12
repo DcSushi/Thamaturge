@@ -16,5 +16,10 @@ IDEAS:
 - mind-based class. not spellcaster, so no spellcasting backgrounds
 - bonus to all tool checks
 
-
 # LVL 1:
+
+## Brewing:
+  - you have a selection of magical components at your disposal organized into elemental categories (Electric (E), Flame (F), Water (W), Air (A), Earth (G), Radiant (R), Necrotic (N))
+  - recipies are not particularly specific, being simplified into a number of each component required. ie: 2E 3F 1A
+  - some components may be more complicated, for instance a bundle of pheonix down might account for 2F 2A. This means that it will only be a viable component in brews which require 2F and 2A.
+  - consult the brewing table |link goes here|

@@ -23,7 +23,7 @@
 
 # LVL 2
 
-## Choice feature: Barbaric Lineage
+## Choice feature: Font of Rage
 
 * Unending rage:
    - when you are enraged and fall to 0 hp, you regain hp equal to 5 times your barbarian level once per short rest

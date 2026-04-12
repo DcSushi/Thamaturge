@@ -36,12 +36,13 @@ IDEAS:
   - you may brew up to 2 potions during a short rest, and may brew any amount of potions up to your maximum stockpile during a long rest
   - your maximum stockpile at level one is 5 potions. this will increase as you level up as seen on the upgrades section of the level up chart
 
-## Choice Feature
+## Choice Feature - Alchemical Specialty:
 
 ### Ol' Betsy
   - SHOTGUN!!!!!!!
   - the shells of this shotgun may be imbued with the effects of your potions. in order to do this, simply specify that the potion is taking the form of a shell for Ol' Betsy when you brew it.
   - Ol' Betsy has a maximum of one shell in the chamber and may be reloaded for 1AP. when you do so, decide in advance what kind of shell you're loading into Ol' Betsy. if the world has firearms as a commonplace, shells may be purchased for 3 copper each, and you may be able to find shells with potions imbued into them for 1 gold piece per level requirement of the brew (as seen on the [Alchemy table](https://github.com/DcSushi/Thamaturge/blob/main/Equipment/consumables/alchemy%20table.md)).
   - Ol' Betsy deals 16 piercing damage to creatures within 4 tiles, 12 within 8 tiles, 8 within 24 tiles, and 0 to creatures further than 24 tiles away.
+  - improvements to Ol' Betsy can be taken at various levels. Find more specifics about this under the "other" tab of the alchemist level up chart, and under [Ol' Betsy]()'s page
 
 

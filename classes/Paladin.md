@@ -6,6 +6,8 @@
 
 6 tile speed
 
+3 weapon proficiencies
+
 |Lvl|feature|upgrades|
 |--|----|----|
 |1| SMITE! | none |

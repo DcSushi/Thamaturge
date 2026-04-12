@@ -22,7 +22,7 @@ IDEAS:
 | 2 | quick fingers | stockpile (6) | |
 | 3 | | | |
 | 4 | | stockpile (7) | |
-| 5 | | brewing short rest potions (3) | |
+| 5 | | brews per short rest (3) | |
 
 
 # LVL 1:

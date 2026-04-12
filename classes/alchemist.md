@@ -45,4 +45,10 @@ IDEAS:
   - Ol' Betsy deals 16 piercing damage to creatures within 4 tiles, 12 within 8 tiles, 8 within 24 tiles, and 0 to creatures further than 24 tiles away.
   - improvements to Ol' Betsy can be taken at various levels. Find more specifics about this under the "other" tab of the alchemist level up chart, and under [Ol' Betsy](https://github.com/DcSushi/Thamaturge/blob/main/Equipment/Ol'%20Betsy.md)'s page
 
+### 
+
+###
+
+
+
 

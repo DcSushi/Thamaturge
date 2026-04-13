@@ -17,11 +17,11 @@
   
 | weapon | damage | attributes | hands | finesse? |
 | --- | --- | --- | --- | --- |
-| shortbow | 2d8 piercing | [agile](attributes/agile.md) | 2 | yes |
-| longbow | 2d8 piercing + str | [hefty](attributes/hefty.md) | 2 | yes |
-| long rifle | 20 piercing | [loaded](attributes/loaded.md) (2 AP) 1 round magazine | 2 | yes |
-| revolver | 12 piercing | [loaded](attributes/loaded.md) (1 AP for 2 rounds) 6 round magazine  | 1 | yes |
-| pocket pistol | 8 piercing | [loaded](attributes/loaded.md) 7 round magazine, 2 action reload  | 1 | yes |
+| shortbow | 2d8 piercing | [agile]() | 2 | yes |
+| longbow | 2d8 piercing + str | [hefty]() | 2 | yes |
+| long rifle | 20 piercing | [loaded]() (2 AP) 1 round magazine | 2 | yes |
+| revolver | 12 piercing | [loaded]() (1 AP for 2 rounds) 6 round magazine  | 1 | yes |
+| pocket pistol | 8 piercing | [loaded]() 7 round magazine, 2 action reload  | 1 | yes |
 
 # SHIELDS
 

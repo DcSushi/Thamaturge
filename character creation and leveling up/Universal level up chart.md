@@ -4,12 +4,12 @@
 
 |Lvl|skill points|attribute points|unique|accuracy bonus|
 |---|---|---|---|---|
-|1| 4 | none | none | 2 |
-|2| 2 | 1 (free) | none | 2 |
-|3| 2 | coinflip every attribute | none | 3 |
-|4| 3 | 1 (free) | none | 3 |
-|5| 3 | none | +1 action point | 4 |
-|6| 3 | coinflip every attribute | none | 4 |
+|1| 4 | none | none | 3 |
+|2| 2 | 1 (free) | none | 3 |
+|3| 2 | coinflip every attribute | none | 4 |
+|4| 3 | 1 (free) | none | 4 |
+|5| 3 | none | +1 action point | 5 |
+|6| 3 | coinflip every attribute | none | 5 |
 |7|3|||
 |8|4|||
 |9|4|||

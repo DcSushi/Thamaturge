@@ -27,9 +27,9 @@
 
 | weapon | stats | attributes | requirements |
 | --- | --- | --- | --- |
-| buckler | +2 DV, +0 AR | improved brace/riposte | none | 
-| kite shield | +1 DV, +3 AR | improved brace w/AR | 11 STR |  
-| heater shield | +4 DV, +4 AR | pristine brace | 14 STR |  
+| buckler | +2 DV, +0 AR | [riposte]() | none | 
+| kite shield | +1 DV, +3 AR | [kite brace]() [protect]() | 11 STR |  
+| heater shield | +4 DV, +4 AR | [heater brace]() [protect]() | 14 STR |  
 |  |  |  |  |  
 
 # ARMOR

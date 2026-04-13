@@ -35,5 +35,11 @@
 # NATURAL/PROSTHETIC WEAPONS
 | baseline stats | damage | features | hands | finesse? | 
 | --- | --- | --- | --- | --- |
-| | 2d6 + STR or 2d6 (finesse) | versatile (3d6 + STR) | any. could be teeth | either |
+| natural melee | 2d6 + STR or 2d6 (finesse) | versatile (3d6 + STR) | any. could be teeth | either |
+
+| Upgrade | effects | requirements/cost |
+| bleed effect | on hit, creature makes vitality save (8 + STR or AGI + total level) or takes bleed damage equal to AGI/STR (same attribute used for saving throw) at the start of it's next 3 turns. | 4 origin points |
+| paralysis venom | oh hit, creature makes vitality save (8 + ATU + total level) or gains 1 less action point at the start of it's next turn. | 4 origin points |
+| elemental bonus | on hit, deals 1d4 extra damage of a chosen element | 3 origin points |
+
 

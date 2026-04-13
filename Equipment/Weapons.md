@@ -28,8 +28,8 @@
 | weapon | stats | attributes | requirements |
 | --- | --- | --- | --- |
 | buckler | +2 DV, +0 AR | [riposte]() | none | 
-| kite shield | +1 DV, +3 AR | [kite brace]() [protect]() | 11 STR |  
-| heater shield | +4 DV, +4 AR | [heater brace]() [protect]() | 14 STR |  
+| kite shield | +2 DV, +3 AR | [kite brace]() [protect]() | 11 STR |  
+| heater shield | +3 DV, +4 AR | [heater brace]() [protect]() | 14 STR |  
 |  |  |  |  |  
 
 # ARMOR

@@ -1,11 +1,11 @@
 # MELEE WEAPONS
 | weapon | damage | attributes | hands | finesse? |
 | --- | --- | --- | --- | --- |
-| maul | 4d6 + STR bludgeoning | [crusher](attributes/crusher.md) | 2 | no |
-| dagger | 3d4 slashing | [swift](attributes/swift.md) | 1 | yes |
-| straightsword | 2d6 + STR slashing | [versatile](attributes/versatile.md) (4d6 + STR) | versatile | both |
-| shortsword | 2d6 + STR slashing | [parry](attributes/parry.md) | 1 | both |
-| cleaver | 3d4 + STR slashing | Armor Pen (2 + STR) Damage ignores armor of X or less, and ignores (STR) armor if armor is (X+1) or higher | 1 | no |
+| maul | 4d6 + STR bludgeoning | [Crusher]() | 2 | no |
+| dagger | 3d4 slashing | [Swift]() | 1 | yes |
+| straightsword | 2d6 + STR slashing | [Versatile]() (4d6 + STR) | versatile | both |
+| shortsword | 2d6 + STR slashing | [Parry]() | 1 | both |
+| cleaver | 3d4 + STR slashing | [Armor Cleave]() (2 + STR) Damage ignores armor of X or less, and ignores (STR) armor if armor is (X+1) or higher | 1 | no |
 
 # RANGED WEAPONS
 
@@ -32,4 +32,8 @@
 | heater shield | +3 DV, +4 AR | [heater brace]() [protect]() | 14 STR |  
 |  |  |  |  |  
 
-# ARMOR
+# NATURAL/PROSTHETIC WEAPONS
+| baseline stats | damage | features | hands | finesse? | 
+| --- | --- | --- | --- | --- |
+| | 2d6 + STR or 2d6 (finesse) | versatile (3d6 + STR) | any. could be teeth | either |
+

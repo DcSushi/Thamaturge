@@ -7,13 +7,16 @@ KEY ATTRIBUTES:
 - blank slate style spells which can be cast with any element (modular spell casting)
 - elements come in pairs such as thunder/force, fire/cold, necrotic/healing, and radiant/poison. absorbing one will typically create effects of the paired element.
 
-- ## 2d8 hp
+## 2d10 hp
 
-- ## 6 tiles movement
+## 6 tiles movement
 
-- ## 5 max mana per level
+## 5 max mana per level
 
-- ## 2 weapon proficiencies 
+## 2 weapon proficiencies
+
+## 1 DV bonus 
+
 
 - does not gain mana on long or short rests
 

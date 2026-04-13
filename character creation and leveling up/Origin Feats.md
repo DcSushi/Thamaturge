@@ -34,11 +34,7 @@ As a general rule, you may not take features which negate the penalty of a defec
 1) breath weapon: (possibly slightly higher cost for unique elements) - (6)
 2) Tail (prehensile): can lower action cost for item interaction (doors, levers, potions from backpack, etc) - (3)
 3) Tail (balance): you take lowered effects from difficult terrain and you have a bonus to focus saves. - (4)
-4) natural/prostetic weapon: this feature can be purchased multiple times, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. - (4)
-
-    4b)
-
-    4c) poison or other status effect: small debuffs + bonus elemental dmg on natural weapon - (4 additional cost) 
+4) natural/prostetic weapon: this feature can be purchased multiple times, reducing the cost by 50% for the purchases after the first. Choice of physical dmg type. DMG competes with light weapons, OR can spend additional points to heighten dmg. You may find stats and purchasable upgrades for your natural weapon under the [Equipment](https://github.com/DcSushi/Thamaturge/blob/main/Equipment/Weapons.md) page. - (4)
 5) elemental resistance: has environmental bonuses for certain elements, such as hot and cold, but does not change price. Can be purchased multiple times. - (6)
 6) opposable toes: you got monkey toes bro you can grab shit wit em - (3)
 7) x

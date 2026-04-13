@@ -26,7 +26,7 @@
 
 ## multiattack penalty:
  - when you make more than one attack action in a turn, your weapon attacks get pregressively less accurate.
- - -5 accuracy for every attack roll
+ - -4 accuracy for every attack roll
  - accuracy penalty is tracked seperately for every weapon if you are dual weilding
    
 ## dual wielding:

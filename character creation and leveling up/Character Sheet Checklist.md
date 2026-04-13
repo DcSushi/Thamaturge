@@ -30,7 +30,7 @@
 
 - dictates your attunement to magic inherrently, via soul or blood or whatever magic system your game uses. Useful for increasing the amount of times you can use class features per rest, increasing the effects of equipped magic items, and for keeping a calm mind in tense situations, magical and not.
 
-## CLASS
+## CLASS and class features
 
   - self explanatory why this is important
 
@@ -48,6 +48,6 @@
 
   - these are informed by your core attributes, and determine what your character will have proficiency with, being referenced during skill checks (athletics determines how well you can push a boulder/climb a wall) and saving throws (focus will determine how likely you are to hold your focus when struck)
 
-## HP, Mana, Speed, Dodge Value (DV), Armor (AR), Action points, etc.
+## HP, Mana, Speed, Dodge Value (DV), Armor (AR), Action points, accuracy bonus, class DC, misc actions/reactions
 
   - these trackers are essential for all combats! dont go into one without them.

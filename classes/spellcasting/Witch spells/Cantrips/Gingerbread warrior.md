@@ -1,6 +1,6 @@
 1 actions
 
-1 tile range (4 + str range)
+6 tile range
 
 2 mana
 

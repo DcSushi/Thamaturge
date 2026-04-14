@@ -15,6 +15,8 @@
 
 # LVL 1
 
+## Class DC: (10 + CORE + total level)
+
 ## choice feature
 
 ### hexblade: 

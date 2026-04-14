@@ -20,7 +20,7 @@
 ### hexblade: 
 
  + When you land a melee attack, you may expend additional action points equal to another spell's action cost minus 1 to instantly cast the spell on the struck creature.
-   + if this spell is a spell attack, it deals garunteed damage, and if it requires a single target saving throw, that creature has a penalty equal to your combined spellcaster levels plus 3.
+   + if this spell is a spell attack, it deals garunteed damage, and if it requires a single target saving throw, that creature has a penalty equal to your combined spellcaster levels plus your ATU mod.
    + you have an additional weapon proficiency
    + you must expend an action point in order to use this feature again
 

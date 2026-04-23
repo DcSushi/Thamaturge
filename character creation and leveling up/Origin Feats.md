@@ -58,7 +58,7 @@ As a general rule, you may not take features which negate the penalty of a defec
 23) size decrease: agility bonus. bonus to stealth. your size is small. (down from medium) - (6)
 24) more arms: 2 more arms - (10)
 25) xxx
-26) blindsight (tremor sense): 50ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. you can invest additional points for 50ft of range and slightly improved accuracy of the sense each (4)
+26) blindsight (tremor sense): 25ft of sense where you can detect creatures who are standing on ground or flapping wings etc. you do not know any specifics about their appearance, but know whether they are wearing heavy armor, their size, and other noteworthy and bulky features. you can invest additional points for 10ft of range and slightly improved accuracy of the sense each (4)
 27) blindsight (truesight): You have superman vision for 30 ft (6 tiles) - (5)
 28) beautiful: you roll against a lower DC for social checks and saves - (3)
 29) heightened regeneration (physical): you gain more health from short rests. physical status effects have their durations reduced by 25% (status effects still last a minimum of 1 round) - (5)

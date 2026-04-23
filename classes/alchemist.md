@@ -38,7 +38,7 @@ IDEAS:
     
 ## Class DC: (10 + MI + total level)
 
-## Choice Feature - Alchemical Specialty:
+## Choice Feature - Mad Science:
 
 ### Ol' Betsy
   - SHOTGUN!!!!!!!
@@ -51,6 +51,18 @@ IDEAS:
 
 ### 
 
+# LVL 2 (unfinished)
+
+## Quick fingers:
+  - you no longer need to spend action points to retrieve potions or any other one-handed item from your backpack/belt/pouch/etc.
+
+## Choice Feature - Alchemical Specialty:
+
+### beastly tonic:
+  - you gain access to all potion recipies with the "beastly tonic" requirement.
+  - They morph a creature which consumes it to gain attributes of a big burly bear or somethin
+
+### 
 
 
 

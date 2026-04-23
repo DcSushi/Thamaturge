@@ -42,3 +42,10 @@
 - Exploit Weakness:
   - for each debuff on an enemy you gain +2 accuracy against them.
   - if a debuff has been stacked multiple times, add +1 for each stack past the first
+ 
+# LVL 2 (unfinished)
+
+## Choice Feature:
+
+- when you take a dash action you no longer incur a movement penalty for ranged weapons until your next turn. You also add your ATU modifier to your DV against opportunity attacks until the end of your turn.
+- 

@@ -4,7 +4,7 @@
 
 ### 4 weapon proficiencies
 
-### 3 DV bonus
+### 2 DV bonus
 
 - # LVL 1 
 

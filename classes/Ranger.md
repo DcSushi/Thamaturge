@@ -4,7 +4,7 @@
 
 ### 0 mana 
 
-### +3 DV bonus
+### +2 DV bonus
 
 ### 3 weapon proficiencies
 

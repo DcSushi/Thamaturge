@@ -25,6 +25,8 @@
 
 # SHIELDS
 
+- shield dodge value and armor value only applies when bracing 
+
 | weapon | stats | attributes | requirements |
 | --- | --- | --- | --- |
 | buckler | +2 DV, +0 AR | [riposte]() | none | 

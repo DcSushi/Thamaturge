@@ -30,8 +30,8 @@
 | weapon | stats | attributes | requirements |
 | --- | --- | --- | --- |
 | buckler | +2 DV, +0 AR |  | none | 
-| kite shield | +2 DV, +3 AR |  | 11 STR |  
-| heater shield | +3 DV, +4 AR |  | 14 STR |  
+| kite shield | +2 DV, +3 AR | -1 agility when equipped | 11 STR |  
+| heater shield | +3 DV, +4 AR | -2 agility when equipped | 14 STR |  
 |  |  |  |  |  
 
 # NATURAL/PROSTHETIC WEAPONS

@@ -1,7 +1,7 @@
 # MELEE WEAPONS
 | weapon | damage | attributes | hands | finesse? |
 | --- | --- | --- | --- | --- |
-| maul | 4d6 + STR bludgeoning | [Crusher]() | 2 | no |
+| maul | 4d6 + STR bludgeoning | [Crusher]() ignores 2 armor per your strength modifier | 2 | no |
 | dagger | 3d4 slashing | [Swift]() | 1 | yes |
 | straightsword | 2d6 + STR slashing | [Versatile]() (4d6 + STR) | versatile | both |
 | shortsword | 2d6 + STR slashing | [Parry]() | 1 | both |

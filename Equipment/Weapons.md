@@ -29,9 +29,9 @@
 
 | weapon | stats | attributes | requirements |
 | --- | --- | --- | --- |
-| buckler | +2 DV, +0 AR | [riposte]() | none | 
-| kite shield | +2 DV, +3 AR | [kite brace]() [protect]() | 11 STR |  
-| heater shield | +3 DV, +4 AR | [heater brace]() [protect]() | 14 STR |  
+| buckler | +2 DV, +0 AR |  | none | 
+| kite shield | +2 DV, +3 AR |  | 11 STR |  
+| heater shield | +3 DV, +4 AR |  | 14 STR |  
 |  |  |  |  |  
 
 # NATURAL/PROSTHETIC WEAPONS

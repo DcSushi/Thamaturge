@@ -21,7 +21,7 @@
 | longbow | 2d8 piercing + str | [hefty]() | 2 | yes |
 | long rifle | 16 piercing | [loaded]() (2 AP) 1 round magazine | 2 | yes |
 | revolver | 10 piercing | [loaded]() (1 AP for 2 rounds) 6 round magazine  | 1 | yes |
-| pocket pistol | 7 piercing | [loaded]() 7 round magazine, 2 action reload  | 1 | yes |
+| pocket pistol | 7 piercing | [loaded]() 7 round magazine, 2 action reload, [agile]()  | 1 | yes |
 
 # SHIELDS
 

@@ -1,11 +1,11 @@
 # MELEE WEAPONS
 | weapon | damage | attributes | hands | finesse? |
 | --- | --- | --- | --- | --- |
-| maul | 4d6 + STR bludgeoning | [Crusher]() ignores 2 armor per your strength modifier | 2 | no |
+| maul | 4d6 + STR bludgeoning | [Crusher](): ignores 2 armor per your strength modifier | 2 | no |
 | dagger | 3d4 slashing | [Swift]() | 1 | yes |
 | straightsword | 2d6 + STR slashing | [Versatile]() (4d6 + STR) | versatile | both |
-| shortsword | 2d6 + STR slashing | [Parry]() | 1 | both |
-| cleaver | 3d4 + STR slashing | [Armor Cleave]() (2 + STR) Damage ignores armor of X or less, and ignores (STR) armor if armor is (X+1) or higher | 1 | no |
+| shortsword | 2d6 + STR slashing | [Parry](): when a creature misses you with a melee attack, you may make a melee weapon attack against them with 1 reaction point | 1 | both |
+| cleaver | 3d4 + STR slashing | [Armor Cleave](): (2 + STR) Damage ignores armor of X or less, and ignores (STR) armor if armor is (X+1) or higher | 1 | no |
 
 # RANGED WEAPONS
 

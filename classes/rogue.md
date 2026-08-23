@@ -29,7 +29,7 @@
 
 ## Choice feature:
 
-- Crippling Critical:
+- Crippling Critical: **NEEDS TO BE A HIGHER LEVEL FEATURE**
    + when you exceed a creatures DV when attacking them, you may reroll dice from the bonus damage if your weapon uses strength, or if your weapon uses agility you may apply one of the following effects:
      - heavy bleed: instead of dealing the bonus damage now, when the affected creature starts it's next 3 turns, it takes damage equal to half of that value.
      - hobble: for every 3 bonus dmg, you may reduce their movespeed by 1 tile on their next turn.
@@ -38,7 +38,7 @@
    + When you make an attack against a creature you are hidden from you gain accuracy equal to your attunement modifier. On a hit, the creature must make a Vitality save against your class DC with a penalty equal to your attunement modifier.
      - a creature that fails the save takes a major injury to their agility (-5 agility and they have 40% reduced negative max HP)
 
-- Exploit Weakness:
+- Exploit Weakness: **NEEDS TO BE A HIGHER LEVEL FEATURE**
   - for each debuff on an enemy you gain +2 accuracy against them.
   - if a debuff has been stacked multiple times, add +1 for each stack past the first
  

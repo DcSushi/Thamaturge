@@ -31,7 +31,7 @@
 - if 30 or more mana is expended you mend a major injury or illness
 - if 50 or mana is expended you may regrow the limb of the affected creature
 
-### SMITE!:
+### SMITE!: ** TOO COSTLY AND TOO BIG OF A BONK **
 - You may expend 5 mana to double your weapon's damage for a single weapon attack. This double damage affects critical damage, but not other bonus damage effects like spells which deal their own damage when you land an attack.
   - the increased portion of damage is converted to radiant
   
